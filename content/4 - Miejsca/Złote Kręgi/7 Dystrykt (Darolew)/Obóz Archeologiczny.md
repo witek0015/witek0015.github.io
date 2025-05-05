@@ -1,0 +1,2 @@
+#miejsce  
+Terisare, niegdyś nazywane .... obecnie ruiny, znajduje się tam obóz badawczy, w którym badania archeologiczne na temat starożytnych technologii przeprowadzają [[Malzra i Mishra]] i [[Malzra i Mishra]], pod czujnym okiem [[Krwawnik]]

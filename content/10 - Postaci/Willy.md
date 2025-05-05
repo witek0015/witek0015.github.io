@@ -1,0 +1,2 @@
+#dead 
+Członek Frat Pack. Zachorował na Pthisis, tak jak jego matka, która to odeszła w wieku 20 lat, dlatego postanowił rzucić wszystko co złe i pogodzić się ze swoją rodziną i swoją nadchodzącą śmiercią. 

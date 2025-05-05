@@ -1,0 +1,1 @@
+Magowie **Domu Dimir** oraz uczeni z Lubrzegu wprowadzają **magiczne maszyny drukarskie**, które pozwalają na **szybsze kopiowanie ksiąg, dokumentów i gazet**. To wydarzenie daje początek **Głosie Dimei**, pierwszej regularnie wydawanej gazecie w historii kontynentu.

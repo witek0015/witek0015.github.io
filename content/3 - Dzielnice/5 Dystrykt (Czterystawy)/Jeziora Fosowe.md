@@ -1,0 +1,3 @@
+#dzielnica 
+Miejsca:
+[[Wrak Hamiry]]

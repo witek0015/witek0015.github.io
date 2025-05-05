@@ -1,0 +1,2 @@
+#rakdos
+Poszukuje [[Kieł Rakdosa]]

@@ -1,0 +1,1 @@
+Po upadku tyranii Bezgłowego jeszcze przez niemal **200 lat** dochodzi do serii **lokalnych bitew**, w których poszczególne miasta próbują odbudować swoją pozycję. **Ostatecznie Krania, Lubrzeg i Darolew podpisują Wielki Pakt**, który **formalnie kończy epokę wojen** i kładzie fundamenty pod **Odrodzenie**.

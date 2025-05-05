@@ -1,0 +1,1 @@
+Kolejne zarazy i rzezie pustoszą Złote Kręgi. **Czerypel**, niegdyś neutralne miasto uzdrowicieli, staje się bastionem pomocy humanitarnej. Jego lekarze wyruszają na tereny objęte wojną, lecz nie zawsze wracają. Miasta, które wcześniej walczyły między sobą, **rozpoczynają pierwsze rozmowy pokojowe**, dostrzegając, że brak współpracy prowadzi do zagłady.
