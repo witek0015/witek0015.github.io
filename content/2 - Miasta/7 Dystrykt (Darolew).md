@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[darolew baner.jpg]]"
 banner_y: 0.009
+publish: "true"
 ---
 >[!quote] „Kto nie widział dzikich sztandarów Darolewa powiewających nad bramą główną, ten nie zrozumie, jak gorące jest serce tego miasta. Z jednej strony orkiestra wojskowa grzmi, z drugiej migoczą płomienie kuźni w Żelaznym Placu, a w tle pobrzękują ciężkie wozy z węglem. Darolew to twierdza zbudowana na krwi i metalu, lecz, co śmieszniejsze, wystarczy przekroczyć granicę Złotej Ćwiartki, by zobaczyć przepych rodem z najbogatszych rezydencji Krania. Oto właśnie darolewska natura – twarda i wyrafinowana jednocześnie.”
 >— _Pierre Jeoun Tzy, gnomi kronikarz i miłośnik kontrastów_

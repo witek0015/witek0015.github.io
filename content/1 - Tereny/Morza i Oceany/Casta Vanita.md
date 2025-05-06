@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[casta vanita.jpg]]"
 banner_y: 0.265
+publish: "true"
 ---
 >[!quote] „Casta Vanita? Jeśli chcesz umrzeć w spektakularny sposób, to z pewnością najlepsze miejsce. Gęsta mgła, szept grobów i echa dawnych uczt. No, i jeszcze jeden mały szczegół – nie wszyscy mieszkańcy tej wyspy pamiętają, że powinni być martwi.”
 >*—Pierre Jeoun Tzy, samozwańczey badacz legend i tropiciel upiornych ruin*

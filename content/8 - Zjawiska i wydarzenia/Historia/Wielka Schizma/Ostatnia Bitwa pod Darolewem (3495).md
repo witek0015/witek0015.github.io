@@ -3,6 +3,7 @@ banner: "[[ostatnia bitwa pod darolewem.png]]"
 banner_y: 0.27
 tags:
   - done
+publish: "true"
 ---
 >[!quote] "Kiedy zapłonęły mury, kiedy zgasły rogi bojowe, kiedy ostatni wojownik padł na kolana – jeden minotaur wciąż stał. I to wystarczyło, by zakończyć wojnę."
 >— _Pierre Jeoun Tzy, gnomi kronikarz, który twierdzi, że znał świadków wydarzenia_

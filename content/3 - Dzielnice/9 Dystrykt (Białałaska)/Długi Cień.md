@@ -3,10 +3,9 @@ tags:
   - dzielnica
 banner: "[[dlugi cien.jpg]]"
 banner_y: 0.423
-publish: "true"
 ---
 >[!quote] „W Długim Cieniu każdy znajdzie miejsce na wieczny odpoczynek. Niektórzy szybciej, niż by tego chcieli. Są też tacy, którzy wolą nie sprawdzać, czy ich grób już na nich czeka.”
->— *Pierre Jeoun Tzy, gnomi eksplorator, który nie planuje jeszcze umierać.*
+>— Pierre Jeoun Tzy, gnomi eksplorator, który nie planuje jeszcze umierać.
 
 Długi Cień to najbardziej milcząca i refleksyjna dzielnica Białałaski, choć dla wielu jej obecność jest tak samo namacalna, jak każdej innej części miasta. Pełna monumentalnych cmentarzy, rodzinnych grobowców i starożytnych krypt, dzielnica ta jest domem zarówno dla umarłych, jak i dla tych, którzy dbają o ich pamięć. Wśród marmurowych posągów i wiekowych nagrobków, wierni oddają hołd przodkom, odprawiają rytuały przejścia i poszukują duchowego ukojenia.
 

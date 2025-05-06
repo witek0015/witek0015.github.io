@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[lubrzeg.jpg]]"
 banner_y: 0.484
+publish: "true"
 ---
 > [!quote] „Lubrzeg – surowa perła prawa, gdzie brutalna architektura przytłacza, a jednocześnie inspiruje. To miejsce, gdzie dźwięk młota sędziego rozbrzmiewa jak bicie serca świata – równomiernie, nieubłaganie, w zgodzie z odwiecznymi zasadami.”
 > — _Pierre Jeoun Tzy, autor, który nie raz i nie dwa musiał tłumaczyć się przed radą za swoje „interpretacje faktów”_.

@@ -3,7 +3,6 @@ tags:
   - dzielnica
 banner: "[[blekitna kotlina.jpg]]"
 banner_y: 0.608
-publish: "true"
 ---
 >[!quote] „Błękitna Kotlina to jedno z tych miejsc, gdzie nawet najtwardszy pionier pozwoli sobie na chwilę wzruszenia. Ale pamiętajcie, że pod tym spokojnym błękitem kryją się tajemnice. A jeśli już usłyszycie szelest z głębin – cóż, lepiej udawajcie, że to tylko wiatr.”
 >*– Pierre Jeoun Tzy, gnomi eksplorator, i odkrywca jezior, które mogą i chcą was zaskoczyć*

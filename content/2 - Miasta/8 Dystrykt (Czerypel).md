@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[czerypel.png]]"
 banner_y: 0.641
+publish: "true"
 ---
 > [!quote] „Czerypel to serce natury, bijące w rytmie życia i magii. Każdy liść, każda gałąź opowiada historię o harmonii i sile, która pozwala temu miastu przetrwać i rozwijać się wśród nieprzyjaznych terenów. Tutaj, w koronach drzewa, spotykają się nauka i magia, tworząc symfonię, która leczy i chroni.”
 >  — _Pierre Jeoun Tzy, gnomi podróżnik i niezachwiany orędownik uzdrowicielskich talentów Czerypelu_
