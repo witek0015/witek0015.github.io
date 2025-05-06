@@ -22,7 +22,7 @@ Skąd właściwie nazwa „Góry Iskierne”? Według starych podań, wędrowcy 
 - **Zróżnicowana Struktura Skalna**  
     Góry Iskierne charakteryzują się licznymi warstwami skał magmowych i metamorficznych. Bogactwo różnorakich minerałów czyni je łakomym kąskiem dla górników i handlarzy.
 - **Mizzium**  
-    Najcenniejszym spośród wydobywanych surowców jest oczywiście _mizzium_, występujące jednak w niewielkich ilościach. Uważa się, że jego pojawienie się w Górach Iskiernych wiąże się z dawną obecnością _Niv-Mizzeta_ – legendarnego smoka.
+    Najcenniejszym spośród wydobywanych surowców jest oczywiście _[[Mizzium]]_, występujące jednak w niewielkich ilościach. Uważa się, że jego pojawienie się w Górach Iskiernych wiąże się z dawną obecnością _[[Niv-Mizzet]]a_ – legendarnego smoka.
 - **Inne Metale i Minerały**  
     Oprócz mizzium wydobywa się tu także mniej rzadkie rudy srebra, cynku, a także kruszywa skalne do celów budowlanych. Wysokie koszty transportu i ekstremalne warunki ograniczają jednak komercyjną eksploatację.
 # Klimat i Warunki Życia
@@ -32,20 +32,18 @@ Skąd właściwie nazwa „Góry Iskierne”? Według starych podań, wędrowcy 
 - **Zwierzęta**: Poza typową fauną górską (kozice, rysie, wilki), relacjonowano także spotkania z groźnymi bestiami i piewcami magii gór – np. lodowymi wiwernami, czy też białymi smokami.
 # Mieszkańcy i kultura
 ## Plemiona górskie
-W różnych zakątkach Iskiernych od dawna żyją niewielkie plemiona przystosowane do trudnych warunków. Jednym z najlepiej znanych jest społeczność w **Taryathe**, której lud szczególnie chroni skarby okolicy (zwłaszcza mizzium) i utrzymuje własne, głęboko zakorzenione rytuały. Znane są także populacje jaszczczuroludzi, a także osady mniej szanowanych członków Klanów Gruulu
+W różnych zakątkach Iskiernych od dawna żyją niewielkie plemiona przystosowane do trudnych warunków. Jednym z najlepiej znanych jest społeczność w **Taryathe**, której lud szczególnie chroni skarby okolicy (zwłaszcza mizzium) i utrzymuje własne, głęboko zakorzenione rytuały. Znane są także populacje jaszczczuroludzi, a także osady mniej szanowanych członków [[Klany Gruulu (Gruul)]]
 ## Osady Pionierskie
 Zdarza się, że na skrajach pasma osiedlają się śmiałkowie szukający bogactw w postaci rud metali czy drewna. Tworzą niewielkie wioski lub górnicze posterunki, często narażone na bandyckie ataki bądź agresję dzikich zwierząt.
 # Potencjalne Zagrożenia
 - **Lawiny i Obrywy Skaliste**  
     Częste, zwłaszcza po gwałtownych zmianach temperatury lub intensywnych opadach śniegu. Wąskie przełęcze mogą zostać zablokowane, co nierzadko odcina wioski górskie od reszty świata na długie tygodnie.
-    
 - **Lodowe Bestie**  
     Skalne wyrwy i ukryte lodowe jaskinie nierzadko stają się siedliskami agresywnych stworzeń – od wilków górskich po mityczne wiwerny o lodowych pancerzach. Górale ostrzegają szczególnie przed nocnymi polowaniami tych drapieżników.
-    
 - **Konflikty Międzyosobowe**  
     Choć przyroda jest tu najgroźniejszym wrogiem, część niebezpieczeństw płynie też z chciwości. Poszukiwacze bogactwa, najemnicy i bandyci szukają sposobu, by szybko wzbogacić się kosztem mieszkańców i rywali.
 # Znaczenie dla Podróżników i Badaczy
 - **Szlaki Handlowe**: Choć nieliczne i trudne, stanowią klucz do ekonomii północy – transportują rudę, skóry i magiczne artefakty.
 - **Badania Alchemiczne**: Wysoko w górach, gdzie warunki są ekstremalne, rodzą się niekiedy magiczne anomalia (żywiołowe węzły, lecznicze zioła), cenne z punktu widzenia czarodziejów i zielarzy.
-- **Przygoda i Sława**: Góry Iskierne przyciągają też śmiałków marzących o sławie, odkryciu nowej żyły mizzium czy zgłębieniu tajemnic dawnych mieszkańców.
+- **Przygoda i Sława**: Góry Iskierne przyciągają też śmiałków marzących o sławie, odkryciu nowej żyły [[Mizzium]] czy zgłębieniu tajemnic dawnych mieszkańców.
 

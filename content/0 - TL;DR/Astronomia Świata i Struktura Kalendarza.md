@@ -1,5 +1,5 @@
 ---
-banner: "/obrazki/Everglades.png"
+banner: "[[Everglades.png]]"
 banner_y: 0.227
 tags:
   - done
