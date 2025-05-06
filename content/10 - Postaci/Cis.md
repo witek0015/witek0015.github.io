@@ -1,0 +1,2 @@
+#selesnya
+Częste kontakty z [[Konklawa Stworzenia (Selesnya)]], w celu zdobycia rzadkich roślin o właściwościach leczniczych. Lubiany i uznawany za swojego, chociaż nigdy nie ubiegał się tam o członkostwo. Może mieć spore wpływy w śród tamtejszych kapłanów i druidów. Polir

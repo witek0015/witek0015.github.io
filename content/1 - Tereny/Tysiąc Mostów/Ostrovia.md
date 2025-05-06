@@ -1,0 +1,2 @@
+#dzielnica 
+W obecnych czasach większość Ostrovii opustoszała, jedynym sposobem na dostanie się do niej jest [[Brama Wymiarów]]. Mieszkańcy Dimei wykorzystują przyspieszony upływ czasu, umieszczając wyjątkowo niebezpiecznych przestępców w [[Więzienie na Więzieniu]].

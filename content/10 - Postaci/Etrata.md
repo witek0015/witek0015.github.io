@@ -1,0 +1,2 @@
+#dimir
+Wampirzyca. Jedna z członkiń Domu Cieni, została wysłana na misję pozbycia się wróżek z Ixalańskich Bagien, gdyż, jak się okazuje, w ich posiadaniu był [[Kieł Rakdosa]], kamień krytycznie ważny do odprawienia rytuału przez Szadka

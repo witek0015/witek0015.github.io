@@ -1,0 +1,2 @@
+#postaci 
+Siostra przyrodnia Jacka Blacka, spotykała się ze swoim przyrodnim młodszym od siebie wujkiem, kuzynem siostry bliźniaczki jej ciotki kuzynki ojca z drugiej matki. Brat przyrodni nie darzy jej miłością, w odróżnieniu od matki i przyrodniego ojca. 

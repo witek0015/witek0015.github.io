@@ -1,0 +1,2 @@
+#miejsce 
+Ogromny szpital rozstawiony na polach przed Darolwem. Z racji dużego nagromadzenia uzdrowicieli, dla każdego chorego jest miejsce i dla każdego niesiona jest pomoc (na tyle na ile prawo lecznicze pozwala). W wyniku zaostrzenia się epidemii Pthisis, szpital pęka w szwach i za ogromne pieniądze sprowadzane jest płótno na nowe namioty. 
