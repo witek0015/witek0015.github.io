@@ -1,1 +1,0 @@
-W Lubrzegu otworzono **pierwszy stabilny portal między miastami**, pozwalający na błyskawiczne przemieszczanie się. Projekt ten, choć drogi i wymagający precyzyjnej kontroli, zmienia sposób funkcjonowania **Rady Miast**, pozwalając władcom spotykać się **bez konieczności wielotygodniowych podróży**.

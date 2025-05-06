@@ -1,2 +1,0 @@
-#dimir
-Ojciec Mikele. Obsesyjnie próbuje odzyskać syna. Po tym, jak dowiaduje się gdzie znajduje się Szef i Mikele, Blekot proponuje użyć sztyletu wykonanego z naładowanego manalitu, w zamian za kilka przysług w bliżej nieokreślonej przyszłości. Kruk liczy na to, że pozna syna po tym jak opuści on Szkołę Szefa. Wysoko postawiony członek Domu Cieni

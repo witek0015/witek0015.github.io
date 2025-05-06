@@ -1,5 +1,0 @@
----
-tags:
-  - dzielnica
----
-[[Szare Rozłogi]]

@@ -1,4 +1,0 @@
-#organizacje 
-[[Vincent]]
-[[Ben]]
-[[Willy]]

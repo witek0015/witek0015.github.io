@@ -1,2 +1,0 @@
-#postaci 
-Potężnej budowy krasnolud, znany na [[Arena Walk]] ze swojej niecodziennej taktyki - wygrywaniu poprzez remis. Chodzi w tak ciężkiej zbroi, że praktycznie żadna broń dozwolona na arenie nie jest w stanie wyrządzić mu krzywdy. W wolnym czasie szkoli się w grze na lutni pod okiem [[Kyle Gass]]a, nieraz mijał się z Jackiem Blackiem w oczekiwaniu na zajęcia, bądź też na zakończenie tyrady Rage Kagea

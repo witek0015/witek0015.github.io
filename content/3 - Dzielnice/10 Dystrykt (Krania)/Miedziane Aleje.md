@@ -1,3 +1,0 @@
-#dzielnica 
-[[Katedra Wschodu]]
-[[]]

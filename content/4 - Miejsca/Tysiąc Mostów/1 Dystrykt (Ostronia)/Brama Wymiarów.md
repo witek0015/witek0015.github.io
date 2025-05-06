@@ -1,2 +1,0 @@
-#miejsce 
-Po swoich przygodach w okresie, który możnaby nazwać starożytnością, Arkano i Matthias stworzyli permanentny portal z Ostrovią. Przez blisko 1000 lat portal działał bez zarzutów, jednakże im dłużej był otwarty, tym więcej energii potrzebował. Aktualnie otwarcie Bramy jest niemożliwe, nawet wykorzystując całe zasoby manalitu świata. Pilnie strzeżona, jako że stanowi jedyną drogę do i z Więzienia na Więzieniu. Znajduje się na podzamczu. 

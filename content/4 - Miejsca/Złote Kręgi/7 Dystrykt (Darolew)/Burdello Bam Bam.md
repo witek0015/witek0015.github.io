@@ -1,2 +1,0 @@
-#miejsce 
-Należy do Orzhov

@@ -1,2 +1,0 @@
-#miejsce 
-siedziba [[Stalowe Młoty]]

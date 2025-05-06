@@ -1,4 +1,0 @@
-Na fali niekończących się cierpień narasta opór. Zawiązuje się **tajne porozumienie**, w którym czołowi przywódcy **Azorius, Boros oraz Orzhov** znajdują lukę w systemie umów [[Bezgłowy]]. **W noc letniego przesilenia**, gdy magia kontraktów jest najsłabsza, **doprowadzają do przewrotu** i publicznej egzekucji tyrana.  
-**Ścięcie głowy Bezgłowego** stało się momentem przełomowym – wraz z jego śmiercią pękły wszystkie magiczne więzy, które spajały jego imperium. Władza wróciła w ręce lokalnych włodarzy, ale jego legenda **przetrwała wieki**.
-
-**Do dziś jego wizerunek bez głowy jest powielany na obrazach i freskach, a w niektórych miejscach wciąż można znaleźć jego „niedokończone portrety” – obrazy, w których pozostawiono puste miejsce na głowę, jako przypomnienie o upadku jego despotycznej władzy.**

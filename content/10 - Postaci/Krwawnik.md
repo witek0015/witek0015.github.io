@@ -1,2 +1,0 @@
-#postaci
-Jeden z Eugenistów, wyruszył na Czerwone Pustkowia, aby tam bezkarnie badać wpływ manalitów na rasy "dzikie", w tym kenku, którymi był wyjątkowo zafascynowany. Aktualnie pod pseudonimem Kordil Sev.

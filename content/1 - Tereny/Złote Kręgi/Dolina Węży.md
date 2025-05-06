@@ -1,5 +1,0 @@
----
-tags:
-  - dzielnica
----
-[[Złote Kręgi]]

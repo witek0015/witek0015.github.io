@@ -1,2 +1,0 @@
-#miejsce
-[[Dziurawiec]]

@@ -1,2 +1,0 @@
-#miejsce
-Prowadzony przez Melefis

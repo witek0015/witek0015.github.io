@@ -1,2 +1,0 @@
-#miejsce 
-Karczmarzem jest imp [[Pivlic]]. Złamana lutnia istenieje w Kranii od bardzo dawna. Mieści się w centrum [[Wyżyny Gryfońskie]]. Oprócz funkcji karczmy, spełnia także rolę banku i daje pożyczki. Właścicielami Złamanej Lutni jest Rodzina Orzhov

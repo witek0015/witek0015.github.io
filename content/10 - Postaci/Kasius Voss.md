@@ -1,1 +1,0 @@
-Zasłużony członek [[Naczelna Rada Magów]]

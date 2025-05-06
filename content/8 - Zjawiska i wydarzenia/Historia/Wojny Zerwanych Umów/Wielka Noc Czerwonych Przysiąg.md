@@ -1,1 +1,0 @@
-[[Bezgłowy]], rządzący już przez ponad **500 lat**, **zmusza wszystkie miasta do składania nowych magicznych przysiąg**. Każdy władca i przywódca gildii musi podpisać magiczne pakty o lojalności – kto złamie przysięgę, **umrze w męczarniach**. Jest to **szczyt jego władzy**, moment, w którym całe Złote Kręgi znajdują się pod jego kontrolą.

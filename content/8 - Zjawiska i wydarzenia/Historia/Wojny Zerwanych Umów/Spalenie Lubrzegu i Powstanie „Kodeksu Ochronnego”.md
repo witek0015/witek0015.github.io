@@ -1,1 +1,0 @@
-Podczas jednego z największych bitewnych kataklizmów **Lubrzeg**, dotychczas uznawany za **centrum prawa i dyplomacji**, zostaje splądrowany i niemal doszczętnie spalony. Wśród ruin jego mieszkańcy, naukowcy i prawnicy zbierają się w **Paszczy Wolnira**, gdzie **tworzą „Kodeks Ochronny”**, zestaw praw mających na celu ochronę mieszkańców przed dalszymi nadużyciami władzy.

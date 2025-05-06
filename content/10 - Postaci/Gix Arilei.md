@@ -1,2 +1,0 @@
-#postaci 
-Półelf, znali go rodzice Dezzara i Iilun, swoją młodość spędził w [[Thyron]], jednakże jako żądny przygód młodzieniec wyruszył w świat. Los chciał, że najlepszy zarobek odnalazł w nielegalnych aktywnościach i niewiele później został zesłany do Jaskiń Potępionych. Po poznaniu drogi na zwenątrz wyprowaddza potępionych, by walczyć o ich wolność

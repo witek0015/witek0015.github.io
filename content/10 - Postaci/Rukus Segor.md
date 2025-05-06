@@ -1,2 +1,0 @@
-#postaci
-Starszy, ulubiony brat Asteraka, jeden z 10 rodzeństwa, podobnie jak reszta z nich (z wyjątkiem Asteraka), zajmował się wojaczką i przyjął młodego minotaura pod swoje skrzydła przed zawieszeniem topora. W wyniku jednej z potyczek, które odbył po odstawieniu brata do domu otrzymał ciężkie rany toporem, w wyniku których pod jego skórę dostał się odłamek manalitu ze zbroi. Obecnie znajduje się w [[Szpital polowy pod Darolewem]]

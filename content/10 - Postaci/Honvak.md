@@ -1,2 +1,0 @@
-#dead
-Przyjaciel ojca Asteraka, tymczasowo sprawuje pieczę nad [[Minotaurzy Sierociniec]]. Bardzo kocha obecne tam dzieci i nie chce pozwolić na to, aby cokolwiek złego im się stało. Gdy w sierocińcu zaczęła się dziwna pandemia (Pthisis), był skłonny wykorzystać każdy dostępny zasób aby uratować dzieci. Pech chciał, że akurat wtedy swoją pomoc zaoferował mu Rdest Wężownik. Dzieci co prawda udało się częściowo uzdrowić, jednakże część z nich Rdest zabrał na badania i przekonał Honvaka, że zmogła je choroba. 

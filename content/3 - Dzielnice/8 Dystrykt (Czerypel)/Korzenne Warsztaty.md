@@ -1,2 +1,0 @@
-#dzielnica
-dzielnica rzemieślnicza

@@ -1,1 +1,0 @@
-Między różnymi frakcjami wybucha konflikt o **Ciche Jezioro**, jeden z ostatnich obszarów czystej wody pitnej. **Gruulowie**, którzy osiedlili się w ruinach **Starogrodu**, **roznoszą chaos i spustoszenie**, paląc i niszcząc wszelkie osady w pobliżu. Wojna ta trwa ponad **50 lat**, a jej koniec następuje dopiero wraz z wydarzeniami związanymi z upadkiem Bezgłowego.

@@ -1,5 +1,0 @@
----
-tags:
-  - teren
----
-[[Ocean Północny]]

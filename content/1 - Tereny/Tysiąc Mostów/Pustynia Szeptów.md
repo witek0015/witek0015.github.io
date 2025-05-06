@@ -1,5 +1,0 @@
----
-tags:
-  - dzielnica
----
-[[Tysiąc Mostów]]
