@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[glonica.png]]"
 banner_y: 0.052
+publish: "true"
 ---
 > [!quote] "Glonica to miejsce, gdzie umarli śnią, a żywi chodzą po ich wspomnieniach. Każda ulica, każdy kamień opowiada historię – czasem szepcze ją do ucha, a czasem krzyczy w twarz." 
 >  — _Pierre Jeoun Tzy, samozwańczy encyklopedysta i, jak twierdzi, „jedyny żywy, który umie słuchać martwych”_

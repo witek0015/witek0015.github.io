@@ -4,6 +4,7 @@ banner_y: 0.758
 tags:
   - teren
   - done
+publish: "true"
 ---
 > [!quote] „Pamiętam, jak raz włóczyłem się po Sinogórze, a uderzenia młotów krasnoludów niosły się w powietrzu od rana do zmroku. Ktoś zapytał mnie: ‘Pierre, czy nie za głośno ci tu?’ A ja na to: ‘Za głośno?! To muzyka – w każdym echu kilofa słyszę, jak magia i rzemiosło tańczą razem!’”
 > — _Pierre Jeoun Tzy, gnomi kronikarz i degustator krasnoludzkich hałasów_

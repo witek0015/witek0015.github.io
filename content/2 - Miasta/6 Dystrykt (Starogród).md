@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[STAROGRÓD.jpg]]"
 banner_y: 0.257
+publish: "true"
 ---
 > [!quote] „Starogród to miejsce, gdzie historia i chaos splatają się w niekończącym tańcu. Dla jednych to ruina, dla innych – dom. Ale jedno jest pewne: żaden kronikarz, nawet tak wnikliwy jak ja, nie odważy się tu wejść bez solidnego uzbrojenia – i nie mówię tu tylko o notatniku.”  
 > — _Pierre Jeoun Tzy, autor, który zawsze trzyma jedno oko na kamieniach, a drugie na Gruulach._
