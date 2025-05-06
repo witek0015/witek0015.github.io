@@ -1,5 +1,5 @@
 ---
 publish: "true"
-title: Welcome to Codex Dimeanus
+title: Witaj w Codex Dimeanus
 ---
 ![[Mapa Dimei.jpg]]
