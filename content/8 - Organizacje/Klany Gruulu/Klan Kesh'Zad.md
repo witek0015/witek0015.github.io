@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan keshzad.jpg]]"
 banner_y: 0.721
+publish: "true"
 ---
 >[!quote] "Kesh’Zad? O tak, to są chłopcy, którzy naprawdę nie lubią cywilizacji. Masz budynek? Zburzą. Masz dom? Spalą. Masz plan na przyszłość? Pff, nie masz. Ale jeśli masz ochotę na życie pełne przemocy, krwi i ciągłej walki o przeżycie… cóż, Kesh’Zad ma dla ciebie ofertę specjalną: „Zostań jednym z nas, albo giń!”. Wybór prosty.”
 >*—Pierre Jeoun Tzy, samozwańczy badacz chaosu i ruin*

@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[chatto.jpg]]"
 banner_y: 0.112
+publish: "true"
 ---
 >[!quote] "Nie znam drugiego, który potrafiłby zapamiętać całe biblioteki, analizować tysiące informacji i jednocześnie zapomnieć, że właśnie popełnił suchar tak suchy, że spaliłby plony na Dolinach Obfitości. Chatto Ghepetti – arcydzieło mechaniki, cud myśli, geniusz, który nie wie, kiedy przestać gadać. A mimo to… gdyby przyszło mi iść na koniec świata, chciałbym, żeby to właśnie on liczył kroki."
 >— _Pierre Jeoun Tzy, gnomi eksplorator i filozof, który już dawno powinien odpocząć, ale nie umie._

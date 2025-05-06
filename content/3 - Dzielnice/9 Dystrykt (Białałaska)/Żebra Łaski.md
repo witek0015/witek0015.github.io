@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[zebra łaski.jpg]]"
 banner_y: 0.73
+publish: "true"
 ---
 >[!quote] „Niektórzy twierdzą, że Żebra Łaski to fundament ekonomiczny Białałaski, łączący rolnictwo, alchemię i hodowlę. Inni widzą w nich miejsce pradawnych mocy, gdzie natura i magia współistnieją w subtelnej symbiozie. Prawda, jak zwykle, leży gdzieś pomiędzy.”
 *— Pierre Jeoun Tzy, gnomi eksplorator, badacz relacji między człowiekiem a ziemią.*

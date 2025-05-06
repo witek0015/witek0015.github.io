@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan darhari.jpg]]"
 banner_y: 0.894
+publish: "true"
 ---
 >[!quote] "Jeśli myślisz, że Gruule to banda bezmózgich dzikusów, pozwól, że przedstawię ci Darhari. Ci goście nie tylko wiedzą, jak cię zabić – wiedzą, jak sprawić, żebyś przy tym jeszcze szanował ich kulturę."
 >_—Pierre Jeoun Tzy, samozwańczy „odkrywca” (czyli gość, który zbyt często prawie ginie)_

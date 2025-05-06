@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[swietlista droga.jpg]]"
 banner_y: 0.786
+publish: "true"
 ---
 >[!quote] "Jeśli chcesz poczuć prawdziwy puls Darolewu, idź tam, gdzie radość miesza się z hukiem kufli i stukotem kości do gry. Ale pamiętaj, że śmiech i złoto przyciągają wilki, więc miej oczy otwarte."
 _— Pierre Jeoun Tzy, miłośnik głośnych wieczorów i szybkiej ucieczki._

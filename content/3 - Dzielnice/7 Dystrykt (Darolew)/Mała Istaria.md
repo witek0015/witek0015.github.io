@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[mala istaria.jpg]]"
 banner_y: 0.849
+publish: "true"
 ---
 >[!quote] "Mała Istaria to miejsce, gdzie młodzi chłopcy uczą się marszu, a starzy generałowie zapominają, że nigdy nie nauczyli się biegania. Brzęk stali i dźwięk rozkazów niosą się tu jak symfonia w wykonaniu orkiestry, której każdy muzyk ma topór zamiast skrzypiec. Jeśli ktoś cię pyta, czy jesteś gotów na wojnę, a ty odpowiadasz 'prawie', to już przegrałeś."
 >— _Pierre Jeoun Tzy, „Wojna, pokój i brak szans na emeryturę”_

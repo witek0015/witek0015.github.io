@@ -5,6 +5,7 @@ tags:
 banner: "[[kuznia wiary.jpg]]"
 banner_x: 0.482
 banner_y: 0.821
+publish: "true"
 ---
 >[!quote] „Młot i modlitwa – oto dwie siły, które od wieków kształtują świat. W Kuźni Wiary jedno i drugie uderza z równą siłą.”
 *— Pierre Jeoun Tzy, w wolnym czasie kolekcjoner kowadeł i badacz rzemiosła sakralnego.*

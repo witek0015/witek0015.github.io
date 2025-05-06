@@ -5,6 +5,7 @@ banner_lock: true
 tags:
   - teren
   - done
+publish: "true"
 ---
 >[!quote] „Hehe, jakbym miał opisać Czerwone Pustkowia w jednym zdaniu, to rzekłbym: ‘W miejscu, gdzie piasek zdaje się skwierczeć od żaru, człek znajdzie i chłód gór, i zieleń lasu, i wszystko, co między nimi — no i potwory, oczywiście!’ A powiadam wam, co potrafi taki piasek... niech was bogowie strzegą. Całe szczęście, przez tysiąclecia natura odzyskała to, co należało do niej”
 >— _Pierre Jeoun Tzy, gnomi eksplorator i barwny gawędziarz_

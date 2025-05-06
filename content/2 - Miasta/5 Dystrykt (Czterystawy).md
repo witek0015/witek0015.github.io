@@ -4,7 +4,6 @@ tags:
   - done
 banner: "[[czterystawy.jpg]]"
 banner_y: 1
-publish: "true"
 ---
 >[!quote] "Czterystawy to miejsce, gdzie woda opowiada historię, a każdy lampion puszczony na jej powierzchnię jest jak szept w stronę przodków. To miasto, w którym ryby mają więcej tajemnic niż ludzie, a mosty łączą nie tylko wyspy, ale i serca mieszkańców."
 >— _Pierre Jeoun Tzy, encyklopedysta o lekkiej awersji do mokrych butów”_

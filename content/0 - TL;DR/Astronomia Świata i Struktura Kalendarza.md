@@ -3,6 +3,7 @@ banner: "[[Everglades.png]]"
 banner_y: 0.227
 tags:
   - done
+publish: "true"
 ---
 > [!quote] „Zdradzę Wam, moi mili, że kiedy pierwszy raz ustalano nazwy miesięcy, spierało się z tuzin uczonych. A ja siedziałem w kącie i zapisywałem wszystko w mojej Encyklopedii, by uchwycić każdy przekrzyk i wyzwisko. Tak powstał Słonecznik, Kresomrok i cała reszta. Inna sprawa z dniami tygodnia: Sef, Ned, Pel… Widziałem, jak władcy kłócili się, czemu nie nazwać któregoś ‘Dzień Kupca’!  Ale to jeszcze nic. Dwa księżyce? Heh, słyszałem legendę, że trzeci, niewidzialny, krąży w odstępie stu lat. Skoro jednak nikt go nie widział (poza mną, rzecz jasna), odłóżmy to do kategorii mitów. Tak czy owak, droga przygodo, pamiętaj tylko: kiedy nocą spoglądasz na dwie tarcze na niebie, doceniaj, że każda z nich wnosi osobną magię do naszego świata – czy chcesz, czy nie!”
 >— _Pierre Jeoun Tzy, autor i osobisty obserwator dwuksiężycowych nocy_

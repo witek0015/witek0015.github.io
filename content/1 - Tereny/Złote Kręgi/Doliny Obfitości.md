@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[doliny obfitości.jpg]]"
 banner_y: 0.281
+publish: "true"
 ---
 >![quote] **"Gdyby kamienie mogły gadać, każda skała opowiadałaby plotki o upadłych imperiach i zakamuflowanych zdradach. Słuchaj uważnie – bo nawet kurz potrafi kłamać."**  
 >— _Pierre Jeoun Tzy, gnomi kronikarz, samozwańczy detektyw historii i mistrz dowcipu_

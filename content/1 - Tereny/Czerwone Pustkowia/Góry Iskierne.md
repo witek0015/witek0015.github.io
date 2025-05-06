@@ -4,6 +4,7 @@ banner_y: 0.128
 tags:
   - dzielnica
   - done
+publish: "true"
 ---
 >[!quote] „Gdy pierwszy raz zobaczyłem te rzekome iskry na skałach, myślałem, że to iluzja. A potem się potknąłem i zjechałem stumetrowym urwiskiem – wrażenia były bardzo prawdziwe!” 
 > — _Pierre Jeoun Tzy, wielbiciel górskich widoków, choć niekoniecznie wspinaczki_

@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[zlota cwiartka.jpg]]"
 banner_y: 0.898
+publish: "true"
 ---
 >[!quote] "W Złotej Ćwiartce sprzedaje się wszystko – od klejnotów po dusze. Uważaj, komu podajesz rękę, bo łatwo nie zauważyć, że została już spisana na dłużny pergamin."
 >— _Pierre Jeoun Tzy, gnomi kronikarz, bywalec bankietów, choć bez zaproszenia_

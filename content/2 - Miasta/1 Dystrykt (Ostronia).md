@@ -4,7 +4,6 @@ banner_y: 0.187
 tags:
   - teren
   - done
-publish: "true"
 ---
 >[!quote] „W Ostronii widziałem statki, które nigdy nie wypłynęły z portu, bo się upiły w karczmie; widziałem rybaków, co zarzucali sieci na gwiazdy, a wciągali w nich alkohol. Najdziwniejsze jednak, że ruiny zamku wciąż trzymają się skały jak uparty muł – ot, magia w najczystszej postaci.”
 >— _Pierre Jeoun Tzy, gnomi wagabunda i kronikarz beztrosko-ponurych realiów_

@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[żelazny plac.jpg]]"
 banner_y: 0.661
+publish: "true"
 ---
 >[!quote] "Ciekawe, że w miejscu, gdzie codziennie coś się rozpada, powstają najlepsze narzędzia do budowania. Takie życie – albo jesteś młotem, albo gwoździem."
 >— _Pierre Jeoun Tzy, gnomi kronikarz, który raz prawie stracił wąsy przez wybuch w Bumpalasie._

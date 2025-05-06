@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 > [!quote] „Gdybyś kiedykolwiek wątpił, czy papier może być silniejszy od miecza, wejdź do Sądu Najwyższego w Prahv. To miejsce przypomina labirynt, gdzie każdy pergamin ma wagę tysiąca ostrzy, a każde słowo wypowiedziane przez senatora brzmi jak wyrok losu. Tylko pamiętaj – zapisz, co chcesz powiedzieć, zanim wejdziesz, bo strażnicy Azoriusa nie są fanami spontaniczności!”
 >— _Pierre Jeoun Tzy, niezastąpiony kronikarz i badacz tajemnic gildiowych_

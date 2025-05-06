@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[pierre.jpg]]"
 banner_y: 0.398
+publish: "true"
 ---
 >[!quote] „Ach, tak, czytelniku, wiem, że jeszcze nie znalazłeś rozdziału o mnie, Pierre Jeoun Tzym. Prawda jest taka, że w mojej Encyklopedii muszę się pojawić i ja – przecież nie chciałbym, by świat zapomniał, kto uwiecznił tyle legend, bitew i ciekawostek! A skoro większość tych zdarzeń widziałem na własne, gnomie oczy, grzechem byłoby to przemilczeć.”
 >— _Pierre Jeoun Tzy, autor Encyklopedii Świata i pierwszy w dziejach komentator własnej osobistości_

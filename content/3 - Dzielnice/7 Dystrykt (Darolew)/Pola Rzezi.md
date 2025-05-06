@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[pola rzezi.jpg]]"
 banner_y: 0.872
+publish: "true"
 ---
 >[!quote] "Nie znajdziesz tu gwaru targów ani pieśni bardów. Znajdziesz tylko szepty wiatru, cichy stukot dłut wykuwających kolejne nagrobki i wspomnienia tych, którzy poszli przed tobą."  
 — _Pierre Jeoun Tzy_

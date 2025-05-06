@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[zlotypas.jpg]]"
 banner_y: 0.991
+publish: "true"
 ---
 >[!quote] „Tam, gdzie powietrze pachnie złotem, a ściany domów są grubsze niż sumienie ich właścicieli.”
 >— Pirre Jeoun Tzy, niemile widziany gość dzielnicy, w której nigdy nie pozwolono mu kupić ziemi.

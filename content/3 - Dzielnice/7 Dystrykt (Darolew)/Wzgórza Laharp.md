@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[wzgorza laharp.jpg]]"
 banner_y: 0.841
+publish: "true"
 ---
 >[!quote] "Wzgórza Laharp to miejsce, gdzie można znaleźć zarówno dobrze płatne zlecenie, jak i tanie miejsce do spania – a czasem oba naraz, jeśli ktoś nieopatrznie podpisał umowę na eskortę wędrownego maga-nekromanty. Jeśli karczmarz patrzy na ciebie z politowaniem, a kapłan Keranosa daje ci błogosławieństwo ‘na wszelki wypadek’, to znaczy, że wpakowałeś się w coś bardzo, bardzo ciekawego."
 >— _Pierre Jeoun Tzy, dawny poszukiwacz przygód, obecnie poszukiwacz wymówek_

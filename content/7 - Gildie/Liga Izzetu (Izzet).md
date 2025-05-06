@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 >[!quote] „Niektórzy mówią, że Bumpalas to miejsce, gdzie geniusz spotyka chaos. Ja powiem więcej – to miejsce, gdzie chaos jest geniuszem. Jeśli ktoś kiedykolwiek zapyta cię, dlaczego pioruny są tak piękne, skieruj go do Izzet. Tam dowie się, że ich piękno to nie tylko magia natury, ale i zapowiedź spektakularnego wybuchu. Pamiętaj jednak, by stanąć daleko, bo w Izzet nigdy nie wiesz, co dokładnie wybuchnie – ani kiedy.”
 >— _Pierre Jeoun Tzy, gnomi komentator i ostrożny obserwator geniuszu_

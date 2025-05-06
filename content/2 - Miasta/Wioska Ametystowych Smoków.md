@@ -8,6 +8,7 @@ tags:
   - miejsce
   - done
 banner_lock: true
+publish: "true"
 ---
 > [!quote] „Niewyczerpane złoża mizzium w Taryathe to pozorny dar natury, ale zauważyłem, że im twardszy metal, tym łatwiej łamie się przyjaźnie. Czasem łatwiej ujarzmić góry niż ludzkie uprzedzenia.”
 > — _Pierre Jeoun Tzy, gnomi badacz i niepozorny obserwator wielkich sporów_  

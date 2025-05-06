@@ -22,8 +22,3 @@ Niektórzy podejrzewają, że Dreth wszedł w konflikt z frakcjami spoza struktu
 - **Doskonały retor i analityk** – zna każde słowo w kodeksie.
 - **Samotnik** – rzadko ufa innym, ale jeśli już, to bezgranicznie.
 - **Wierzący w Epharę** – ale bez ślepej gorliwości.
-# **Możliwe Story Hooki**
-- **"Sygnet milczy"** – Tavian próbuje użyć sygnetu Dretha – ale artefakt reaguje nieoczekiwanie, wskazując, że jego właściciel wciąż żyje.
-- **"Zniknięcie Doradcy"** – ślady Dretha prowadzą do zrujnowanej kaplicy, gdzie ktoś prowadzi eksperymenty nad duszami. Czy Dreth badał rytuały śmierci?
-- **"Dreth kontra Dimir"** – okazuje się, że Dreth zbierał informacje o infiltracji Azoriusa. Czy został uciszony?
-- **"Dziedzictwo Dretha"** – w archiwum Tavian odkrywa zapiski opatrzone jego inicjałami – notatki dotyczące spraw, które nie powinny nigdy trafić do akt.

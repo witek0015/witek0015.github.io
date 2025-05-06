@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[targdusz.jpg]]"
 banner_y: 0.78
+publish: "true"
 ---
 >[!quote] „Rynek Dusz to przestrzeń, w której sacrum i profanum splatają się w handlowym tańcu. Tutaj wiara i alchemia mają wymierną wartość, a zbawienie można nabyć na raty.”
 >— Pierre Jeoun Tzy, gnomi handlarz swoj i analityk ekonomii mistycznej.

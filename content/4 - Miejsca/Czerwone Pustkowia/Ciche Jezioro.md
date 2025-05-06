@@ -1,6 +1,7 @@
 ---
 tags:
   - dzielnica
+publish: "true"
 ---
 >[!quote] "Ciche Jezioro? Ach, to miejsce, gdzie cisza aż boli. Równie dobrze mógłbyś usłyszeć tam echo własnych myśli, jak i westchnienia duchów przeszłości. Tylko nie zbliżaj się za bardzo – kto wie, co tam na ciebie czeka." 
 >*– Pirre Jeoun Tzy, gnomi kronikarz i poszukiwacz zaginionych historii.*

@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan ladri.jpg]]"
 banner_y: 0.337
+publish: "true"
 ---
 >[!quote] „Jeśli zobaczysz kępy dymu na horyzoncie i usłyszysz grzmoty, niech ci się nie wydaje, że to burza. To Klan Ladri. I jeśli nie masz gdzie się ukryć – możesz już odmówić ostatnią modlitwę.”
 >— _Pierre Jeoun Tzy, gnomi eksplorator i fan możliwości obozowania w spokoju_

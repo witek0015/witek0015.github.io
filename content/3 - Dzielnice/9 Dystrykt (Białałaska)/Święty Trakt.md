@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[swiettrakt.jpg]]"
 banner_y: 1
+publish: "true"
 ---
 >[!quote] „Nie każda podróż prowadzi do oświecenia, ale każda moneta wydana na Świętym Trakcie prowadzi do czyjejś kieszeni.”
 >*— Pierre Jeoun Tzy, gnomi eksplorator i uważny obserwator pobożności pielgrzymów.*

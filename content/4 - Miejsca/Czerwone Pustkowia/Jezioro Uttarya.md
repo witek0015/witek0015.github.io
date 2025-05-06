@@ -1,5 +1,7 @@
 ---
-tags: miejsce
+tags:
+  - miejsce
+publish: "true"
 ---
 Niewielki akwen położony w południowej części doliny Taryathe, bezpośrednio u stóp Gór Iskiernych. Jego wody zasilane są głównie przez topniejące śniegi i niewielkie strumienie spływające z wysokich przełęczy. Z racji dużej różnicy poziomów w terenie, jezioro ma stosunkowo strome brzegi od północy i łagodniejsze od strony południowej, gdzie mieszkańcy wioski czasem rozbijają tymczasowe obozy rybackie.
 # Charakterystyka i wygląd

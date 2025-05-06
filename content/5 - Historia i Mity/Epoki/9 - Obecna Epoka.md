@@ -1,6 +1,7 @@
 ---
 tags:
   - done
+publish: "true"
 ---
 # **Najważniejsze aspekty**:
 - Rozwijają się miasta – każde kroczy własną ścieżką: Krania jako stolica polityczna, Lubrzeg jako centrum prawa, Czterystawy łączą handel wodny z turystyką, Sinogóra rośnie dzięki rzadkim kruszcom, Darolew umacnia siły militarne, Białałaska wciąż rozszerza działalność kapłanów i jednoczy wiernych, Glonica rozwija rytuały dla zmarłych, Starogród pozostaje upadłym wspomnieniem świetności, Ostronia to bastion portowy i brama między wymiarami, a Czerypel – kluczowe miasto lecznicze.

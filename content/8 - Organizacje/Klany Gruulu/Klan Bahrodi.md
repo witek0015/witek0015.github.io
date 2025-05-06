@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[bahrodi klan.jpg]]"
 banner_y: 0.804
+publish: "true"
 ---
 > [!quote] "Jeśli znajdziesz się na tratwie Bahrodi, to znak, że albo ich przekonałeś, albo już jesteś ich ofiarą. W obu przypadkach radzę ci nie pytać, dokąd płyniecie."
 > _— Pierre Jeoun Tzy, kartograf, etnograf i wielokrotnie przypadkowy rozbitek_

@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 > [!quote] „Konklawa Stworzenia to oaza harmonii w świecie pełnym chaosu. Kiedy wchodzę do Wielkiej Lecznicy, czuję się otulony zielenią i spokojem, a jednocześnie mogę dostrzec moc, która tkwi w każdym liściu i każdej gałęzi. To prawdziwe arcydzieło harmonii – miejsce, gdzie każdy kamień, każda roślina, a nawet powiew wiatru współtworzy symfonię życia.”
 >  — _Pierre Jeoun Tzy, gnomi kronikarz i entuzjastyczny obserwator Selesnyi_

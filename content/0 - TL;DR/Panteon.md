@@ -3,6 +3,7 @@ banner: "[[Star_Chart_Header.jpg]]"
 banner_y: 0.745
 tags:
   - done
+publish: "true"
 ---
 # Ephara
 **Sfera**: Architektura, ład społeczny, rozwój kulturalny  

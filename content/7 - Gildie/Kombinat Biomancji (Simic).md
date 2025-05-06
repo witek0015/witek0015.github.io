@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 >[!quote] „Pamiętam, jak przechadzałem się korytarzami Novijen: między szklanymi zbiornikami z dziwnymi roślinami i bestiami, które wyglądały jak skrzyżowanie ryby z jaszczurką. Ktoś spytał mnie, czy się boję, że te cuda wymkną się spod kontroli. Roześmiałem się: ‘Wymykają się spod kontroli? Och, już dawno wyleciały za próg! Ale taka natura Simiców… Człek nawet nie wie, kiedy staje się częścią ich eksperymentu.’”
 >— _Pierre Jeoun Tzy, gnomi kronikarz i wielokrotny świadek eksperymentów Simic_

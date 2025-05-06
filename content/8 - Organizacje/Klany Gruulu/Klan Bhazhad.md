@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan burzy.jpg]]"
 banner_y: 0.429
+publish: "true"
 ---
 >[!quote] „Ludzie widzą w burzy niszczycielską siłę. Bhazhad widzą w niej życie. W ich oczach błyskawica to nie koniec – to początek. Nie proszą bogów o łaskę. Oni ich wyzywają. Nie szukają schronienia. Oni są schronieniem. W ich żyłach płynie gniew niebios, a w sercach grzmi wojna. A jeśli kiedykolwiek usłyszysz, że ich wodza trafił piorun, nie zakładaj, że to go zabiło. Bardziej prawdopodobne, że się tylko zirytował.”
 *– Pierre Jeoun Tzy, gnom, który wie, że podczas burzy nie powinien chować się pod drzewem.*

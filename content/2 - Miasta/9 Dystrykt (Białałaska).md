@@ -4,7 +4,6 @@ tags:
   - done
 banner: "[[bialalaska.png]]"
 banner_y: 0.086
-publish: "true"
 ---
 > [!quote] „Białałaska to miejsce, gdzie każdy oddech przesycony jest wonią ziół, a każdy krok prowadzi w stronę duchowego objawienia – lub długu u Orzhov. Jedni powiedzą, że to miasto święte, inni, że skorumpowane, ale ja? Ja twierdzę, że to jedyne miejsce, gdzie modlitwa i biznes mogą współistnieć w tak idealnej harmonii.”
 >  — _Pierre Jeoun Tzy, gnomi kronikarz i sceptyk wobec dziesięcin_

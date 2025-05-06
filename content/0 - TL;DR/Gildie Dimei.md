@@ -4,6 +4,7 @@ banner_y: 0.108
 public: "True"
 tags:
   - done
+publish: "true"
 ---
 >[!quote] „Jak zapewne zauważasz, drogi czytelniku, ta dziesiątka gildiowa to filary wznoszące Dimeę. Zdziwić się można, że tak różne cele i temperamenty w ogóle się nie rozsadzają w diabły! Ba, a jednak stoimy i patrzymy, jak Azorius sporządza kolejny paragraf, Boros pręży pierś na paradzie, a Izzet czymś wybucha. Czasem mam wrażenie, że to cud, iż nikt tu jeszcze nie rozwalił wszystkiego w pył… ale może właśnie ta sprzeczność jest przepisem na przetrwanie.”
 >— _Pierre Jeoun Tzy, gnomi autor i niezawodny komentator dziejów_

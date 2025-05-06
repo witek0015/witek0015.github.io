@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[akademia wolnira.jpg]]"
 banner_y: 0.555
+publish: "true"
 ---
 >[!quote]  "Lubrzeg jest miejscem, gdzie magowie dyskutują, a potem robią rzeczy, które prowadza do nowych dyskusji o tym, dlaczego dachy budynków nagle zaczęły unosić się w powietrzu. Akademia Wolnira? To kwintesencja tego chaosu, owinięta w iluzję porządku."
 >*Pierre Jeoun Tzy, samozwańczy ekspert od magii i niefortunnych eksperymentów, który kiedyś przypadkiem wywołał deszcz kotów w bibliotece*

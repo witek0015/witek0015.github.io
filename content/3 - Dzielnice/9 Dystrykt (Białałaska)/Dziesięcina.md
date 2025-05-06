@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[dziesięcina.jpg]]"
 banner_y: 1
+publish: "true"
 ---
 >[!quote] „Zobowiązania finansowe i religijne są w Dziesięcinie tym samym. Jedni składają ofiary bogom, drudzy – Orzhovowi. A kto nie składa, ten już wie, że wcześniej czy później zapłaci więcej.”
 >*— Pierre Jeoun Tzy, posiadacz kapitału boleśnie podzielnego przez dziesięć*

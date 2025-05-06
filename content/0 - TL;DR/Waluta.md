@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[kasa.jpg]]"
 banner_y: 0.832
+publish: "true"
 ---
 >[!quote] „Nie mówcie, że gnom nie zna wartości pieniądza! Jeśli wasza sakiewka zacznie świecić, to albo macie w niej elektrum, albo za chwilę wybuchnie.”
 > – *Pierre Jeoun Tzy, gnomi eksplorator i miłośnik błyskotek z nadmierną liczbą zer*

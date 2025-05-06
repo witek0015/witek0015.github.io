@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[khunadi klan.jpg]]"
 banner_y: 0.923
+publish: "true"
 ---
 >[!quote] "Klan Khunadi? To mistycy, szaleńcy i romantycy w jednym. Mogliby być pokojową społecznością, ale zamiast tego trzymają w rękach zatrute strzały i w każdej chwili są gotowi nimi strzelać. A wszystko w imię jakiegoś drzewa. Ale przyznaję – ich lasy są najpiękniejsze, jakie w życiu widziałem."
 >—*Pierre Jeoun Tzy, Badacz Kultury Gruuli (który w razie czego nigdy nie sikał na drzewo)*

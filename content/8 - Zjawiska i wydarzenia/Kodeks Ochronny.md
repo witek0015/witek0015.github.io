@@ -2,6 +2,7 @@
 tags:
   - zjawiska
   - done
+publish: "true"
 ---
 > [!quote] „Hah, pamiętam czasy, gdy 'zakazane metody leczenia' nazywano jedyną nadzieją dla umierających — ech, jakże świat się zmienia! Znam jeden przypadek, kiedy to biedny felczer próbował wyleczyć posiekane ramię chłopa zwykłą nicią i zwykłą igłą, i pół miasta chciało go wygnać, bo ‘medycyna konwencjonalna to herezja’. Ale, drogi czytelniku, nie daj się zwieść! W każdym z tych paragrafów czai się iskra anegdot, którą warto pamiętać. A wszak, czy gnomowi, który to wszystko widział na własne oczy, nie można zaufać?”
 > — _Pierre Jeoun Tzy, samozwańczy komentator Praw Dystryktowych_

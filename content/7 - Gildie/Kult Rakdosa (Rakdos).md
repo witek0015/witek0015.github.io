@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 > [!quote] „Byłem w Rix Maadi raz – i przysięgam, wystarczyło mi na całe życie. Te tunele żyją, oddychają, a ich serce bije rytmem bębnów i krzyków. Nie ma tam miejsca na ciszę, nie ma miejsca na lęk – bo zanim zdążysz się bać, stajesz się częścią przedstawienia. Ale powiem wam coś jeszcze: chaos Rakdosa to nie tylko szaleństwo. To przypomnienie, że życie, choć krótkie i brutalne, jest też niewiarygodnie intensywne.”
 > — _Pierre Jeoun Tzy, gnomi kronikarz i, o dziwo, widz jednego z przedstawień kultu_

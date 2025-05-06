@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan rahzani.jpg]]"
 banner_y: 0.779
+publish: "true"
 ---
 >[!quote] Są jak cień w ciemności – nigdy nie wiesz, czy to skała, czy para oczu śledząca cię z głębin. Spotkałem jednego z nich raz – zapytałem o drogę, a on po prostu wpatrywał się we mnie w milczeniu. Nie wiem, czy miał zamiar mnie zabić, czy po prostu nie chciało mu się mówić... Tak czy inaczej, postanowiłem nie naciskać.
 >— _Pierre Jeoun Tzy, badacz rzeczy, których nie powinien badać_

@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[klan dhosgar.jpg]]"
 banner_y: 0.73
+publish: "true"
 ---
 >[!quote] „Dhozgarowie nauczyli się przetrwać w świecie, który ich nienawidzi. Szanuję to, choć niekoniecznie chciałbym dzielić z nimi obozowisko. Zwłaszcza że ich definicja 'wieczerzy' może obejmować kogoś takiego jak ja.”
 >— _Pierre Jeoun Tzy, gnomi **niejadalny** encyklopedysta_

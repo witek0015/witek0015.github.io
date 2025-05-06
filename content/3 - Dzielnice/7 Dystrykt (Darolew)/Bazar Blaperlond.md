@@ -4,6 +4,7 @@ tags:
   - done
 banner: "[[bazar blaperlond.jpg]]"
 banner_y: 0.934
+publish: "true"
 ---
 >[!quote] "Bazar Blaperlond to jedyne miejsce w Darolewie, gdzie możesz kupić jedwab, rybę i przeklęty sztylet na tym samym straganie. A jeśli masz wystarczająco złej reputacji, sprzedawca dorzuci ci jeszcze niewolnika i fałszywe dokumenty gratis. Handel tu jest jak sztuka – nie chodzi o to, co kupujesz, ale o to, ile razy cię oszukali, zanim zauważyłeś."
 >— _Pierre Jeoun Tzy, osobiście przekonany, że najlepsze okazje to te, w których to ty jesteś sprzedawcą_

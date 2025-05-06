@@ -2,6 +2,7 @@
 tags:
   - organizacje
   - done
+publish: "true"
 ---
 >[!quote] "W cieniu Podmokłych Ruin i podziemiach Czterystaw wciąż kryje się tajemnica, którą Dom Dimir chętnie zamknie pod kluczem. Jeśli coś wiesz – nie mów. Jeśli nic nie wiesz – bądź pewny, że oni wiedzą wszystko."
 >– _Pierre Jeoun Tzy, autor encyklopedii i jedyny, który może powiedzieć coś o Dimir, nie będąc natychmiast uciszonym._
