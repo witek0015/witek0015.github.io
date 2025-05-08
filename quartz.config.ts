@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pl-PL",
     baseUrl: "witek0015.github.io/dimea-lore",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -23,32 +23,33 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Tagesschrift",
-        body: "Tinos",
+        title: "Pirata One",
+        header: "Metamorphous",
+        body: "Aleo",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#fff0c9",
-          lightgray: "#331d00",
-          gray: "#1c1000",
-          darkgray: "#1c1000",
-          dark: "#fff0c9",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f5ead6",
+          lightgray: "#ddd1bc",
+          gray: "#a79885",
+          darkgray: "#4e4034",
+          dark: "#2d1b0e",
+          secondary: "#8b1a1a",
+          tertiary: "#c14444",
+          highlight: "#fff0d6",
+          textHighlight: "#fae0a6",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2c1b10",
+          lightgray: "#3a2a1e",
+          gray: "#6f5c4e",
+          darkgray: "#d7c3a9",
+          dark: "#f1d6b6",
+          secondary: "#d04e4e",
+          tertiary: "#8b1a1a",
+          highlight: "5b3a25",
+          textHighlight: "#8c5e35",
         },
       },
     },
@@ -56,9 +57,9 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
+     // Plugin.CreatedModifiedDate({
+     //   priority: ["frontmatter", "git", "filesystem"],
+     // }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -79,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
-      Plugin.TagPage(),
+      //Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
@@ -89,7 +90,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      //Plugin.CustomOgImages(),
     ],
   },
 }

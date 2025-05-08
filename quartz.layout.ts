@@ -4,7 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.PageTitle(),],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -17,15 +17,18 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Breadcrumbs({
+        spacerSymbol: "⁀➴",
+        rootName: "Codex",
+    //    showCurrentPage = false,
+      }),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+  //  Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -34,23 +37,43 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+    mapFn: (node) => {
+      if (node.isFolder) {
+        node.displayName = "🚪 " + node.displayName
+      } else {
+        node.displayName = "📜 " + node.displayName
+      }
+    }
+    }),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Graph()),
+    Component.TableOfContents(),
     Component.Backlinks(),
+  ],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Ostatnie wpisy",
+        limit: 5,
+      }),
+      condition: (page) => page.fileData.slug == "index",
+    }),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    //Component.ContentMeta()],
+    ],
   left: [
-    Component.PageTitle(),
+    //Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -61,7 +84,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isFolder) {
+          node.displayName = "🚪 " + node.displayName
+        } else {
+          node.displayName = "📜 " + node.displayName
+        }
+      }
+    }),
   ],
   right: [],
 }

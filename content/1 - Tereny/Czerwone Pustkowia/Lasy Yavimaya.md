@@ -9,7 +9,7 @@ publish: "true"
 > [!quote] „Yavimaya to nie tylko las – to żywa, oddychająca istota. Przemierzając jej ścieżki, można poczuć się jak intruz w domu czegoś starszego, większego i o wiele mądrzejszego. A jeśli słyszysz szept wśród liści? To może być duch lasu… albo cichy szelest łowcy, który już cię wybrał. Tak czy inaczej, lepiej szanuj ziemię pod swoimi stopami.”
 > — _Pierre Jeoun Tzy, gnomi podróżnik i badacz zielonych tajemnic Yavimayi_
 
-Lasy **Yavimaya**, zwane także **Zieloną Duszą Północy**, to jedne z najstarszych i najbardziej tajemniczych obszarów na całym kontynencie. Rozciągają się na północnym wschodzie, obejmując ogromne połacie ziem otaczające [[Góry Iskierne]] i graniczące z [[Czerwone Pustkowia]]. Yavimaya jest domem dla niezwykle różnorodnej flory i fauny, a także miejscem pełnym magii, mitów i niebezpieczeństw. Dla wielu stanowi żywą istotę – z wolą, która nie zawsze jest przyjazna wobec intruzów.
+Lasy **Yavimaya**, zwane także **Zieloną Duszą Północy**, to jedne z najstarszych i najbardziej tajemniczych obszarów na całym kontynencie. Rozciągają się na północnym wschodzie, obejmując ogromne połacie ziem otaczające Góry Iskierne i graniczące z Czerwonymi Pustkowiami. Yavimaya jest domem dla niezwykle różnorodnej flory i fauny, a także miejscem pełnym magii, mitów i niebezpieczeństw. Dla wielu stanowi żywą istotę – z wolą, która nie zawsze jest przyjazna wobec intruzów.
 # Charakterystyka Lasu
 1. **Flora**
     - Lasy Yavimaya porastają tysiące gatunków drzew, od monumentalnych sekwoi, które sięgają nieba, po drzewa-magię, które świecą delikatnym światłem nocą.
@@ -31,15 +31,15 @@ Lasy **Yavimaya**, zwane także **Zieloną Duszą Północy**, to jedne z najsta
 5. **Wielki Dąb Yavimayi**
     - Największe i najstarsze drzewo w całym lesie, liczące ponoć tysiące lat. Jego korona rozciąga się na setki metrów, a pień służy jako miejsce spotkań duchowych dla lokalnych społeczności.
 # Historia Lasu Yavimaya
-1. **[[0 - Epoka Cieni]] (do roku 0)**
+1. **Epoka Zrodzenia (do roku 0)**
     - Yavimaya istniała jeszcze przed założeniem pierwszych miast na kontynencie. W mitach opowiada się, że las powstał z nasion posianych przez Karametrę, boginię natury i płodności.
-2. **[[1 - Epoka Pionierów]] (0–1000)**
+2. **Epoka Budowniczych (0–1000)**
     - W tym czasie las służył jako schronienie dla pierwszych osadników, którzy próbowali udomowić jego dziką naturę. Większość tych prób zakończyła się niepowodzeniem.
-3. **[[5 - Epoka Wielkich Innowacji]] (1000–2500)**
+3. **Epoka Przepływów Magii (1000–2500)**
     - Lasy stały się miejscem badań i eksperymentów biomantów z gildii Simic, którzy szukali tam inspiracji do swoich projektów. W tym okresie powstało wiele magicznych mutacji roślinnych i zwierzęcych, które do dziś można spotkać w Yavimayi.
-4. **[[6 - Wielka Schizma]] (2500–3500)**
+4. **Epoka Zmierzchu (2500–3500)**
     - Wraz z rozwojem miast i ekspansją cywilizacji Yavimaya zaczęła się kurczyć. Wielu druidów i naturystów protestowało przeciwko wycinaniu drzew, co doprowadziło do starć z siłami miejskimi.
-5. **[[8 - Czasy Odrodzenia]] (3500–obecnie)**
+5. **Epoka Harmonicznej Równowagi (3500–obecnie)**
     - Dzięki wysiłkom gildii Selesnya oraz lokalnych społeczności, Yavimaya została uznana za obszar chroniony, a jej magiczne znaczenie zaczęto traktować z należytą powagą.
 # Znaczenie Lasu Yavimaya
 1. **Ekologiczne**

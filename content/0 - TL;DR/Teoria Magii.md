@@ -1,6 +1,6 @@
 Magia w Dimei jest siłą pierwotną, nieodłącznym aspektem rzeczywistości, równie naturalnym jak grawitacja czy prawo zachowania energii. Przenika cały świat, lecz jej manifestacja wymaga interakcji z istotami zdolnymi do jej kontrolowania. Jest to zarówno nauka, jak i sztuka, domena badaczy i szarlatanów, błogosławieństwo i przekleństwo.
 # **Źródło Magii – Sieć Manalitu i Rzeki Energetyczne**
-Magia nie pochodzi z jednego miejsca – jest tkanką wszechświata, lecz jej natężenie nie jest równomierne. W Dimei jej przepływ determinuje **[[Manalit]]** – minerał o właściwościach kondensujących magiczną energię. Cała planeta jest przecięta niewidzialnymi rzekami magicznymi, zwanymi **Strumieniami Aetheru**, które zasilają zaklęcia i rytuały. W miejscach, gdzie krzyżują się te strumienie, powstają **źródła magiczne**, wzmacniające wszelką działalność nadnaturalną.
+Magia nie pochodzi z jednego miejsca – jest tkanką wszechświata, lecz jej natężenie nie jest równomierne. W Dimei jej przepływ determinuje **manalit** – minerał o właściwościach kondensujących magiczną energię. Cała planeta jest przecięta niewidzialnymi rzekami magicznymi, zwanymi **Strumieniami Aetheru**, które zasilają zaklęcia i rytuały. W miejscach, gdzie krzyżują się te strumienie, powstają **źródła magiczne**, wzmacniające wszelką działalność nadnaturalną.
 
 >[!quote] "Wyobraźcie sobie, że świat to stary, niezoptymalizowany system, a magia to zestaw komend pozwalających obsługiwać rzeczywistość. Problem w tym, że niektóre komendy są zbyt stare, nieudokumentowane albo przypadkiem nadpisane przez kogoś, kto myślał, że to dobry pomysł."  
 > *— Archiwista Renki, Akademia Magów w Lubrzegu*
@@ -18,10 +18,10 @@ Magia jest **niestabilnym systemem**, a jej użytkownicy są bardziej **hakerami
 Niektóre teorie sugerują, że nadmierne korzystanie z magii może doprowadzić do **magicznego zanieczyszczenia**, gdzie zaklęcia zaczynają reagować w nieprzewidywalny sposób. Stąd istnieją regiony, w których magia działa inaczej – **anomalia manalitu**, **strefy martwe**, czy nawet obszary, gdzie raz rzucone zaklęcie trwa w nieskończoność.
 # **Magia a Społeczeństwo**
 Magia jest **jednocześnie błogosławieństwem i zagrożeniem**. Istnieją kraje i miasta, które uważają ją za **narzędzie postępu**, i takie, które traktują ją jako **zagrożenie, które należy kontrolować**.
-- **[[4 Dystrykt (Lubrzeg)]]** – centrum nauki magicznej, gdzie powstały pierwsze spisane prawa magii.
-- **[[9 Dystrykt (Białałaska)]]** – religijne centrum, gdzie magia kapłańska jest uważana za jedyny akceptowalny rodzaj magii.
-- **[[7 Dystrykt (Darolew)]]** – traktuje magię jako narzędzie wojny i strategii.
-- **[[3 Dystrykt (Glonica)]]** – bada nekromancję i rytuały śmierci, balansując na granicy tabu.
+- **Lubrzeg** – centrum nauki magicznej, gdzie powstały pierwsze spisane prawa magii.
+- **Białałaska** – religijne centrum, gdzie magia kapłańska jest uważana za jedyny akceptowalny rodzaj magii.
+- **Darolew** – traktuje magię jako narzędzie wojny i strategii.
+- **Glonica** – bada nekromancję i rytuały śmierci, balansując na granicy tabu.
 > [!quote] „Nie ma magii bez ryzyka. Nie dlatego, że tak ktoś zaplanował, ale dlatego, że nikt nie rozumie, jak działa.”  
 > *— Wielki Architekt Xonir, Lubrzeg*
 # **Podsumowanie**

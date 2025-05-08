@@ -9,10 +9,10 @@ publish: "true"
 >![quote] **"Gdyby kamienie mogły gadać, każda skała opowiadałaby plotki o upadłych imperiach i zakamuflowanych zdradach. Słuchaj uważnie – bo nawet kurz potrafi kłamać."**  
 >— _Pierre Jeoun Tzy, gnomi kronikarz, samozwańczy detektyw historii i mistrz dowcipu_
 
-Dolina Obfitości leży w samym sercu [[Złote Kręgi]], usytuowana pomiędzy majestatycznymi [[Góry Centralne]] a bogatymi w uprawy terenami [[9 Dystrykt (Białałaska)]], na wschód od [[10 Dystrykt (Krania)]]. Rozległe, równinne tereny doliny cechują się płaskim, żyznym gruntem, sprzyjającym rolnictwu, oraz licznymi potokami, które zbierają wodę z górskich szczytów. Region ten jest jednym z nielicznych, gdzie mimo licznych konfliktów, ziemia nie tylko daje plony, ale i zachowuje tajemniczą aurę pradawnej mocy.
+Dolina Obfitości leży w samym sercu [[Złote Kręgi]], usytuowana pomiędzy majestatycznymi Górami Centralnymi a bogatymi w uprawy terenami Białałaski, na wschód od Kranii. Rozległe, równinne tereny doliny cechują się płaskim, żyznym gruntem, sprzyjającym rolnictwu, oraz licznymi potokami, które zbierają wodę z górskich szczytów. Region ten jest jednym z nielicznych, gdzie mimo licznych konfliktów, ziemia nie tylko daje plony, ale i zachowuje tajemniczą aurę pradawnej mocy.
 # **Punkty Zainteresowania:**
 - **Jezioro [[Łza Athreosa]]:**  
-    Centralnym punktem doliny jest jezioro, którego nazwa pochodzi od legend o [[Bóg Athreos]]. Woda jeziora mieni się delikatnym, srebrzystym blaskiem, a miejscowi kapłani wierzą, że łzy Athreosa oczyszczają dusze i zapewniają harmonię między światem żywych a umarłych. Według starożytnych kronik, jezioro było miejscem odprawiania rytuałów, które miały przywrócić równowagę w czasie wielkich kryzysów.
+    Centralnym punktem doliny jest jezioro, którego nazwa pochodzi od legend o Athreosie – bogu przejścia. Woda jeziora mieni się delikatnym, srebrzystym blaskiem, a miejscowi kapłani wierzą, że łzy Athreosa oczyszczają dusze i zapewniają harmonię między światem żywych a umarłych. Według starożytnych kronik, jezioro było miejscem odprawiania rytuałów, które miały przywrócić równowagę w czasie wielkich kryzysów.
 - **Zabytkowe Wzgórza Rolnicze:**  
     Na obrzeżach doliny wyrastają niewielkie wzgórza, które niegdyś stanowiły siedzibę pierwszych osad rolniczych. Miejscowi rolnicy pielęgnują te tereny, a na szczytach wzgórz można znaleźć pozostałości dawnych murów obronnych oraz runiczne inskrypcje, przypominające o czasach, gdy dolina była centrum potężnej cywilizacji.
 - **Stare Ścieżki Handlowe:**  
