@@ -4,9 +4,16 @@ banner_y: 0.128
 tags:
   - teren
 publish: "true"
+cssclasses:
+  - inline-image
 ---
 >[!quote] „Gdy pierwszy raz zobaczyłem te rzekome iskry na skałach, myślałem, że to iluzja. A potem się potknąłem i zjechałem stumetrowym urwiskiem – wrażenia były bardzo prawdziwe!” 
 > — _Pierre Jeoun Tzy, wielbiciel górskich widoków, choć niekoniecznie wspinaczki_
+
+
+|  ![[goryiskierne.jpg]]   |   
+| --- | 
+|  *Góry Iskierne o świcie*   |
 
 Rozległe pasmo górskie rozciągające się w północnej części [[Czerwone Pustkowia]], znane głównie z rzadkich surowców oraz trudnych, surowych warunków klimatycznych. Wśród badaczy i poszukiwaczy przygód uchodzą za miejsce pełne tajemnic, gdzie wysokie szczyty, ukryte doliny i nieodkryte jaskinie kryją niejedną legendę. 
 # Położenie i Charakterystyka Ogólna

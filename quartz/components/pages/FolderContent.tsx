@@ -104,7 +104,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     return (
       <div class="popover-hint">
-
+      <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
             <p>
@@ -117,7 +117,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             <PageList {...listProps} />
           </div>
         </div>
-        <article class={classes}>{content}</article>
       </div>
     )
   }

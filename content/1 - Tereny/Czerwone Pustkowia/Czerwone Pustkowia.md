@@ -11,7 +11,10 @@ draft: "true"
 >[!quote] „Hehe, jakbym miał opisać Czerwone Pustkowia w jednym zdaniu, to rzekłbym: ‘W miejscu, gdzie piasek zdaje się skwierczeć od żaru, człek znajdzie i chłód gór, i zieleń lasu, i wszystko, co między nimi — no i potwory, oczywiście!’ A powiadam wam, co potrafi taki piasek... niech was bogowie strzegą. Całe szczęście, przez tysiąclecia natura odzyskała to, co należało do niej”
 >— _Pierre Jeoun Tzy, gnomi eksplorator i barwny gawędziarz_
 
+^30070a
+
 Surowy, północny obszar świata, którego historia i klimat budzą wędrowców do życia pełnego wyzwań. W tych bezkresnych, nieprzyjaznych przestrzeniach rozlokowały się różnorodne lokacje: od wioski **Taryathe**, zamieszkanej przez plemię Ametystowych Smoków, po majestatyczne **Góry Iskierne** i tajemnicze Lasy **Yavimaya**. Mówi się, że gdzieś pośród dziczy i wyrw tkwią też niezbadane ostańce pradawnych cywilizacji. Czerwone Pustkowia pozostają areną niesamowitych krajobrazów oraz niebezpieczeństw, które pochodzą zarówno od natury, jak i skrytych sił magicznych. Mimo tego, zarówno nazwanie ich pustkowiami, jak i czerwonymi, jest bardzo pokrętną nazwą, jako, że nie są ani puste, ani czerwone.
+^myblockID
 # Geneza Nazwy i Geologia
 ## Barwa Ziemi i Skał
 Niegdysiejszy czerwony odcień pustkowi wiązał się z wysoką zawartością rudy żelaza i innych minerałów, które barwią piasek i pył. Jednakże, w dzisiejszych czasach złoża są już od  dawna wyeksploatowane i wygrała z nimi natura. Wędrowcy często porównują tę krainę do polany skąpanej we krwi – czy to przez legendarny kolor, czy przez legendy o dawnych bitwach, które niegdyś się tu toczyły. Nazwa jest wobec tego dwuznaczna - jednakże zobaczenie czerwonej ziemi, albo terenów podobnych do pustyni jest dość mało prawdopodobne.

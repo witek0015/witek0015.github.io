@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
   //  Component.TagList(),
+   // Component.ContentMeta(),
   ],
   left: [
     Component.MobileOnly(Component.Spacer()),
@@ -39,10 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Flex({
-      components: [
-      {
-        Component: Component.Explorer({
+    Component.Explorer({
           mapFn: (node) => {
             if (node.isFolder) {
               if (node.displayName == "Podsumowania") {
@@ -54,29 +52,22 @@ export const defaultContentPageLayout: PageLayout = {
             }
           }
         }),
-        grow: true,
-      },
-      {
-        Component: Component.ConditionalRender({
-          component: Component.RecentNotes({
-            title: "Ostatnie wpisy",
-            limit: 5,
-            showTags: false,
-          }),
-          condition: (page) => page.fileData.slug == "index",
-        }),
-        shrink: true,
-      }
-      ],
-      gap: "1rem",
-      wrap: "wrap",
-      direction: "column",
-    }),
 
 
   ],
   right: [
-    Component.DesktopOnly(Component.Graph()),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Ostatnie wpisy",
+        limit: 5,
+        showTags: true,
+      }),
+      condition: (page) => page.fileData.slug == "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Graph({}),
+      condition: (page) => page.fileData.slug != "index",
+    }),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
@@ -93,7 +84,7 @@ export const defaultListPageLayout: PageLayout = {
       rootName: "Codex",
     }),
     Component.ArticleTitle(),
-    //Component.ContentMeta()],
+    //Component.ContentMeta(),
     ],
   left: [
     //Component.PageTitle(),
