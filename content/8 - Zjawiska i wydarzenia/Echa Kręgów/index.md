@@ -4,6 +4,7 @@ banner_y: 0.633
 tags:
   - done
 publish: "true"
+title: Echa Kręgów
 ---
 >[!quote] "Echa Kręgów to prawdziwe dzieło sztuki informacyjnej. Jedni czytają je, by dowiedzieć się prawdy, inni – by znaleźć między wierszami ukryte kłamstwa. A ja? Ja czytam je dla literówek, bo to jedyne, co można nazwać tam szczerym błędem."
 >– _Pierre Jeoun Tzy, autor o wiele bardziej rzetelnie sprawdzający swoje źródła informacji_

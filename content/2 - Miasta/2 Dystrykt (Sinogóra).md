@@ -1,9 +1,7 @@
 ---
 banner: "[[Lonely-Mountain-1024x579.jpg]]"
 banner_y: 0.758
-tags:
-  - teren
-  - done
+tags: miasto
 publish: "true"
 ---
 > [!quote] „Pamiętam, jak raz włóczyłem się po Sinogórze, a uderzenia młotów krasnoludów niosły się w powietrzu od rana do zmroku. Ktoś zapytał mnie: ‘Pierre, czy nie za głośno ci tu?’ A ja na to: ‘Za głośno?! To muzyka – w każdym echu kilofa słyszę, jak magia i rzemiosło tańczą razem!’”

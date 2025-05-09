@@ -1,1 +1,1 @@
-[[Echa Kręgów]]
+[[8 - Zjawiska i wydarzenia/Echa Kręgów/index]]

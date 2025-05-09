@@ -1,7 +1,6 @@
 ---
 tags:
-  - zjawiska
-  - done
+  - podsumowanie
 banner: "[[kasa.jpg]]"
 banner_y: 0.832
 publish: "true"

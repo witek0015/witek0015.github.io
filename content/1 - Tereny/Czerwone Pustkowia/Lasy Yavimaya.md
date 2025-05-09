@@ -1,7 +1,6 @@
 ---
 tags:
-  - dzielnica
-  - done
+  - teren
 banner: "[[Yavimaya-Coast-Dominaria-United-MtG-Art.jpg]]"
 banner_y: 0.015
 publish: "true"

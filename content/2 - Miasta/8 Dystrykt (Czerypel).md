@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[czerypel.png]]"
 banner_y: 0.641
 publish: "true"

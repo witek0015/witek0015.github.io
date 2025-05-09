@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[bialalaska.png]]"
 banner_y: 0.086
 publish: "true"

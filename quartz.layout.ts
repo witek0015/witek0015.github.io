@@ -39,15 +39,41 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-    mapFn: (node) => {
-      if (node.isFolder) {
-        node.displayName = "🚪 " + node.displayName
-      } else {
-        node.displayName = "📜 " + node.displayName
+    Component.Flex({
+      components: [
+      {
+        Component: Component.Explorer({
+          mapFn: (node) => {
+            if (node.isFolder) {
+              if (node.displayName == "Podsumowania") {
+                node.displayName = "👑 " + node.displayName
+              }else{
+              node.displayName = "🚪 " + node.displayName
+            }} else {
+              node.displayName = "📜 " + node.displayName
+            }
+          }
+        }),
+        grow: true,
+      },
+      {
+        Component: Component.ConditionalRender({
+          component: Component.RecentNotes({
+            title: "Ostatnie wpisy",
+            limit: 5,
+            showTags: false,
+          }),
+          condition: (page) => page.fileData.slug == "index",
+        }),
+        shrink: true,
       }
-    }
+      ],
+      gap: "1rem",
+      wrap: "wrap",
+      direction: "column",
     }),
+
+
   ],
   right: [
     Component.DesktopOnly(Component.Graph()),
@@ -55,20 +81,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
   afterBody: [
-    Component.ConditionalRender({
-      component: Component.RecentNotes({
-        title: "Ostatnie wpisy",
-        limit: 5,
-      }),
-      condition: (page) => page.fileData.slug == "index",
-    }),
+
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({
+      spacerSymbol: "⁀➴",
+      rootName: "Codex",
+    }),
     Component.ArticleTitle(),
     //Component.ContentMeta()],
     ],
@@ -87,10 +110,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       mapFn: (node) => {
         if (node.isFolder) {
-          node.displayName = "🚪 " + node.displayName
-        } else {
-          node.displayName = "📜 " + node.displayName
-        }
+          if (node.displayName == "Podsumowania") {
+            node.displayName = "👑 " + node.displayName
+          }else{
+            node.displayName = "🚪 " + node.displayName
+          }} else {
+            node.displayName = "📜 " + node.displayName
+          }
       }
     }),
   ],

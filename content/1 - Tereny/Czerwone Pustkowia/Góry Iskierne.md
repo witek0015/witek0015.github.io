@@ -2,8 +2,7 @@
 banner: "[[goryiskierne.jpg]]"
 banner_y: 0.128
 tags:
-  - dzielnica
-  - done
+  - teren
 publish: "true"
 ---
 >[!quote] „Gdy pierwszy raz zobaczyłem te rzekome iskry na skałach, myślałem, że to iluzja. A potem się potknąłem i zjechałem stumetrowym urwiskiem – wrażenia były bardzo prawdziwe!” 

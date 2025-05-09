@@ -1,7 +1,6 @@
 ---
 tags:
-  - dzielnica
-  - done
+  - rejon
 banner: "[[doliny obfitości.jpg]]"
 banner_y: 0.281
 publish: "true"

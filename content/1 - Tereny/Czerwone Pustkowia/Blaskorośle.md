@@ -1,5 +1,5 @@
 ---
 tags:
-  - dzielnica
+  - teren
 ---
 [[Czerwone Pustkowia]]

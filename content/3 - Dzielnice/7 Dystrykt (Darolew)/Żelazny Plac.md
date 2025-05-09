@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[żelazny plac.jpg]]"
 banner_y: 0.661
 publish: "true"

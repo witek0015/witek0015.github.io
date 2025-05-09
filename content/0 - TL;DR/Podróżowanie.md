@@ -1,7 +1,6 @@
 ---
 tags:
-  - zjawiska
-  - done
+  - podsumowanie
 banner: "[[travel.jpg]]"
 banner_y: 0.83
 publish: "true"

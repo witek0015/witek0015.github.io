@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[czterystawy.jpg]]"
 banner_y: 1
 publish: "true"

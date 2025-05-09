@@ -1,6 +1,6 @@
 ---
 tags:
-  - done
+  - podsumowanie
 publish: "true"
 ---
 > [!quote] „Kiedy czytam te wszystkie nazwy epok — Epoka Cieni, Wielka Schizma, Czasy Odrodzenia — nieuchronnie wracam myślą do momentów, gdy stawiałem pierwszy krok w kolejnej Erze i kręciłem głową, dziwiąc się, że świat wciąż się toczy. Bo jakże miał się nie toczyć, skoro w jednej dekadzie widziałem barbarzyńców palących miasta w imię Mogisa, a w następnej magowie Lepkiego Palca wieszali barwne lampiony nad ulicami, świętując rocznicę Otwarcia Portalu? Nie zdziwcie się, jeśli wasze wnuki nazwą obecną epokę 'Czasem Pierre'a' — wszak skoro nawet moje notatki tutaj przetrwały tyle er, to może i ja sam zasłużę na taki tytuł!” 

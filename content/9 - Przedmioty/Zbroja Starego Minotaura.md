@@ -1,7 +1,6 @@
 ---
 tags:
   - przedmioty
-  - done
 banner: "[[zbroja minotaura.png]]"
 banner_y: 0.286
 banner_lock: true

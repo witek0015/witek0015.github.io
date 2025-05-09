@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[darolew baner.jpg]]"
 banner_y: 0.009
 publish: "true"

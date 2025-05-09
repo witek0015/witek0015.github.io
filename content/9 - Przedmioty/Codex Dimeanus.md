@@ -1,3 +1,8 @@
+---
+tags:
+  - przedmioty
+publish: "true"
+---
 *czyli księga ostatnich prawd*
 >[!quote] „Nie wszystkie księgi pisze pióro — niektóre kaligrafuje cierpienie. Nie każdy zapis słów to opowieść — czasem to wyrok, zaklęcie, albo krzyk z przyszłości przebrany za mądrość. Codex Dimeanus nie powstał w jednym czasie, ani w jednym umyśle. Jest jak cień rzucany przez tysiące świec — różny, lecz zawsze prawdziwy. Jeśli czytasz te słowa, to znaczy, że już jesteś jego częścią.”  
 _— Pierre Jeoun Tzy, Archiwista Sfery Ziemskiej_

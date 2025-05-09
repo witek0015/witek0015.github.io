@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[glonica.png]]"
 banner_y: 0.052
 publish: "true"

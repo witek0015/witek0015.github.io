@@ -1,7 +1,5 @@
 ---
-tags:
-  - teren
-  - done
+tags: miasto
 banner: "[[STAROGRÓD.jpg]]"
 banner_y: 0.257
 publish: "true"

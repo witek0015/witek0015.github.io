@@ -1,7 +1,6 @@
 ---
 tags:
   - postaci
-  - done
 banner: "[[chatto.jpg]]"
 banner_y: 0.112
 publish: "true"

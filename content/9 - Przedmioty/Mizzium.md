@@ -1,7 +1,6 @@
 ---
 tags:
   - przedmioty
-  - done
 publish: "true"
 ---
 > [!quote] „Mizzium podobno nie pęka, ale za to potrafi skruszyć porządek świata, jeśli nie używasz go ostrożnie. W końcu co to za zabawa, gdy jeden metal przewyższa wszystkie zaklęcia?”

@@ -1,9 +1,7 @@
 ---
 banner: "[[ravnica-1920.jpg]]"
 banner_y: 0.285
-tags:
-  - teren
-  - done
+tags: miasto
 publish: "true"
 ---
 >[!quote] „Krania, ech… tam nawet tramwaj potrafi cię unieść nie tylko nad brukiem, bo i w duchu się wzbijasz, gdy anioły z Parhelionu przelatują nad głową. A ja się wciąż zastanawiam, jak oni się dogadują w tym kotle tylu bogów, ras i interesów — ale najwyraźniej magia tego miasta jest mocniejsza niż wszystkie nasze spory!”

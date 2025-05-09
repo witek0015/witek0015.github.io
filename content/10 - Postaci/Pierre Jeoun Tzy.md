@@ -1,13 +1,20 @@
 ---
 tags:
   - postaci
-  - done
 banner: "[[pierre.jpg]]"
 banner_y: 0.398
 publish: "true"
+cssclasses:
+  - inline-image
 ---
 >[!quote] „Ach, tak, czytelniku, wiem, że jeszcze nie znalazłeś rozdziału o mnie, Pierre Jeoun Tzym. Prawda jest taka, że w mojej Encyklopedii muszę się pojawić i ja – przecież nie chciałbym, by świat zapomniał, kto uwiecznił tyle legend, bitew i ciekawostek! A skoro większość tych zdarzeń widziałem na własne, gnomie oczy, grzechem byłoby to przemilczeć.”
 >— _Pierre Jeoun Tzy, autor Encyklopedii Świata i pierwszy w dziejach komentator własnej osobistości_
+
+
+|   ![[pierre.jpg]]  |
+| --- |
+|  *Pierre Jeoun Tzy, autoportret*   |
+
 
 Gnomi eksplorator, kronikarz oraz autor obszernej _Encyklopedii Świata_, z której obecnie korzysta wielu badaczy i awanturników. Znany jest ze swoich barwnych relacji i komentarzy, często przepełnionych humorem i pozornym chaosem, w którym jednak wytrawny czytelnik odkrywa dalekosiężną mądrość. Choć większość uważa go za wędrownego gawędziarza, on sam od lat twierdzi, że był świadkiem (a niekiedy uczestnikiem) najważniejszych wydarzeń w historii, dzięki czemu jego prace nabierają szczególnej wiarygodności.
 # Biografia i Twórczość
