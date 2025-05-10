@@ -59,7 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.RecentNotes({
         title: "Ostatnie wpisy",
-        limit: 5,
+        limit: 3,
         showTags: true,
       }),
       condition: (page) => page.fileData.slug == "index",

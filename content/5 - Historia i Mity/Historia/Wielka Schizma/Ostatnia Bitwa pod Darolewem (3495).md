@@ -5,9 +5,15 @@ tags:
   - historia
   - wydarzenie
 publish: "true"
+created: 2025-05-10T17
+updated: 2025-05-10
 ---
 >[!quote] "Kiedy zapłonęły mury, kiedy zgasły rogi bojowe, kiedy ostatni wojownik padł na kolana – jeden minotaur wciąż stał. I to wystarczyło, by zakończyć wojnę."
 >— _Pierre Jeoun Tzy, gnomi kronikarz, który twierdzi, że znał świadków wydarzenia_
+
+| ![[ostatnia bitwa pod darolewem.png]]|
+|-|
+|*Ostatni obrońca Darolewu.*|
 
 # **Geneza Bitwy**
 Upadek Starogrodu w 3495 roku otworzył północnym hordom drogę do podboju Złotych Kręgów. Dzikie zjednoczone pod sztandarem **Kościanego Króla** zmierzały ku Darolewowi, ostatniemu bastionowi cywilizacji na północnej granicy.  
