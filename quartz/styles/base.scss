@@ -318,7 +318,11 @@ a {
         padding: 0 10px !important;
         width: 100%;
         border-radius:2rem;
-        margin-top: 0.5rem !important;
+        margin-top: 0rem !important;
+        background-image: url(https://witek0015.github.io/dimea-lore/static/old-paper.png);
+        background-blend-mode: overlay;
+        background-color: var(--lightgray) !important;
+        border-style: solid;
       }
     }
 
