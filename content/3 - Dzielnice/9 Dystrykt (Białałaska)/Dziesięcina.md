@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[dziesięcina.jpg]]"
 banner_y: 1
 publish: "true"

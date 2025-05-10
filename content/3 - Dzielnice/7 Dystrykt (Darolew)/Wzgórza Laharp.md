@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[wzgorza laharp.jpg]]"
 banner_y: 0.841
 publish: "true"

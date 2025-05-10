@@ -1,6 +1,7 @@
 ---
 tags:
-  - done
+  - epoka
+  - historia
 publish: "true"
 ---
 Epoka Odrodzenia była czasem odbudowy po wyniszczających wojnach, w którym miasta zaczęły wstawać z ruin i na nowo definiować swoje role w Złotych Kręgach. To okres postępu, lecz także napięć i trudnych decyzji.

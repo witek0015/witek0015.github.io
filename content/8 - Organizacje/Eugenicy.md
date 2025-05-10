@@ -1,6 +1,6 @@
 ---
 tags:
-  - done
+  - organizacje
 ---
 #organizacje
 >[!quote] „Dawniej to człek bał się, że w trakcie zabiegu mag spali mu pół twarzy zaklęciem. Teraz przychodzą ci w zielonych kapturach, co pachną dziwacznymi ziołami, i leczą bez czarów. Ale wcale nie jest spokojniej – bo nie wiadomo, czy pod bandażem wrócisz ten sam, czy może… inny?”

@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan burzy.jpg]]"
 banner_y: 0.429
 publish: "true"

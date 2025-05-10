@@ -1,13 +1,18 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[zlotypas.jpg]]"
 banner_y: 0.991
 publish: "true"
+cssclasses:
+  - inline-image
 ---
 >[!quote] „Tam, gdzie powietrze pachnie złotem, a ściany domów są grubsze niż sumienie ich właścicieli.”
 >— Pirre Jeoun Tzy, niemile widziany gość dzielnicy, w której nigdy nie pozwolono mu kupić ziemi.
+
+| ![[zlotypas.jpg]]|
+|-|
+|*Złoty Pas* |
 
 **Złoty Pas** to kwintesencja elitarnego stylu życia w Białałasce – miejsce, gdzie luksus, wpływy i polityka Orzhova spotykają się w jednym punkcie. Zamieszkiwany przez najbogatszych przedstawicieli gildii, w tym członków legendarnego rodu **Karlov**, stanowi centrum zarówno polityczne, jak i ceremonialne. Znajdujące się tutaj świątynie i rezydencje są manifestacją zarówno potęgi Orzhova, jak i wielowiekowej tradycji arystokracji, która swoją władzę opiera na starannie prowadzonych księgach i sekretnych umowach.
 

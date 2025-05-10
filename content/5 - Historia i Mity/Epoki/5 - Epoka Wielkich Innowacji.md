@@ -1,6 +1,6 @@
 ---
 tags:
-  - done
+  - epoka
 publish: "true"
 ---
 Był to **złoty okres technologiczny** w historii kontynentu. Zaczęty **męczeństwem Elhazara**, zakończony **rosnącymi napięciami**, okres ten ukształtował **świat magii i technologii** na kolejne tysiąclecia. Innowacje, które wtedy powstały, są fundamentem **współczesnej cywilizacji** – od prototypów magicznych tramwajów po portale między miastami. Jednak **konflikty między konserwatywnymi i postępowymi siłami** zapowiadały już nadchodzące **wieki chaosu**.

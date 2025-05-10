@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan rahzani.jpg]]"
 banner_y: 0.779
 publish: "true"

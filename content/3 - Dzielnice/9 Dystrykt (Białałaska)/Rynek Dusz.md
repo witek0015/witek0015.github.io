@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[targdusz.jpg]]"
 banner_y: 0.78
 publish: "true"

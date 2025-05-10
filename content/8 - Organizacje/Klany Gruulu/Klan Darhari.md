@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan darhari.jpg]]"
 banner_y: 0.894
 publish: "true"

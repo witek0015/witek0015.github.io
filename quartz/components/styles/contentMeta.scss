@@ -1,7 +1,7 @@
 .content-meta {
   margin-top: 0;
   color: var(--gray);
-
+  font-family: var(--headerFont);
   &[show-comma="true"] {
     > *:not(:last-child) {
       margin-right: 8px;

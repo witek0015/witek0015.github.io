@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan dhosgar.jpg]]"
 banner_y: 0.73
 publish: "true"

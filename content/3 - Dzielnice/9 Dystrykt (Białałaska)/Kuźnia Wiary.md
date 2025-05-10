@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[kuznia wiary.jpg]]"
 banner_x: 0.482
 banner_y: 0.821

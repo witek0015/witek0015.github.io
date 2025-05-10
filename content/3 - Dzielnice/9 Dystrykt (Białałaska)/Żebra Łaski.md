@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[zebra łaski.jpg]]"
 banner_y: 0.73
 publish: "true"

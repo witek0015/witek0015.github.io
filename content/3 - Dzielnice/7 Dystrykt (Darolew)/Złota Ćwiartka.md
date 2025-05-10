@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[zlota cwiartka.jpg]]"
 banner_y: 0.898
 publish: "true"

@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[khunadi klan.jpg]]"
 banner_y: 0.923
 publish: "true"

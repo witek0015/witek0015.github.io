@@ -1,6 +1,7 @@
 ---
 tags:
-  - done
+  - epoka
+  - historia
 publish: "true"
 ---
 # **Najważniejsze aspekty**:

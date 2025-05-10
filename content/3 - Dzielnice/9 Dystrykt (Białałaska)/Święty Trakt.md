@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[swiettrakt.jpg]]"
 banner_y: 1
 publish: "true"

@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[mala istaria.jpg]]"
 banner_y: 0.849
 publish: "true"

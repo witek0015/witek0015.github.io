@@ -1,6 +1,5 @@
 ---
-tags:
-  - done
+tags: []
 ---
 ```calendarium
 ```

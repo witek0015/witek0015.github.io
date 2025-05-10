@@ -2,7 +2,8 @@
 banner: "[[wojna z polnoca.jpg]]"
 banner_y: 0.448
 tags:
-  - done
+  - historia
+  - wydarzenie
 ---
 >[!quote] „Niektóre wojny są bitewnym krzykiem cywilizacji, inne – jej ostatnim tchnieniem. Ta była wszystkim naraz.”
 >— _Pierre Jeoun Tzy, gnomi kronikarz i obiektywnie najlepszy narrator wszech czasów_

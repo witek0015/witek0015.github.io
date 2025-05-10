@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[swietlista droga.jpg]]"
 banner_y: 0.786
 publish: "true"

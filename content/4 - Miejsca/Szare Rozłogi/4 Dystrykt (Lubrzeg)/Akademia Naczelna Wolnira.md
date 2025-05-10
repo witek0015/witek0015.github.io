@@ -1,7 +1,6 @@
 ---
 tags:
   - miejsce
-  - done
 banner: "[[akademia wolnira.jpg]]"
 banner_y: 0.555
 publish: "true"

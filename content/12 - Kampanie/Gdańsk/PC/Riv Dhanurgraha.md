@@ -1,7 +1,6 @@
 ---
 tags:
   - party
-  - done
 ---
 >[!quote] "Riv? Ach, to ten artysta-wyrzutek, który wodzi nas za nos swoimi opowieściami! Mówi, że nie kradnie? Proszę cię, widziałem, jak 'pożycza' uwagę tłumu niczym mistrz złodziejskiej sztuki. Cóż, jedno muszę przyznać – jak na kogoś, kto ledwo uszedł z życiem, wciąż tańczy tak, jakby każda chwila miała być jego ostatnią. I może rzeczywiście tak jest?"
 > — _Pierre Jeoun Tzy, baczny obserwator bardzich występów i swojej sakiewki_

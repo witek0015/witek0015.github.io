@@ -6,7 +6,6 @@ Miasto: Czerwone Pustkowia
 dzielnica: brak
 tags:
   - miejsce
-  - done
 banner_lock: true
 publish: "true"
 ---

@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[bahrodi klan.jpg]]"
 banner_y: 0.804
 publish: "true"

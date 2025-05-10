@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan ladri.jpg]]"
 banner_y: 0.337
 publish: "true"

@@ -1,7 +1,7 @@
 ---
 tags:
-  - dzielnica
-  - done
+  - wyspa
+  - rejon
 banner: "[[casta vanita.jpg]]"
 banner_y: 0.265
 publish: "true"

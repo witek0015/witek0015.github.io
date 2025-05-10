@@ -1,6 +1,7 @@
 ---
 tags:
-  - done
+  - epoka
+  - historia
 publish: "true"
 ---
 >[!quote] "Człowiek potrafi przetrwać największe wojny i klęski, ale nie potrafi przełknąć własnej dumy. I dlatego dziś w miejscu, gdzie stał najpotężniejszy bastion, są tylko kamienie i popiół."

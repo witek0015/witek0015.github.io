@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[pola rzezi.jpg]]"
 banner_y: 0.872
 publish: "true"

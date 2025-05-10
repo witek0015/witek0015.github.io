@@ -1,7 +1,6 @@
 ---
 tags:
   - dzielnica
-  - done
 banner: "[[bazar blaperlond.jpg]]"
 banner_y: 0.934
 publish: "true"

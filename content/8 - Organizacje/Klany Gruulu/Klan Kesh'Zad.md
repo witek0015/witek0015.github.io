@@ -1,7 +1,6 @@
 ---
 tags:
   - organizacje
-  - done
 banner: "[[klan keshzad.jpg]]"
 banner_y: 0.721
 publish: "true"
