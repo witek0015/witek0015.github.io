@@ -8,12 +8,13 @@
 
   & > .graph-outer {
     border-radius: 5px;
-    border: 1px solid var(--lightgray);
+    border: 3px solid var(--darkgray);
     box-sizing: border-box;
     height: 250px;
-    margin: 0.5em 0;
+    margin: 0.5rem 0;
     position: relative;
     overflow: hidden;
+    background-color: var(--light);
 
     & > .global-graph-icon {
       cursor: pointer;
