@@ -3,9 +3,13 @@ tags: miasto
 banner: "[[czerypel.png]]"
 banner_y: 0.641
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] „Czerypel to serce natury, bijące w rytmie życia i magii. Każdy liść, każda gałąź opowiada historię o harmonii i sile, która pozwala temu miastu przetrwać i rozwijać się wśród nieprzyjaznych terenów. Tutaj, w koronach drzewa, spotykają się nauka i magia, tworząc symfonię, która leczy i chroni.”
 >  — _Pierre Jeoun Tzy, gnomi podróżnik i niezachwiany orędownik uzdrowicielskich talentów Czerypelu_
+
+^1e9c1b
 
 **Czerypel** to niezwykłe miasto, usytuowane w koronie gigantycznego drzewa, którego centralnym punktem jest **Vitu-Ghazi** – masywne, magicznie wzmocnione serce całej rośliny. Zawieszone wśród potężnych konarów, Czerypel jawi się jako oaza życia i spokoju w [[Złote Kręgi]], a zarazem kolebka najbardziej doświadczonych uzdrowicieli magicznych na świecie. Miasto kipi zielenią i harmonią – w końcu tu właśnie ma swą siedzibę **Konklawa Stworzenia**, czyli **Gildia Selesnya**, która wyznaje ideały jedności natury i społeczeństwa.
 # Architektura i Dzielnice

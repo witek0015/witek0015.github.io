@@ -1,11 +1,13 @@
 ---
 tags:
-  - teren
+  - rejon
 banner: "[[wyzyny wiatrow.jpg]]"
 banner_y: 0.488
 publish: "true"
 cssclasses:
   - inline-image
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] „Każdy, kto przemierza Wyżyny Wiatru, prędzej czy później zaczyna słyszeć ich głos. Czasem to tylko wiatr, czasem coś więcej – ale niech was nie zwiedzie ten szept. Czerwone Wiatry nie rozróżniają między bohaterem a głupcem.”
 >*– Pierre Jeoun Tzy, gnomi eksplorator, filozof nieoczekiwanych burz i kolekcjoner pyłu*

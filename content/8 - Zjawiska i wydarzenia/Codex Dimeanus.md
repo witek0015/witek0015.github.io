@@ -2,10 +2,12 @@
 tags:
   - przedmioty
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 *czyli księga ostatnich prawd*
 >[!quote] „Nie wszystkie księgi pisze pióro — niektóre kaligrafuje cierpienie. Nie każdy zapis słów to opowieść — czasem to wyrok, zaklęcie, albo krzyk z przyszłości przebrany za mądrość. Codex Dimeanus nie powstał w jednym czasie, ani w jednym umyśle. Jest jak cień rzucany przez tysiące świec — różny, lecz zawsze prawdziwy. Jeśli czytasz te słowa, to znaczy, że już jesteś jego częścią.”  
-_— Pierre Jeoun Tzy, Archiwista Sfery Ziemskiej_
+>— Pierre Jeoun Tzy, Archiwista Sfery Ziemskiej_
 
 Codex Dimeanus nie ma jednej formy, jednego autora, ani nawet jednej epoki. Zgodnie z legendą, jego fragmenty pojawiają się w różnych miejscach i czasach, spisywane przez różnych skrybów, proroków, szaleńców i wybrańców. Wszystkie jednak noszą na marginesach ten sam znak: **łzę wpisaną w okrąg z run kręgów** — symbol poznania, które rani.
 # Treść:

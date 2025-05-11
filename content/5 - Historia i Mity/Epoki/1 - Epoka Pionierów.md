@@ -1,19 +1,10 @@
 ---
-tags: timeline
+tags:
+  - epoka
+  - historia
+publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 
-<div class="ob-timelines"
-	data-title="Epoka Pionierów"
-	data-description=""
-	data-start-date="-1000-00-00-00"
-	data-end-date="0-00-00-00"
-	data-classes=""
-	data-color=""
-	data-era="EP"
-	data-group=""
-	data-path=""
-	data-points-to=""
-	data-type="background"
-	data-tags="">
-	Na arenę dziejów wkraczają protoplaści miast, łączący się w większe społeczeństwa. Handel zaczyna nabierać znaczenia, rosną wpływy kleru poszczególnych bóstw.
-</div>
+Na arenę dziejów wkraczają protoplaści miast, łączący się w większe społeczeństwa. Handel zaczyna nabierać znaczenia, rosną wpływy kleru poszczególnych bóstw.

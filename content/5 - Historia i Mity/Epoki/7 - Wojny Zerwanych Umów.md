@@ -3,8 +3,10 @@ tags:
   - epoka
   - historia
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
-Epoka Wojen Zerwanych Umów była czasem bezprecedensowego rozlewu krwi, zdrad i ciągłych zmian sojuszy. Wielkie miasta, dotychczas współpracujące, zaczęły się dzielić, a konflikty polityczne i handlowe przechodziły w otwarte wojny. **Darolew i Krania** próbowały narzucić porządek, ale bezskutecznie – zbyt wiele było wojen, zbyt wiele układów zostało zerwanych.
+Epoka Wojen Zerwanych Umów była czasem bezprecedensowego rozlewu krwi, zdrad i ciągłych zmian sojuszy. Wielkie miasta, dotychczas współpracujące, zaczęły się dzielić, a konflikty polityczne i handlowe przechodziły w otwarte wojny. **Darolew i Krania** próbowały narzucić porządek, ale bezskutecznie – zbyt wiele było wojen, zbyt wiele układów zostało zerwanych. ^3b8a1b
 # **Kluczowe Wydarzenia:**
 - **3512 – [[Powstanie Bezgłowego]]** – Tajemniczy uzurpator zdobywa władzę nad południem, używając magicznych kontraktów, które więżą przywódców miast i gildii.
 - **3657-3703 – [[Czerypel Ostatnią Nadzieją]]** – Miasto uzdrowicieli jednoczy skłócone frakcje, wysyłając medyków na linie frontu i budując pierwsze fundamenty przyszłego pokoju.

@@ -3,9 +3,13 @@ tags: miasto
 banner: "[[bialalaska.png]]"
 banner_y: 0.086
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] „Białałaska to miejsce, gdzie każdy oddech przesycony jest wonią ziół, a każdy krok prowadzi w stronę duchowego objawienia – lub długu u Orzhov. Jedni powiedzą, że to miasto święte, inni, że skorumpowane, ale ja? Ja twierdzę, że to jedyne miejsce, gdzie modlitwa i biznes mogą współistnieć w tak idealnej harmonii.”
 >  — _Pierre Jeoun Tzy, gnomi kronikarz i sceptyk wobec dziesięcin_
+
+^7058d4
 
 Białałaska, położona w żyznych Południa, jest miastem, które harmonijnie łączy duchowość z praktyczną gospodarką. Dzięki licznym polom uprawnym, pastwiskom i rozległym ogrodom ziół leczniczych, miasto zyskało przydomek **„Spichlerza Dimei”**, zaopatrując w żywność [[Złote Kręgi]]. Jednocześnie, Białałaska jest domem dla **Gildii Orzhov**, która sprawuje faktyczną władzę nad miastem, dzięki swym wpływom zarówno politycznym, jak i religijnym.
 # **Dzielnice**

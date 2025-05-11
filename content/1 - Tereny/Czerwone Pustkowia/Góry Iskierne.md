@@ -2,10 +2,12 @@
 banner: "[[goryiskierne.jpg]]"
 banner_y: 0.128
 tags:
-  - teren
+  - rejon
 publish: "true"
 cssclasses:
   - inline-image
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] „Gdy pierwszy raz zobaczyłem te rzekome iskry na skałach, myślałem, że to iluzja. A potem się potknąłem i zjechałem stumetrowym urwiskiem – wrażenia były bardzo prawdziwe!” 
 > — _Pierre Jeoun Tzy, wielbiciel górskich widoków, choć niekoniecznie wspinaczki_

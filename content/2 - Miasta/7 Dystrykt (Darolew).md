@@ -3,9 +3,13 @@ tags: miasto
 banner: "[[darolew baner.jpg]]"
 banner_y: 0.009
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] „Kto nie widział dzikich sztandarów Darolewa powiewających nad bramą główną, ten nie zrozumie, jak gorące jest serce tego miasta. Z jednej strony orkiestra wojskowa grzmi, z drugiej migoczą płomienie kuźni w Żelaznym Placu, a w tle pobrzękują ciężkie wozy z węglem. Darolew to twierdza zbudowana na krwi i metalu, lecz, co śmieszniejsze, wystarczy przekroczyć granicę Złotej Ćwiartki, by zobaczyć przepych rodem z najbogatszych rezydencji Krania. Oto właśnie darolewska natura – twarda i wyrafinowana jednocześnie.”
 >— _Pierre Jeoun Tzy, gnomi kronikarz i miłośnik kontrastów_
+
+^17a236
 
 **Darolew** to bastion rzemiosła i militarnej siły położony u skraju Czerwonych Pustkowi, założony pierwotnie jako warowna twierdza chroniąca [[Złote Kręgi]] przed najeźdzcami. Z czasem miasto wyrosło na istotny ośrodek przemysłowy, produkujący niezbędne elementy konstrukcyjne i zbrojeniowe dla sąsiednich krain. Chociaż do dziś kojarzy się głównie z maszerującymi regimentami i zadymionymi kuźniami, Darolew to także miejsce niezwykłych kontrastów – dostojna Rada Miejska rezyduje pośród luksusów, zaś ulice tętnią życiem i gwarem różnorodnych kultur.
 # Kultura i Obyczaje

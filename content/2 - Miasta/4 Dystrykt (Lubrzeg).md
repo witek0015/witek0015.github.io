@@ -3,9 +3,13 @@ tags: miasto
 banner: "[[lubrzeg.jpg]]"
 banner_y: 0.484
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] „Lubrzeg – surowa perła prawa, gdzie brutalna architektura przytłacza, a jednocześnie inspiruje. To miejsce, gdzie dźwięk młota sędziego rozbrzmiewa jak bicie serca świata – równomiernie, nieubłaganie, w zgodzie z odwiecznymi zasadami.”
 > — _Pierre Jeoun Tzy, autor, który nie raz i nie dwa musiał tłumaczyć się przed radą za swoje „interpretacje faktów”_.
+
+^6ab533
 
 Lubrzeg, zwany „Miastem Porządku”, to surowa perła północno-zachodnich krain, wzniesiona na skraju Gór Starego Jotuunu w [[Szare Rozłogi]]. Miasto jest siedzibą **Senatu Azora**, Naczelnej Rady Magów oraz głównym centrum edukacji prawnej i magicznej kontynentu. Otoczone majestatycznymi szczytami, przytłacza surowością swojej architektury, w której dominują brutalistyczne wieże, proste bryły i monumentalne arkady. Lubrzeg nie jest miejscem, które kusi pięknem – to miasto, które narzuca szacunek.
 # **Dzielnice Lubrzegu**

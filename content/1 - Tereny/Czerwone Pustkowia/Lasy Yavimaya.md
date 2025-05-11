@@ -1,9 +1,11 @@
 ---
 tags:
-  - teren
+  - rejon
 banner: "[[Yavimaya-Coast-Dominaria-United-MtG-Art.jpg]]"
 banner_y: 0.015
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] „Yavimaya to nie tylko las – to żywa, oddychająca istota. Przemierzając jej ścieżki, można poczuć się jak intruz w domu czegoś starszego, większego i o wiele mądrzejszego. A jeśli słyszysz szept wśród liści? To może być duch lasu… albo cichy szelest łowcy, który już cię wybrał. Tak czy inaczej, lepiej szanuj ziemię pod swoimi stopami.”
 > — _Pierre Jeoun Tzy, gnomi podróżnik i badacz zielonych tajemnic Yavimayi_

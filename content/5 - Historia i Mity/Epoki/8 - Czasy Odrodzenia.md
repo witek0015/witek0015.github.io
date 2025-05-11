@@ -3,8 +3,10 @@ tags:
   - epoka
   - historia
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
-Epoka Odrodzenia była czasem odbudowy po wyniszczających wojnach, w którym miasta zaczęły wstawać z ruin i na nowo definiować swoje role w Złotych Kręgach. To okres postępu, lecz także napięć i trudnych decyzji.
+Epoka Odrodzenia była czasem odbudowy po wyniszczających wojnach, w którym miasta zaczęły wstawać z ruin i na nowo definiować swoje role w Złotych Kręgach. To okres postępu, lecz także napięć i trudnych decyzji. ^1c90cc
 # **Kluczowe Wydarzenia**
 - **4512 – [[Wielka Karta Odbudowy]]**
 	Po latach wyniszczających konfliktów przywódcy miast podpisują **Wielką Kartę Odbudowy**, dokument określający zasady podziału środków i zasobów na odbudowę miast. Gwarantuje ona pomoc dla miast najbardziej zniszczonych w czasie Wojen Zerwanych Umów. Szczególną rolę odgrywa w tym Lubrzeg, który staje się centrum finansowym odbudowy.

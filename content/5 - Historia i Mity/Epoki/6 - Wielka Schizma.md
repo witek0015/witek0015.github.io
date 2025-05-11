@@ -3,9 +3,13 @@ tags:
   - epoka
   - historia
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] "Człowiek potrafi przetrwać największe wojny i klęski, ale nie potrafi przełknąć własnej dumy. I dlatego dziś w miejscu, gdzie stał najpotężniejszy bastion, są tylko kamienie i popiół."
 >— _Pierre Jeoun Tzy, gnomi kronikarz, samozwańczy historyk i kolekcjoner absurdalnych anegdot_
+
+^8f7370
 
 Epoka **Wielkiej Schizmy** to czas niepokojów, pogłębiających się podziałów religijnych, politycznych oraz militarnej ekspansji na północy. Był to okres, w którym fundamentalne różnice ideologiczne między wyznawcami Iroasa, Mogisa i Phenaxa doprowadziły do eskalacji konfliktów, upadku miast i osłabienia struktur Złotych Kręgów.
 # **Kluczowe Wydarzenia**

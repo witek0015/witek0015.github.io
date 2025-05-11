@@ -3,9 +3,13 @@ banner: "[[Lonely-Mountain-1024x579.jpg]]"
 banner_y: 0.758
 tags: miasto
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] „Pamiętam, jak raz włóczyłem się po Sinogórze, a uderzenia młotów krasnoludów niosły się w powietrzu od rana do zmroku. Ktoś zapytał mnie: ‘Pierre, czy nie za głośno ci tu?’ A ja na to: ‘Za głośno?! To muzyka – w każdym echu kilofa słyszę, jak magia i rzemiosło tańczą razem!’”
 > — _Pierre Jeoun Tzy, gnomi kronikarz i degustator krasnoludzkich hałasów_
+
+^6d91a5
 
 Imponujące miasto górnicze, ulokowane w samym sercu Gór Centralnych w [[Złote Kręgi]], znane z bogatych kopalń _manalitu_ – magicznego minerału zasilającego najróżniejsze przedmioty i urządzenia czarodziejskie. Większość populacji stanowią krasnoludy, które od pokoleń doskonalą się w sztuce wydobycia i obróbki cennych kruszców. Mimo trudnych warunków, surowego klimatu i ciągłego dźwięku kilofów, Sinogóra od wieków uchodzi za symbol wytrwałości, inżynierskiej pomysłowości i magicznej innowacji.
 # Historia

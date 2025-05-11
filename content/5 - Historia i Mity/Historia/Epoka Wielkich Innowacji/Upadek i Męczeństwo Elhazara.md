@@ -1,21 +1,39 @@
+---
+created: 2025-05-10
+updated: 2025-05-11
+tags:
+  - historia
+  - postaci
+publish: "true"
+---
 # **Narodziny Mitologii Postępu**
 W czasach Epoki Wielkich Innowacji, kiedy magia i technologia zaczęły splatać się w jedną całość, istniał człowiek (lub, jak twierdzą niektóre źródła, elf) imieniem **[[Elhazar]]**. Był on arcymagiem, filozofem i alchemikiem, który wierzył, że bogowie niesłusznie ograniczają dostęp do prawdziwej potęgi magii, pozostawiając śmiertelników na łasce ich kaprysów. Podczas gdy najwyższe rody i arystokracja mogły korzystać z błogosławieństwa bogów, zwykli ludzie byli zmuszeni żyć bez dostępu do potężnych zaklęć i energii.
-Elhazar pragnął to zmienić. Przez dziesięciolecia badał **naturę manalitu** – niezwykłego, pulsującego magią minerału, który znajdowano w Górach Iskiernych. Uważał, że to właśnie **manalit był kluczem do zerwania łańcuchów nałożonych przez bogów** i do stworzenia świata, w którym każdy mógłby władać magią. Po latach eksperymentów odkrył sposób na **destylację czystej esencji magii** – sekret, który według legend podkradł **samym bogom**.
+
+Elhazar pragnął to zmienić. Przez dziesięciolecia badał **naturę [[Manalit]]u** – niezwykłego, pulsującego magią minerału, który znajdowano w [[Góry Iskierne]]. Uważał, że to właśnie **manalit był kluczem do zerwania łańcuchów nałożonych przez bogów** i do stworzenia świata, w którym każdy mógłby władać magią. Po latach eksperymentów odkrył sposób na **destylację czystej esencji magii** – sekret, który według legend podkradł **samym bogom**.
 # **Kradzież Płomienia**
-Nie wiadomo, jak dokładnie Elhazar zdobył swoje odkrycie. Niektórzy twierdzą, że odwiedził świątynię Kruphixa, boga tajemnic, i oszukał jego kapłanów, by wydali mu zakazane pergaminy. Inni mówią, że odważył się wejść na **Wierzchołek Nieba** – mityczny szczyt w Górach Starego Jotuunu, gdzie podobno skrywany był **boski płomień magii**. Jednak najczęściej powtarzana historia mówi, że sam **Kruphix ofiarował mu wiedzę, lecz ostrzegł, że świat nie jest na nią gotowy**.
+Nie wiadomo, jak dokładnie Elhazar zdobył swoje odkrycie. Niektórzy twierdzą, że odwiedził świątynię Kruphixa, boga tajemnic, i oszukał jego kapłanów, by wydali mu zakazane pergaminy. Inni mówią, że odważył się wejść na **[[Wierzchołek Nieba]]** – mityczny szczyt w [[Góry Starego Jotuunu]], gdzie podobno skrywany był **boski płomień magii**. Jednak najczęściej powtarzana historia mówi, że sam **[[Bóg Kruphix]]] ofiarował mu wiedzę, lecz ostrzegł, że świat nie jest na nią gotowy**.
+
 Nie zważając na ostrzeżenia, Elhazar dokonał **przełomowego odkrycia** – stworzył pierwsze **manalitowe rdzenie**, które mogły dostarczać nieograniczoną ilość magicznej energii każdemu, kto je posiadał. Było to jak wykradzenie boskiego płomienia i podarowanie go śmiertelnikom – rzecz niewybaczalna w oczach bogów i kapłanów.
 # **Upadek i Wieczna Klątwa**
-Wieść o tym odkryciu rozniosła się szybko. Jedni widzieli w Elhazarze zbawiciela, inni bluźniercę. Władcy miast i potężne gildie (zwłaszcza **Azorius** i **Orzhov**) uznały go za **zagrożenie dla porządku**. Śmiertelnicy nie mogli władać magią bez ograniczeń – groziło to zniszczeniem struktury społecznej, na której opierały się ich imperia.
-Rozpoczęła się **polityczna i religijna krucjata** przeciwko Elhazarowi i jego zwolennikom. Po latach ucieczek, zdrad i walk, został w końcu pojmany przez Radę Miast. Wytoczono mu **proces stulecia**, w którym zarówno kapłani bogów, jak i arcymagowie debatowali, czy jego odkrycie jest **darem dla ludzkości**, czy **klątwą, która doprowadzi do chaosu**.
+Wieść o tym odkryciu rozniosła się szybko. Jedni widzieli w Elhazarze zbawiciela, inni bluźniercę. Władcy miast i potężne gildie (zwłaszcza **[[Senat Azora (Azorius)]]** i **[[Rodzina Orzhov (Orzhov)]]**) uznały go za **zagrożenie dla porządku**. Śmiertelnicy nie mogli władać magią bez ograniczeń – groziło to zniszczeniem struktury społecznej, na której opierały się ich imperia.
+
+Rozpoczęła się **polityczna i religijna krucjata** przeciwko Elhazarowi i jego zwolennikom. Po latach ucieczek, zdrad i walk, został w końcu pojmany przez [[Rada Międzydzielnicowa]]. Wytoczono mu **proces stulecia**, w którym zarówno kapłani bogów, jak i arcymagowie debatowali, czy jego odkrycie jest **darem dla ludzkości**, czy **klątwą, która doprowadzi do chaosu**.
+
 Ostatecznie, skazano go na **wieczne wygnanie**, a jego imię wymazano z oficjalnych kronik. Nie zabito go – lecz bogowie nałożyli na niego **karę gorszą niż śmierć**. **Każdego ranka zapominał, kim jest, i jakie odkrycia poczynił**. Wszystkie jego zapiski spalono, a jego uczniów rozproszono. Został samotnym wędrowcem, bez pamięci, bez wiedzy – lecz z niepokojącym uczuciem, że kiedyś znał coś, co mogło zmienić świat.
+
 Legenda głosi, że jego ostatnie słowa przed skazaniem brzmiały:
 
-> _„Nie można spalić prawdy. Znów ją odkryjecie – i wtedy wybór będzie należał do was.”_
+> [!quote] _„Nie można spalić prawdy. Znów ją odkryjecie – i wtedy wybór będzie należał do was.”_
+
 # **Dziedzictwo Elhazara**
-Choć oficjalnie Elhazar zniknął z historii, jego idee **nigdy nie zostały całkowicie zniszczone**. Jego uczniowie – teraz rozproszeni po całym świecie – przekazywali sobie szczątki jego wiedzy. Wieki później, w ukrytych laboratoriach Kombinatu Biomancji i w tajnych archiwach Izzetu, **jego badania o manalitowych rdzeniach zaczęły odżywać**. Niektórzy szepczą, że **część jego odkryć przetrwała w Glonicy**, gdzie nekromanci z Roju Golgari ukryli zakazane pergaminy wśród zbutwiałych ciał.
+Choć oficjalnie Elhazar zniknął z historii, jego idee **nigdy nie zostały całkowicie zniszczone**. Jego uczniowie – teraz rozproszeni po całym świecie – przekazywali sobie szczątki jego wiedzy. Wieki później, w ukrytych laboratoriach [[Kombinat Biomancji (Simic)]] i w tajnych archiwach [[Liga Izzetu (Izzet)]], **jego badania o manalitowych rdzeniach zaczęły odżywać**. Niektórzy szepczą, że **część jego odkryć przetrwała w [[3 Dystrykt (Glonica)]]**, gdzie nekromanci z Roju Golgari ukryli zakazane pergaminy wśród zbutwiałych ciał.
+
 Co do samego Elhazara – są tacy, którzy twierdzą, że wciąż gdzieś żyje. Wędruje przez świat, **nieświadomy, kim jest**, lecz instynktownie czując, że **ma do odegrania rolę, której nie rozumie**. Może jest tylko legendą. A może, gdzieś tam, błądzi po drogach Złotych Kręgów, nieświadomy własnej wielkości, wciąż szukając czegoś, co sam kiedyś stworzył.
 ## **Wpływ Mitu na Współczesny Świat**
-- **Wielu wynalazców i uczonych uważa Elhazara za patrona badań nad manalitem i magią technologiczną.** Jest często wspominany w lubrzeckich akademiach, choć oficjalnie jego imię nie widnieje w podręcznikach.
-- **Sekretne kulty czczą go jako „Śpiącego Mistrza”**, wierząc, że pewnego dnia odzyska pamięć i powróci, by dokończyć swe dzieło.
-- **Kapłani Kruphixa głoszą, że był ostrzeżeniem przed przekraczaniem granic**, a jego klątwa to „przestroga dla tych, którzy chcą sięgnąć zbyt daleko”.
-- **Powszechne są teorie, że jego odkrycia wciąż istnieją w ukrytych bibliotekach lub artefaktach**, a **ich odnalezienie mogłoby całkowicie odmienić sposób funkcjonowania magii w świecie**.
+**Wielu wynalazców i uczonych uważa Elhazara za patrona badań nad manalitem i magią technologiczną.** Jest często wspominany w lubrzeckich akademiach, choć oficjalnie jego imię nie widnieje w podręcznikach.
+
+**Sekretne kulty czczą go jako „Śpiącego Mistrza”**, wierząc, że pewnego dnia odzyska pamięć i powróci, by dokończyć swe dzieło.
+
+**Kapłani Kruphixa głoszą, że był ostrzeżeniem przed przekraczaniem granic**, a jego klątwa to „przestroga dla tych, którzy chcą sięgnąć zbyt daleko”.
+
+**Powszechne są teorie, że jego odkrycia wciąż istnieją w ukrytych bibliotekach lub artefaktach**, a **ich odnalezienie mogłoby całkowicie odmienić sposób funkcjonowania magii w świecie**.

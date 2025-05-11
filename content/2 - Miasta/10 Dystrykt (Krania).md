@@ -3,9 +3,13 @@ banner: "[[ravnica-1920.jpg]]"
 banner_y: 0.285
 tags: miasto
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] „Krania, ech… tam nawet tramwaj potrafi cię unieść nie tylko nad brukiem, bo i w duchu się wzbijasz, gdy anioły z Parhelionu przelatują nad głową. A ja się wciąż zastanawiam, jak oni się dogadują w tym kotle tylu bogów, ras i interesów — ale najwyraźniej magia tego miasta jest mocniejsza niż wszystkie nasze spory!”
 >— _Pierre Jeoun Tzy, gnomi wędrowiec i komentator wszystkiego, co dziwne i cudowne_
+
+^12b646
 
 Dumny status „stolicy” świata, centrum tętniące życiem wszystkich ras i wyznań, przepełnione nowoczesnymi rozwiązaniami technologicznymi (magiczne tramwaje) i wiedzą (największa biblioteka świata). Nad miastem unosi się majestatyczna aura Gildii Boros, której latający statek aniołów – **Parhelion** – góruje czasem nad Wyżynami Gryfońskimi. Krania stanowi mozaikę kultur, ambicji i historii, splatającą się w ogniwo spajające cały kontynent i jednocześnie punkt centralny [[Złote Kręgi]]
 # Historia

@@ -4,9 +4,13 @@ banner_y: 0.187
 tags:
   - miasto
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 >[!quote] „W Ostronii widziałem statki, które nigdy nie wypłynęły z portu, bo się upiły w karczmie; widziałem rybaków, co zarzucali sieci na gwiazdy, a wciągali w nich alkohol. Najdziwniejsze jednak, że ruiny zamku wciąż trzymają się skały jak uparty muł – ot, magia w najczystszej postaci.”
 >— _Pierre Jeoun Tzy, gnomi wagabunda i kronikarz beztrosko-ponurych realiów_
+
+^549dd3
 
 Dziś największe i najbardziej ruchliwe miasto portowe [[Tysiąc Mostów]], niegdyś nosiła nazwę **Canteloft** i słynęła z malowniczych klifów oraz zrównoważonej, spokojnej egzystencji. Jednak seria dziejowych zawirowań przeobraziła ją w tłumną metropolię, pełną kontrastów i sekretów. Zamek, kiedyś dumnie wznoszący się nad miastem, dawno obrócił się w ruinę, a jego nazwa uchowała się głównie w formie legend i licznych podań.
 # Dawne Dzieje: Od Canteloftu do Ostronii

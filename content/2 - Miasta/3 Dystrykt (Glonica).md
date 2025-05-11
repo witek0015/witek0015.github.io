@@ -3,9 +3,13 @@ tags: miasto
 banner: "[[glonica.png]]"
 banner_y: 0.052
 publish: "true"
+created: 2025-05-10
+updated: 2025-05-11
 ---
 > [!quote] "Glonica to miejsce, gdzie umarli śnią, a żywi chodzą po ich wspomnieniach. Każda ulica, każdy kamień opowiada historię – czasem szepcze ją do ucha, a czasem krzyczy w twarz." 
 >  — _Pierre Jeoun Tzy, samozwańczy encyklopedysta i, jak twierdzi, „jedyny żywy, który umie słuchać martwych”_
+
+^151d43
 
 Glonica to wyjątkowe miejsce, gdzie przeszłość spotyka się z teraźniejszością w cieniu wszechobecnej śmierci. Miasto, zbudowane na ruinach dawnej metropolii, łączy monumentalne budowle sprzed wieków z mrocznymi, organicznymi strukturami tworzonymi przez **Rój Golgari**, który rezyduje w jego katakumbach. Najbardziej wysunięte na południe miasto Złotych Kręgów jest zarazem nekropolią i ośrodkiem życia, które rozwija się dzięki sile odradzającej się natury. Stanowi trzon kultu śmierci w [[Złote Kręgi]].
 # **Kultura i Obyczaje**
