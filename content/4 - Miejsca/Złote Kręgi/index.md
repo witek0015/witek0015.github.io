@@ -1,7 +1,8 @@
 ---
 publish: "true"
 created: 2025-05-11
-updated: 2025-05-11
+updated: 2025-05-12
 title: Złote Kręgi
 ---
-![[Złote Kręgi#^9e505a]]
+>[!fail] Prywatne zbiory w odbudowie — dopraszam się o cierpliwość
+>— *Pierre Jeoun Tzy*  

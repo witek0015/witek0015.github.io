@@ -1,7 +1,10 @@
 ---
 tags:
   - organizacje
+  - gildie
 publish: "true"
+created: 2025-05-11
+updated: 2025-05-12
 ---
 >[!quote] "Nie jest łatwo mówić o tych, którzy widzą piękno w rozkładzie i harmonię w pleśni. Ale spójrz głębiej, przyjacielu – Rój Golgari to fundament, na którym stoi cała nasza cywilizacja. Bez ich pracy w cieniu, nasze miasta tonęłyby w chaosie i odpadkach."
 > – _Pierre Jeoun Tzy, obserwator cienkiego marginesu między życiem i śmiercią_

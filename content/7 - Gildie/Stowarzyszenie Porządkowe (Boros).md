@@ -1,6 +1,9 @@
 ---
 tags:
   - organizacje
+  - gildie
+created: 2025-05-11
+updated: 2025-05-12
 ---
 > [!quote] „Nie ma na świecie większej siły niż legion Boros w pełnym szyku – oprócz może ich nieugiętej pewności, że zawsze mają rację. Ale czy nie jest to cecha wszystkich bohaterów?”
 >  — _Pierre Jeoun Tzy, kronikarz, który zawsze nosi notatnik, na wypadek gdyby Boros zaczęli legitymować kronikarzy._

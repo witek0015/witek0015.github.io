@@ -1,10 +1,15 @@
 ---
 tags:
   - organizacje
+  - gildie
 publish: "true"
+created: 2025-05-11
+updated: 2025-05-12
 ---
 > [!quote] "Ośmiu wodzów, osiem klanów, i jeden cyklop, który próbuje ich utrzymać w ryzach? Przypomina mi to nieudaną próbę ułożenia dzikich węży w pudełku – w końcu któreś ugryzie cię w rękę! Ale hej, jeśli Gruule mają jakieś zasady, to są to zasady pisane krwią i dymem spalonych miast."
 >— _Pierre Jeoun Tzy, gnomi kronikarz i pełen podziwu obserwator chaosu Gruulu_
+
+^efadd3
 
 Klany Gruulu, znane jako **wolni synowie ziemi**, to zbieranina niezależnych klanów, które sprzeciwiają się miejskiej cywilizacji i jej złożonym strukturom. Ich surowa filozofia życia polega na harmonii z dziką naturą, nieustannej walce o przetrwanie i sprzeciwie wobec wszelkich form narzucanego porządku. Przewodzi im **[[Cisarzim]]**, ogromny cyklop, który symbolizuje nieposkromioną potęgę natury i siłę woli. Modlą się do **[[Bogini Klothys]]**.
 # Siedziba Gildii

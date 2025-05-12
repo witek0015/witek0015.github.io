@@ -1,12 +1,19 @@
 ---
-tags: party
-ac: "17"
-hp: 46
-level: 4
-modifier: 0
+tags:
+  - postaci
+  - druzyna
+created: 2025-05-11
+updated: 2025-05-12
+publish: "true"
+cssclasses:
+  - inline-image
 ---
 > [!quote] „Gdy wpadłem na tego rogacza, byłem pewien, że woli rąbać wrogów niż zamykać sierociniec. A on? Wali głową w tarczę jak ja w targowisko przed świtem — tyle że jemu się to zawsze opłaca!”
 > — _Pierre Jeoun Tzy, obserwator minotaurzych ambicji_
+
+| ![[aste|
+|-|
+|*Potężny wojownik, ogień i stal* |
 
 Młody minotaur wywodzący się z rodu wojowników zamieszkujących Kranie, słynący z zamiłowania do walki oraz nieustannego dążenia do zdobycia wielkiej sławy. Jego ambicją jest zostać jednym z najsilniejszych wojowników na całej Ravnice, zyskując rozgłos przerastający osiągnięcia starszych braci, a nawet ojca, [[Ramus Segor]].
 # Pochodzenie i Tło Rodzinne
@@ -33,13 +40,4 @@ Zwycięstwo na arenie wyzwoliło w nim lekką pychę – zaczął częściej lek
     Określa siebie mianem sprawiedliwego – choć „sprawiedliwość” w jego wydaniu bywa subiektywna. Do dzieci i ofiar wojen podchodzi z szacunkiem i ochronnym instynktem.
 - **Lekka Pycha**  
     Zwycięstwo w pierwszym turnieju sprawiło, że Asterak niekiedy przecenia własne możliwości, mierząc się chętniej z silniejszymi przeciwnikami, niż rozsądek by nakazywał.
-# Obecna sytuacja
-- **Rodzeństwo i Rodowe Korzenie**  
-Jego starsi bracia: **Rukus**, **[[Bikus Segor]]**, **[[Dikus Segor]]** – również walczyli, dorabiali się w najemniczych kompaniach i dawno już wydeptali wojenne ścieżki. Asterak pragnie przebić ich sukcesy, co napędza jego determinację.
-- **[[Amulet Odkupienia]]**  
-Jest właścicielem tajemniczego Amuletu Odkupienia, który według wiedźmy ma chronić przed skutkami błędnych decyzji. Chociaż nie uznaje go za cudowny artefakt, czasem spogląda na niego, myśląc o przeszłości.
-
-# Podsumowanie
-**Asterak** to młody minotaur, w którym ambicja wojownika ściera się z pragmatyzmem i wartościami zaszczepionymi przez ojca, Ramusa Segora. Mimo doświadczenia okrucieństw walki zachowuje optymizm i towarzyskość. Jego zwycięstwo na arenie i tytuł „tarczołamacza” wzmacniają w nim przekonanie, że brawurowe wyczyny to nie tylko szansa na sławę, lecz także sposób na utrzymanie sierocińca, który pozostawił ojciec.  
-Czy jednak wewnętrzne pragnienie stania się najlepszym wojownikiem Ravniki nie przysłoni mu celu, jakim jest dobro tych, którzy potrzebują opieki? Czas pokaże, czy Asterak zdoła odnaleźć równowagę między rosnącą pychą a współczuciem, jakie okazuje najsłabszym. Jedno jest pewne: jego przygoda dopiero nabiera rozpędu.
 

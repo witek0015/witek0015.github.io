@@ -6,10 +6,12 @@ tags:
 publish: "true"
 cssclasses:
   - showoff-image
+created: 2025-05-11
+updated: 2025-05-12
 ---
-|   ![[Star_Chart_Header.jpg]]  |
-| --- |
-|   *Konstelacje odpowiadające poszczególnym bóstwom*  |
+| ![[Star_Chart_Header.jpg]]                        |
+| ------------------------------------------------- |
+| *Konstelacje odpowiadające poszczególnym bóstwom* |
 # Ephara
 **Sfera**: Architektura, ład społeczny, rozwój kulturalny  
 **Charakterystyka**:

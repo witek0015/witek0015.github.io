@@ -1,7 +1,10 @@
 ---
 tags:
   - organizacje
+  - gildie
 publish: "true"
+created: 2025-05-11
+updated: 2025-05-12
 ---
 > [!quote] „Prawdę mówiąc, trudno opisać rodzinę Orzhovów, nie czując jednocześnie dreszczu na karku. Ich Katedra Zaćmienia nie przypomina zwykłej świątyni – raczej miejsce, gdzie bogactwo, władza i śmierć splatają się w nierozerwalny węzeł. Powiem tak: wchodząc tam, licz się z tym, że możesz wyjść uboższy o sakiewkę, duszę albo jedno i drugie.” 
 >— _Pierre Jeoun Tzy, niezawodny kronikarz i podejrzliwy obserwator Obzedatu_
