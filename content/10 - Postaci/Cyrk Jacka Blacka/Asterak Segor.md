@@ -3,7 +3,7 @@ tags:
   - postaci
   - druzyna
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-14
 publish: "true"
 cssclasses:
   - inline-image
@@ -11,7 +11,7 @@ cssclasses:
 > [!quote] „Gdy wpadłem na tego rogacza, byłem pewien, że woli rąbać wrogów niż zamykać sierociniec. A on? Wali głową w tarczę jak ja w targowisko przed świtem — tyle że jemu się to zawsze opłaca!”
 > — _Pierre Jeoun Tzy, obserwator minotaurzych ambicji_
 
-| ![[aste|
+| ![[Pasted image 20250514194313.png]]|
 |-|
 |*Potężny wojownik, ogień i stal* |
 
