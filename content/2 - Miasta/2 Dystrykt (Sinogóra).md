@@ -4,14 +4,18 @@ banner_y: 0.758
 tags: miasto
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-14
 ---
 > [!quote] „Pamiętam, jak raz włóczyłem się po Sinogórze, a uderzenia młotów krasnoludów niosły się w powietrzu od rana do zmroku. Ktoś zapytał mnie: ‘Pierre, czy nie za głośno ci tu?’ A ja na to: ‘Za głośno?! To muzyka – w każdym echu kilofa słyszę, jak magia i rzemiosło tańczą razem!’”
 > — _Pierre Jeoun Tzy, gnomi kronikarz i degustator krasnoludzkich hałasów_
 
 ^6d91a5
 
-Imponujące miasto górnicze, ulokowane w samym sercu Gór Centralnych w [[Złote Kręgi]], znane z bogatych kopalń _manalitu_ – magicznego minerału zasilającego najróżniejsze przedmioty i urządzenia czarodziejskie. Większość populacji stanowią krasnoludy, które od pokoleń doskonalą się w sztuce wydobycia i obróbki cennych kruszców. Mimo trudnych warunków, surowego klimatu i ciągłego dźwięku kilofów, Sinogóra od wieków uchodzi za symbol wytrwałości, inżynierskiej pomysłowości i magicznej innowacji.
+|![[Lonely-Mountain-1024x579.jpg]]|
+|-|
+|*Sinogóra to największa duma krasnoludów*|
+
+Imponujące miasto górnicze, ulokowane w samym sercu Gór Centralnych w [[Złote Kręgi]], znane z bogatych kopalń _[[Manalit]]u_ – magicznego minerału zasilającego najróżniejsze przedmioty i urządzenia czarodziejskie. Większość populacji stanowią krasnoludy, które od pokoleń doskonalą się w sztuce wydobycia i obróbki cennych kruszców. Mimo trudnych warunków, surowego klimatu i ciągłego dźwięku kilofów, Sinogóra od wieków uchodzi za symbol wytrwałości, inżynierskiej pomysłowości i magicznej innowacji.
 # Historia
 ## Historia Miasta 
 Pierwsze zapisy o Sinogórze pojawiają się w kronikach na przełomie _Epoki Pionierów_ i _Epoki Nadziei_, kiedy to krasnoludzcy podróżnicy natrafili w Górach Centralnych na pasmo niezwykle bogate w surowce. Według legend, przez długi czas nie zdawano sobie sprawy z wyjątkowych właściwości manalitu – dopiero przypadkowe odkrycie iskrzenia na styku kryształu z narzędziami rzemieślniczymi miało rozpalić wyobraźnię klanów górniczych. W ciągu następnych pokoleń niewielka osada przekształciła się w prężne centrum wydobywcze, co przyciągnęło kolejnych osadników, handlarzy oraz konstruktorów żądnych wykorzystania potencjału magicznego kamienia. W czasach _Wojen Zerwanych Umów_ Sinogóra odparła kilka najazdów barbarzyńców z obrzeży pustkowi, zyskując sławę niezłomnej fortecy krasnoludów. Z czasem miasto wzmocniło polityczne więzi z innymi ośrodkami, stając się kluczowym eksporterem manalitu i stanowiąc ważny punkt w łańcuchu handlu artefaktami magicznymi. Dodanie zaś nowych dzielnic, jak **Złoty Targ** czy **Dolina Młota**, przypieczętowało rozwój Sinogóry jako niekwestionowanego serca górnictwa i inżynierii w regionie.
