@@ -6,6 +6,7 @@ created: 2025-05-14
 updated: 2025-05-14
 cssclasses:
   - inline-image
+publish: "true"
 ---
 > [!quote] „Przy Mikele to już nawet cisza musiała zamilknąć – chłopak niby nie pamięta wczorajszego dnia, a jednak wie, jak rozłożyć cię na łopatki lepiej niż budzik. Może i mu pamięć ucieka, ale sprytu i tak zostaje mu więcej, niż niejeden z nas potrafi znieść.”
 > — _Pierre Jeoun Tzy, gnomi komentator niepojętych fenomenów_
