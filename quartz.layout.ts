@@ -60,7 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.RecentNotes({
         title: "Ostatnie wpisy",
         limit: 3,
-        showTags: true,
+        showTags: false,
       }),
       condition: (page) => page.fileData.slug == "index",
     }),
