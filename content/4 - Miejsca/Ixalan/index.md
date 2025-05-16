@@ -1,7 +1,13 @@
 ---
 publish: "true"
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-16
+cssclasses:
+  - showoff-image
 ---
->[!fail] Prywatne zbiory w odbudowie — dopraszam się o cierpliwość
->— *Pierre Jeoun Tzy*  
+
+![[Ixalańskie Bagna#^5fa0c1]]
+
+|![[ixalan.png]]|
+|-|
+|*Ixalańskie Bagna o poranku — gdy nawet mgła boi się poruszyć bez pozwolenia*|

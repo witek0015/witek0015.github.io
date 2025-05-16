@@ -3,7 +3,7 @@ tags:
   - podsumowanie
 publish: "true"
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-16
 ---
 > [!quote] „Kiedy czytam te wszystkie nazwy epok — Epoka Cieni, Wielka Schizma, Czasy Odrodzenia — nieuchronnie wracam myślą do momentów, gdy stawiałem pierwszy krok w kolejnej Erze i kręciłem głową, dziwiąc się, że świat wciąż się toczy. Bo jakże miał się nie toczyć, skoro w jednej dekadzie widziałem barbarzyńców palących miasta w imię Mogisa, a w następnej magowie Lepkiego Palca wieszali barwne lampiony nad ulicami, świętując rocznicę Otwarcia Portalu? Nie zdziwcie się, jeśli wasze wnuki nazwą obecną epokę 'Czasem Pierre'a' — wszak skoro nawet moje notatki tutaj przetrwały tyle er, to może i ja sam zasłużę na taki tytuł!” 
 > — _Pierre Jeoun Tzy, gnomi autor i obserwator kolejnych er kalendarium_
@@ -13,13 +13,13 @@ updated: 2025-05-12
 - **Charakterystyka**:  
     _Legenda głosi, że to czas, gdy śmiertelnicy dopiero odkrywali fundamenty magii i kultu bogów. Nieliczne, prymitywne społeczności żyły w izolowanych twierdzach i osadach, często gnębione przez potwory, klęski naturalne oraz brak spójnej cywilizacji._
 - **Kluczowe Wydarzenia**:
-    - Formowanie się pierwszych kultyw bogów takich jak Karametra czy Mogis.
+    - Formowanie się pierwszych kultów bogów
     - Powstają mity o prastarych herosach walczących z pierwotnymi tytanami.
 ### **[[1 - Epoka Pionierów]] (ok. -1000 do -1)**
 - **Charakterystyka**:  
     _Na arenę dziejów wkraczają protoplaści miast, łączący się w większe społeczeństwa. Handel zaczyna nabierać znaczenia, rosną wpływy kleru poszczególnych bóstw._
 - **Kluczowe Wydarzenia**:
-    - Pierwsze zarysy Krania (późniejszej stolicy) – prosta osada rolnicza pod auspicjami Karametry.
+    - Pierwsze zarysy Krania (późniejszej stolicy) – prosta osada rolnicza pod auspicjami Bogini Roli.
     - Rozwój rzemiosł: kowalstwo w Sinogórze, rybołówstwo w terenach nad jeziorami (Czterystawy).
     - Powstanie prastarych linii rodowych, które w kolejnych wiekach wpłyną na kształt sojuszy i wojen.
 # **Era Portalu (Od Roku 0 Do Teraz)**
@@ -35,13 +35,14 @@ updated: 2025-05-12
 - **Kluczowe Wydarzenia**:
     - **Canteloft** (późniejsza Ostronia) staje się szybko centrum handlowym i miejscem pielgrzymek uczonych, pragnących badać Portal.
     - Krania oficjalnie ustanawia się stolicą nowego ładu.
-    - Powstają pierwsze koalicje wokół poszczególnych bóstw – kapłani Ephary wspierają rozwój architektury miejskiej.
+    - Powstają pierwsze koalicje wokół poszczególnych bóstw.
 ### **[[3 - Epoka Pierwszych Kłótni]](500–999)**
 - **Charakterystyka**:  
     _Rosnące wpływy różnych miast i rodów prowadzą do konfliktów o zasoby, szlaki handlowe i dostęp do Portalu._
 - **Kluczowe Wydarzenia**:
     - Pierwsze walki między Lubrzegiem (miasto prawa) a Starogrodem (wówczas jeszcze bogatym) o jurysdykcję niektórych terytoriów.
     - Darolew, jako miasto militarne, wkracza w politykę regionu, tworząc struktury obronne i pobierając cła.
+    - Wstąpienie obecnych bóstw
 ## **Era Ekspansji i Rewolucji (1000–2999)**
 ### **[[4 - Złoty Rozkwit]] (1000–1999)**
 - **Charakterystyka**:  

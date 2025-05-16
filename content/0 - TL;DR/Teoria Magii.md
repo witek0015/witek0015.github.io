@@ -2,7 +2,16 @@
 tags:
   - podsumowanie
 publish: "true"
+created: 2025-05-14
+updated: 2025-05-16
+cssclasses:
+  - inline-image
 ---
+
+|![[Pasted image 20250516142738.png]]|
+|-|
+|*Magia od zawsze towarzyszyła Dimei*|
+
 Magia w Dimei jest siłą pierwotną, nieodłącznym aspektem rzeczywistości, równie naturalnym jak grawitacja czy prawo zachowania energii. Przenika cały świat, lecz jej manifestacja wymaga interakcji z istotami zdolnymi do jej kontrolowania. Jest to zarówno nauka, jak i sztuka, domena badaczy i szarlatanów, błogosławieństwo i przekleństwo.
 # **Źródło Magii – Sieć Manalitu i Rzeki Energetyczne**
 Magia nie pochodzi z jednego miejsca – jest tkanką wszechświata, lecz jej natężenie nie jest równomierne. W Dimei jej przepływ determinuje **[[Manalit]]** – minerał o właściwościach kondensujących magiczną energię. Cała planeta jest przecięta niewidzialnymi rzekami magicznymi, zwanymi **Strumieniami Aetheru**, które zasilają zaklęcia i rytuały. W miejscach, gdzie krzyżują się te strumienie, powstają **źródła magiczne**, wzmacniające wszelką działalność nadnaturalną.
