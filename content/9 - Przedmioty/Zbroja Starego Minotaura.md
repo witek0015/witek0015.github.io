@@ -5,6 +5,10 @@ banner: "[[zbroja minotaura.png]]"
 banner_y: 0.286
 banner_lock: true
 publish: "true"
+aliases:
+  - Zbroję Starego Minotaura
+created: 2025-05-16
+updated: 2025-05-18
 ---
 > [!quote] „Zbroja jest jak topór wśród wiosennych kwiatów: zbiera żniwo, nie pytając, czy ktoś w pobliżu zasługuje na litość. A skąd wiem, że nie pyta? Bo słyszałem tylko jeden dźwięk – szczęk metalu i krzyk tych, co za blisko podeszli.”  
 >— _Pierre Jeoun Tzy, gnomi świadek bitewnych cudów i tragedii_

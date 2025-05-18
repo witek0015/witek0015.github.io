@@ -7,7 +7,12 @@ publish: "true"
 cssclasses:
   - inline-image
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Wyżyn Wiatru
+  - Wyżynom Wiatru
+  - Wyżynami Wiatru
+  - Wyżynach Wiatru
 ---
 >[!quote] „Każdy, kto przemierza Wyżyny Wiatru, prędzej czy później zaczyna słyszeć ich głos. Czasem to tylko wiatr, czasem coś więcej – ale niech was nie zwiedzie ten szept. Czerwone Wiatry nie rozróżniają między bohaterem a głupcem.”
 >*– Pierre Jeoun Tzy, gnomi eksplorator, filozof nieoczekiwanych burz i kolekcjoner pyłu*
@@ -18,7 +23,7 @@ updated: 2025-05-11
 |  *Widok Złomowiska Żelaznych Bestii*   |
 
 
-Wyżyny Wiatru to jeden z najbardziej surowych i malowniczych rejonów [[Czerwone Pustkowia]]. Rozciągają się w północno-zachodniej części tego niegościnnego obszaru, wyróżniając się stromymi klifami, nagimi płaskowyżami oraz pagórkowatym terenem pokrytym gęstymi lasami. Wiatry hulające po tych ziemiach są nie tylko wszechobecne, ale i nieprzewidywalne, niosąc ze sobą echo dawnych czasów i legend.
+Wyżyny Wiatru to jeden z najbardziej surowych i malowniczych rejonów [[Czerwone Pustkowia|Czerwonych Pustkowi]]. Rozciągają się w północno-zachodniej części tego niegościnnego obszaru, wyróżniając się stromymi klifami, nagimi płaskowyżami oraz pagórkowatym terenem pokrytym gęstymi lasami. Wiatry hulające po tych ziemiach są nie tylko wszechobecne, ale i nieprzewidywalne, niosąc ze sobą echo dawnych czasów i legend.
 Jednym z najbardziej niepokojących zjawisk tego regionu są tzw. **Czerwone Wiatry** – gwałtowne burze niosące drobiny czerwonych skał, które dawniej dominowały w tym rejonie. Pył i odłamki wirujące w powietrzu mogą dotkliwie ranić nieostrożnych podróżnych, a nawet uszkadzać ekwipunek. Te burze, choć rzadkie, są kolejnym przypomnieniem o nieustępliwości natury Wyżyn Wiatru.
 
 # **Miejsca godne uwagi**

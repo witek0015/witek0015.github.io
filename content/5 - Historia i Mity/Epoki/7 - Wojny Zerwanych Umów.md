@@ -4,7 +4,10 @@ tags:
   - historia
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Wojen Zerwanych Umów
+  - Wojny Zerwanych Umów
 ---
 Epoka Wojen Zerwanych Umów była czasem bezprecedensowego rozlewu krwi, zdrad i ciągłych zmian sojuszy. Wielkie miasta, dotychczas współpracujące, zaczęły się dzielić, a konflikty polityczne i handlowe przechodziły w otwarte wojny. **Darolew i Krania** próbowały narzucić porządek, ale bezskutecznie – zbyt wiele było wojen, zbyt wiele układów zostało zerwanych. ^3b8a1b
 # **Kluczowe Wydarzenia:**

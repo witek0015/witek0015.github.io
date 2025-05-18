@@ -1,10 +1,16 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[czterystawy.jpg]]"
 banner_y: 1
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Czterystawy
+  - Czterechwstawach
+  - Czteremastawami
+  - Czterechstawów
 ---
 >[!quote] "Czterystawy to miejsce, gdzie woda opowiada historię, a każdy lampion puszczony na jej powierzchnię jest jak szept w stronę przodków. To miasto, w którym ryby mają więcej tajemnic niż ludzie, a mosty łączą nie tylko wyspy, ale i serca mieszkańców."
 >— _Pierre Jeoun Tzy, encyklopedysta o lekkiej awersji do mokrych butów”_
@@ -13,7 +19,7 @@ updated: 2025-05-11
 
 Czterystawy to labirynt mostów, kanałów i budowli osadzonych na wyspach i pływających platformach. Jego serce stanowią cztery jeziora, zwane Fosowymi, które pełnią funkcję zarówno zbiorników wodnych, jak i naturalnych granic miasta. Miasto otaczają liczne mokradła, które tworzą naturalne obrony przed ewentualnymi agresorami. 
 Architektura Czterechstawów to mieszanka funkcjonalności i estetyki – drewniane budowle z charakterystycznymi dachami o spadzistym kształcie często mają rzeźbione zdobienia przedstawiające ryby, ptaki wodne i fale. Nocą miasto rozświetlają lampiony odbijające się w spokojnych wodach jezior, tworząc niezapomniany widok.
-Czterystawy stanowią granicę między Szarymi Rozłogami a [[Złote Kręgi]]
+Czterystawy stanowią granicę między [[Szare Rozłogi|Szarymi Rozłogami]] a [[Złote Kręgi|Złotymi Kręgami]]
 # **Dzielnice**
 1. **[[Jeziora Fosowe]]**  
     Centralna dzielnica miasta, w której mieszczą się targowiska rybne i główne doki. Tętniąca życiem zarówno w dzień, jak i w nocy, stanowi centrum handlowe i transportowe Czterystaw.

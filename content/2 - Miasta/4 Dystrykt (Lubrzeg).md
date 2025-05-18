@@ -1,39 +1,44 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[lubrzeg.jpg]]"
 banner_y: 0.484
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Lubrzeg
+  - Lubrzegu
+  - Lubrzegiem
 ---
 > [!quote] „Lubrzeg – surowa perła prawa, gdzie brutalna architektura przytłacza, a jednocześnie inspiruje. To miejsce, gdzie dźwięk młota sędziego rozbrzmiewa jak bicie serca świata – równomiernie, nieubłaganie, w zgodzie z odwiecznymi zasadami.”
 > — _Pierre Jeoun Tzy, autor, który nie raz i nie dwa musiał tłumaczyć się przed radą za swoje „interpretacje faktów”_.
 
 ^6ab533
 
-Lubrzeg, zwany „Miastem Porządku”, to surowa perła północno-zachodnich krain, wzniesiona na skraju Gór Starego Jotuunu w [[Szare Rozłogi]]. Miasto jest siedzibą **Senatu Azora**, Naczelnej Rady Magów oraz głównym centrum edukacji prawnej i magicznej kontynentu. Otoczone majestatycznymi szczytami, przytłacza surowością swojej architektury, w której dominują brutalistyczne wieże, proste bryły i monumentalne arkady. Lubrzeg nie jest miejscem, które kusi pięknem – to miasto, które narzuca szacunek.
+Lubrzeg, zwany „Miastem Porządku”, to surowa perła północno-zachodnich krain, wzniesiona na skraju [[Góry Starego Jotuunu|Gór Starego Jotuunu]] w [[Szare Rozłogi|Szarych Rozłogach]]. Miasto jest siedzibą **[[Senat Azora (Azorius)|Senatu Azora]]**, [[Naczelna Rady Magów|Naczelnej Rady Magów]] oraz głównym centrum edukacji prawnej i magicznej kontynentu. Otoczone majestatycznymi szczytami, przytłacza surowością swojej architektury, w której dominują brutalistyczne wieże, proste bryły i monumentalne arkady. Lubrzeg nie jest miejscem, które kusi pięknem – to miasto, które narzuca szacunek.
 # **Dzielnice Lubrzegu**
 - **[[Prahv]] – Dzielnica Centralna:**  
     Siedziba **Senatu Azora**, w której monumentalny budynek Sądu Najwyższego przyciąga uwagę swoją nieprzystępnością. Wieże symbolizujące trzy filary prawa – **porządek, sprawiedliwość i harmonię** – są widoczne z każdej części miasta.
 - **Paszcza Wolnira:**  
-    Tajemnicze miejsce zgromadzeń **Naczelnej Rady Magów**. Wyryte w skale Gór Starego Jotuunu, przypomina gigantyczną szczękę mitycznego stwora. Mówi się, że echo jej sal odbija się od ścian jak szept dawnych zaklęć. Znajduje się poza miastem, ale administracyjnie jest objęta jego protektoratem.
+    Tajemnicze miejsce zgromadzeń **Naczelnej Rady Magów**. Wyryte w skale **Gór Starego Jotuunu**, przypomina gigantyczną szczękę mitycznego stwora. Mówi się, że echo jej sal odbija się od ścian jak szept dawnych zaklęć. Znajduje się poza miastem, ale administracyjnie jest objęta jego protektoratem.
 - **[[Wyżyny Dyscypliny]]:**  
-    Brutalistyczne akademiki i szkoły, w tym słynna **Akademia Prawa i Magii Prahvianum**, gdzie kształcą się przyszli magowie, prawnicy i urzędnicy.
+    Brutalistyczne akademiki i szkoły, w tym słynna **[[Akademia Naczelna Wolnira]]**, gdzie kształcą się przyszli magowie, prawnicy i urzędnicy.
 - **[[Żelazna Aleja]]:**  
-    Centrum finansowe Lubrzegu, gdzie mieści się **Bank Azoriański**. To tutaj odbywają się transakcje między miastami, a magiczne sygnety przenoszą bogactwa w mgnieniu oka.
+    Centrum finansowe Lubrzegu, gdzie mieści się **[[Bank Azoriański]]**. To tutaj odbywają się transakcje między miastami, a magiczne sygnety przenoszą bogactwa w mgnieniu oka.
 - **[[Szare Tarasy]]:**  
     Dzielnica mieszkalna, w której wysokie, jednolite bloki mieszczą tysiące mieszkańców. Każda klatka schodowa jest oznaczona symbolem porządku, a z okien widać monumentalne posągi prawodawców.
 - **[[Targowisko Ostrych Granitów]]:**  
     Ruchliwe centrum handlowe, gdzie sprzedaje się zarówno surowe kamienie wydobywane w Górach Starego Jotuunu, jak i produkty drewna sprowadzanego z okolicznych lasów.
 # **Historia**
-1. **Powstanie Lubrzegu (Epoka Cieni):**  
+1. **Powstanie Lubrzegu ([[0 - Epoka Cieni|Epoka Cieni]]):**  
     Założenie miasta wiązało się z potrzebą stworzenia centrum praworządności. Lubrzeg wzniesiono na ruinach dawnych fortec Githów, które zapewniły solidne fundamenty pod monumentalne budowle.
 2. **Epoka Prawnej Harmonii (300–2800 EP):**  
-    Rozkwit miasta jako siedziby Senatu Azora i głównego centrum edukacyjnego. W tym czasie wybudowano monumentalny **Sąd Najwyższy**.
+    Rozkwit miasta jako siedziby Senatu Azora i głównego centrum edukacyjnego. W tym czasie wybudowano monumentalny **[[Sąd Najwyższy]]**.
 3. **Reforma Magiczna (2955 EP):**  
     Powstanie **Naczelnej Rady Magów**, która przeniosła swoje obrady do Paszczy Wolnira. To wydarzenie umocniło pozycję Lubrzegu jako centrum magii regulacyjnej.
 4. **Kryzys Gór Starego Jotuunu (3750 EP):**  
-    Trzęsienia ziemi w Górach Starego Jotuunu zagroziły fundamentom miasta. Dzięki interwencji magów Azora udało się ustabilizować teren i stworzyć magiczne bariery ochronne. Niestety, zajęcie się odbudową miasta miało ciężkie konsekwencje dla stabilności kontynentu.
+    Trzęsienia ziemi w **Górach Starego Jotuunu** zagroziły fundamentom miasta. Dzięki interwencji magów Azora udało się ustabilizować teren i stworzyć magiczne bariery ochronne. Niestety, zajęcie się odbudową miasta miało ciężkie konsekwencje dla stabilności kontynentu.
 # **Mieszkańcy Lubrzegu**
 Mieszkańcy Lubrzegu to społeczność, która od pokoleń kształtowała się w cieniu monumentalnych budowli i rygorystycznych zasad. Życie w tym mieście wymaga dyscypliny, rozwagi i szacunku dla prawa, a surowa atmosfera miasta odciska swoje piętno na jego mieszkańcach.
 ## **Charakterystyka Ludności**
@@ -72,10 +77,10 @@ Mieszkańcy Lubrzegu to społeczność, która od pokoleń kształtowała się w
     Choć Lubrzeg nie jest głównym ośrodkiem surowcowym, jego pośrednictwo w handlu drewnem z lasów okolicznych oraz kamieniem z Gór Starego Jotuunu przynosi znaczne zyski.
 # **Mity i Legendy**
 - **Legenda o Wolnirze:**  
-    Mówi się, że w sercu Gór Starego Jotuunu spoczywa ciało giganta Wolnira, który zginął, walcząc z pradawnymi magami. Paszcza Wolnira ma być miejscem, gdzie jego duch nadal strzeże praw porządku.
+    Mówi się, że w sercu Gór Starego Jotuunu spoczywa ciało giganta Wolnira, który zginął, walcząc z pradawnymi magami. [[Paszcza Wolnira]] ma być miejscem, gdzie jego duch nadal strzeże praw porządku.
 - **Kamień Prahvianum:**  
     Artefakt ukryty w Sądzie Najwyższym, który ponoć umożliwia odczytanie najstarszych praw świata. Legenda głosi, że tylko najczystsze serce może z niego korzystać.
 - **Mroczna Rada:**  
-    Plotki głoszą, że raz na sto lat w Paszczy Wolnira zbiera się tajemnicza grupa, która tworzy „Prawa Cieni” – zakazane zasady mające równoważyć dobro i zło.
+    Plotki głoszą, że raz na sto lat w **Paszczy Wolnira** zbiera się tajemnicza grupa, która tworzy „Prawa Cieni” – zakazane zasady mające równoważyć dobro i zło.
 - **Mity o Prawodawcach:**  
 	Według lokalnych legend, pierwsi mieszkańcy Lubrzegu byli stworzeni z kamienia przez samego Azora, aby strzec zasad i pilnować równowagi w świecie. Choć legenda ta jest raczej symboliczna, mówi wiele o dumie mieszkańców.

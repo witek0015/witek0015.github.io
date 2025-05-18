@@ -2,7 +2,7 @@
 tags:
   - teren
 created: 2025-05-10
-updated: 2025-05-16
+updated: 2025-05-18
 publish: "true"
 cssclasses:
   - inline-image
@@ -47,9 +47,9 @@ Zatoka słynie z nieprzewidywalnych prądów i mgieł o właściwościach iluzor
 
 # **Historia Ixalańskich Bagien**
 
-Choć wydają się dzikie i odcięte od cywilizacji, Ixalańskie Bagna istniały na długo przed powstaniem Kranii czy Czerypela. Pierwsze wzmianki o tych terenach pochodzą z [[2 - Epoka Nadziei]], gdy ludy elfickie i smocze klany szukały schronienia przed katastrofami magicznymi. To właśnie tu — gdzie ziemia pulsuje surową mocą — powstały pierwsze Kręgi Życia, pradawne wspólnoty łączące elfów, wróżki i duchy bagien.
+Choć wydają się dzikie i odcięte od cywilizacji, Ixalańskie Bagna istniały na długo przed powstaniem Kranii czy Czerypela. Pierwsze wzmianki o tych terenach pochodzą z [[2 - Epoka Nadziei|Epoki Nadziei]], gdy ludy elfickie i smocze klany szukały schronienia przed katastrofami magicznymi. To właśnie tu — gdzie ziemia pulsuje surową mocą — powstały pierwsze Kręgi Życia, pradawne wspólnoty łączące elfów, wróżki i duchy bagien.
 
-W [[5 - Epoka Wielkich Innowacji]] Bagna stały się przedmiotem zainteresowania alchemików i magów technicznych. Próby ujarzmienia żywiołów, osuszania torfowisk i wydobywania rzadkich minerałów zakończyły się serią katastrof ekologicznych, zwanych dziś „Klątwą Martwych Wód”. Od tego czasu Ixalańskie Bagna uzyskały nieformalny status ziem nietykalnych.
+W [[5 - Epoka Wielkich Innowacji|Epoce Wielkich Innowacji]] Bagna stały się przedmiotem zainteresowania alchemików i magów technicznych. Próby ujarzmienia żywiołów, osuszania torfowisk i wydobywania rzadkich minerałów zakończyły się serią katastrof ekologicznych, zwanych dziś „Klątwą Martwych Wód”. Od tego czasu Ixalańskie Bagna uzyskały nieformalny status ziem nietykalnych.
 
 W czasach obecnych, mimo formalnej przynależności do Kręgu Kranii, realna władza należy do rad starszyzny elfów i wróżek, które dbają o równowagę natury, czasem wbrew interesom miejskich kupców czy ekspedycji naukowych.
 
@@ -65,9 +65,9 @@ Konflikty rozstrzygane są nie poprzez otwartą walkę, lecz poprzez „Plecionk
 
 # **Znaczenie w świecie**
 
-Ixalańskie Bagna stanowią nieocenione źródło pierwotnej magii w Złotych Kręgach. To tutaj powstają najczystsze esencje [[Manalit]]u organicznego, którego nie da się wytworzyć w laboratoriach. Alchemicy z [[8 Dystrykt (Czerypel)]] chętnie korzystają z darów bagien — mchów leczniczych, srebrzystych grzybów czy wody z [[Serca Torfowisk]] — choć każdy taki „handel” wymaga mozolnych negocjacji z elficką starszyzną.
+Ixalańskie Bagna stanowią nieocenione źródło pierwotnej magii w Złotych Kręgach. To tutaj powstają najczystsze esencje [[Manalit]]u organicznego, którego nie da się wytworzyć w laboratoriach. Alchemicy z [[8 Dystrykt (Czerypel)|Czerypelu]] chętnie korzystają z darów bagien — mchów leczniczych, srebrzystych grzybów czy wody z [[Serca Torfowisk]] — choć każdy taki „handel” wymaga mozolnych negocjacji z elficką starszyzną.
 
-Dla magów druidycznych Ixalańskie Bagna są świętym miejscem pielgrzymek, a dla uczonych z [[10 Dystrykt (Krania)]] — tajemnicą, którą niełatwo objąć umysłem. Dla polityków i wojskowych — kłopotliwą enklawą, którą lepiej mieć za sojusznika niż wroga.
+Dla magów druidycznych Ixalańskie Bagna są świętym miejscem pielgrzymek, a dla uczonych z [[10 Dystrykt (Krania)|Kranii]] — tajemnicą, którą niełatwo objąć umysłem. Dla polityków i wojskowych — kłopotliwą enklawą, którą lepiej mieć za sojusznika niż wroga.
 
 Nie bez znaczenia jest też wymiar strategiczny: bagna stanowią naturalną barierę chroniącą wschodnie rubieże Kranii przed potencjalnymi najazdami z dzikich ziem.
 

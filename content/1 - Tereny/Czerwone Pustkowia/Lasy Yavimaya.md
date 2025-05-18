@@ -5,9 +5,15 @@ banner: "[[Yavimaya-Coast-Dominaria-United-MtG-Art.jpg]]"
 banner_y: 0.015
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-12
+updated: 2025-05-18
 cssclasses:
   - inline-image
+aliases:
+  - Lasy Yavimayi
+  - Lasów Yavimayi
+  - Lasom Yavimayi
+  - Lasami Yavimayi
+  - Lasach Yavimayi
 ---
 > [!quote] „Yavimaya to nie tylko las – to żywa, oddychająca istota. Przemierzając jej ścieżki, można poczuć się jak intruz w domu czegoś starszego, większego i o wiele mądrzejszego. A jeśli słyszysz szept wśród liści? To może być duch lasu… albo cichy szelest łowcy, który już cię wybrał. Tak czy inaczej, lepiej szanuj ziemię pod swoimi stopami.”
 > — _Pierre Jeoun Tzy, gnomi podróżnik i badacz zielonych tajemnic Yavimayi_
@@ -17,7 +23,7 @@ cssclasses:
 |*Fauna i Flora Yavimayi*|
 
 
-Lasy **Yavimaya**, zwane także **Zieloną Duszą Północy**, to jedne z najstarszych i najbardziej tajemniczych obszarów na całym kontynencie. Rozciągają się na północnym wschodzie, obejmując ogromne połacie ziem otaczające Góry Iskierne i graniczące z Czerwonymi Pustkowiami. Yavimaya jest domem dla niezwykle różnorodnej flory i fauny, a także miejscem pełnym magii, mitów i niebezpieczeństw. Dla wielu stanowi żywą istotę – z wolą, która nie zawsze jest przyjazna wobec intruzów.
+Lasy **Yavimaya**, zwane także **Zieloną Duszą Północy**, to jedne z najstarszych i najbardziej tajemniczych obszarów na całym kontynencie. Rozciągają się na północnym wschodzie, obejmując ogromne połacie ziem otaczających [[Góry Iskierne]] i graniczące z [[Czerwone Pustkowia|Czerwonymi Pustkowiami]]. Yavimaya jest domem dla niezwykle różnorodnej flory i fauny, a także miejscem pełnym magii, mitów i niebezpieczeństw. Dla wielu stanowi żywą istotę – z wolą, która nie zawsze jest przyjazna wobec intruzów.
 # **Charakterystyka Lasu**
 1. **Flora**
     - Lasy Yavimaya porastają tysiące gatunków drzew, od monumentalnych sekwoi, które sięgają nieba, po drzewa-magię, które świecą delikatnym światłem nocą.

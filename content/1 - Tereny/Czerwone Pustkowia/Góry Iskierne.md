@@ -7,7 +7,12 @@ publish: "true"
 cssclasses:
   - inline-image
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Gór Iskiernych
+  - Górom Iskiernym
+  - Górami Iskiernymi
+  - Górach Iskiernych
 ---
 >[!quote] „Gdy pierwszy raz zobaczyłem te rzekome iskry na skałach, myślałem, że to iluzja. A potem się potknąłem i zjechałem stumetrowym urwiskiem – wrażenia były bardzo prawdziwe!” 
 > — _Pierre Jeoun Tzy, wielbiciel górskich widoków, choć niekoniecznie wspinaczki_
@@ -17,7 +22,7 @@ updated: 2025-05-11
 | --- | 
 |  *Góry Iskierne o świcie*   |
 
-Rozległe pasmo górskie rozciągające się w północnej części [[Czerwone Pustkowia]], znane głównie z rzadkich surowców oraz trudnych, surowych warunków klimatycznych. Wśród badaczy i poszukiwaczy przygód uchodzą za miejsce pełne tajemnic, gdzie wysokie szczyty, ukryte doliny i nieodkryte jaskinie kryją niejedną legendę. 
+Rozległe pasmo górskie rozciągające się w północnej części [[Czerwone Pustkowia|Czerwonych Pustkowi]], znane głównie z rzadkich surowców oraz trudnych, surowych warunków klimatycznych. Wśród badaczy i poszukiwaczy przygód uchodzą za miejsce pełne tajemnic, gdzie wysokie szczyty, ukryte doliny i nieodkryte jaskinie kryją niejedną legendę. 
 # Położenie i Charakterystyka Ogólna
 Góry Iskierne rozciągają się wzdłuż północno-wschodnich rubieży, tworząc naturalną barierę między niżej położonymi krainami a skutej śniegiem tundrze. Ich nazwa ma związek z charakterystycznym zjawiskiem świetlnym – przy odpowiednim kącie padania słońca, skały oraz minerały w nich zawarte odbijają światło w sposób przypominający drobne iskry. Widok ten bywa szczególnie efektowny o świcie lub przy zachodzącym słońcu, kiedy strome urwiska i rozpadliny mienią się paletą barw.
 ## Najważniejsze Regiony
@@ -29,8 +34,8 @@ Skąd właściwie nazwa „Góry Iskierne”? Według starych podań, wędrowcy 
 # Geologia i Zasoby
 - **Zróżnicowana Struktura Skalna**  
     Góry Iskierne charakteryzują się licznymi warstwami skał magmowych i metamorficznych. Bogactwo różnorakich minerałów czyni je łakomym kąskiem dla górników i handlarzy.
-- **Mizzium**  
-    Najcenniejszym spośród wydobywanych surowców jest oczywiście _mizzium_, występujące jednak w niewielkich ilościach. Uważa się, że jego pojawienie się w Górach Iskiernych wiąże się z dawną obecnością _Niv-Mizzeta_ – legendarnego smoka.
+- **[[Mizzium]]**  
+    Najcenniejszym spośród wydobywanych surowców jest oczywiście _mizzium_, występujące jednak w niewielkich ilościach. Uważa się, że jego pojawienie się w Górach Iskiernych wiąże się z dawną obecnością _[Niv-Mizzeta]_ – legendarnego smoka.
 - **Inne Metale i Minerały**  
     Oprócz mizzium wydobywa się tu także mniej rzadkie rudy srebra, cynku, a także kruszywa skalne do celów budowlanych. Wysokie koszty transportu i ekstremalne warunki ograniczają jednak komercyjną eksploatację.
 # Klimat i Warunki Życia
@@ -40,7 +45,7 @@ Skąd właściwie nazwa „Góry Iskierne”? Według starych podań, wędrowcy 
 - **Zwierzęta**: Poza typową fauną górską (kozice, rysie, wilki), relacjonowano także spotkania z groźnymi bestiami i piewcami magii gór – np. lodowymi wiwernami, czy też białymi smokami.
 # Mieszkańcy i kultura
 ## Plemiona górskie
-W różnych zakątkach Iskiernych od dawna żyją niewielkie plemiona przystosowane do trudnych warunków. Jednym z najlepiej znanych jest społeczność w **Taryathe**, której lud szczególnie chroni skarby okolicy (zwłaszcza mizzium) i utrzymuje własne, głęboko zakorzenione rytuały. Znane są także populacje jaszczczuroludzi, a także osady mniej szanowanych członków Klanów Gruulu
+W różnych zakątkach Iskiernych od dawna żyją niewielkie plemiona przystosowane do trudnych warunków. Jednym z najlepiej znanych jest społeczność w **[[Teryathe]]**, której lud szczególnie chroni skarby okolicy (zwłaszcza Mizzium) i utrzymuje własne, głęboko zakorzenione rytuały. Znane są także populacje jaszczczuroludzi, a także osady mniej szanowanych [[Klany Gruulu (Gruul)|Gruuli]]
 ## Osady Pionierskie
 Zdarza się, że na skrajach pasma osiedlają się śmiałkowie szukający bogactw w postaci rud metali czy drewna. Tworzą niewielkie wioski lub górnicze posterunki, często narażone na bandyckie ataki bądź agresję dzikich zwierząt.
 # Potencjalne Zagrożenia

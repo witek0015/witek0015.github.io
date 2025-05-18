@@ -3,10 +3,13 @@ tags:
   - postaci
   - druzyna
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
 publish: "true"
 cssclasses:
   - inline-image
+aliases:
+  - Jack Black
+  - Jackiem Blackiem
 ---
 > [!quote] „Znałem kiedyś takiego Jacka, co to sypiał w cudzych łóżkach częściej, niż ja odwiedzam karczmy przy darmowej dolewce. Potem stwierdził, że zostanie bardem. Myślicie, że się uspokoił? Jasne — pewnie tak jak ja potrafię powiedzieć ‘nie’ drugiej kolejce trunku!”
 >— _Pierre Jeoun Tzy, gnomi komentator szeroko pojętej swobody obyczajów_

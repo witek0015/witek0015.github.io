@@ -1,27 +1,33 @@
 ---
 banner: "[[ravnica-1920.jpg]]"
 banner_y: 0.285
-tags: miasto
+tags:
+  - miasto
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Krania
+  - Kranii
+  - Kranią
+  - Kranię
 ---
 >[!quote] „Krania, ech… tam nawet tramwaj potrafi cię unieść nie tylko nad brukiem, bo i w duchu się wzbijasz, gdy anioły z Parhelionu przelatują nad głową. A ja się wciąż zastanawiam, jak oni się dogadują w tym kotle tylu bogów, ras i interesów — ale najwyraźniej magia tego miasta jest mocniejsza niż wszystkie nasze spory!”
 >— _Pierre Jeoun Tzy, gnomi wędrowiec i komentator wszystkiego, co dziwne i cudowne_
 
 ^12b646
 
-Dumny status „stolicy” świata, centrum tętniące życiem wszystkich ras i wyznań, przepełnione nowoczesnymi rozwiązaniami technologicznymi (magiczne tramwaje) i wiedzą (największa biblioteka świata). Nad miastem unosi się majestatyczna aura Gildii Boros, której latający statek aniołów – **Parhelion** – góruje czasem nad Wyżynami Gryfońskimi. Krania stanowi mozaikę kultur, ambicji i historii, splatającą się w ogniwo spajające cały kontynent i jednocześnie punkt centralny [[Złote Kręgi]]
+Dumny status „stolicy” świata, centrum tętniące życiem wszystkich ras i wyznań, przepełnione nowoczesnymi rozwiązaniami technologicznymi (magiczne tramwaje) i wiedzą (największa biblioteka świata). Nad miastem unosi się majestatyczna aura [[Stowarzyszenie Porządkowe (Boros)|Gildii Boros]], której latający statek aniołów – **Parhelion** – góruje czasem nad **Wyżynami Gryfońskimi**. Krania stanowi mozaikę kultur, ambicji i historii, splatającą się w ogniwo spajające cały kontynent i jednocześnie punkt centralny [[Złote Kręgi]]
 # Historia
 ## Początki: Epoka Pionierów i Nadziei
-Krania ma swoje korzenie w **Epoce Pionierów** (przed Rokiem 0), kiedy to okolice rzek i żyznych wzgórz przyciągały małe społeczności rolników, rzemieślników i kupców. Jak głoszą stare kroniki, już wtedy okolice przyszłej stolicy uchodziły za bezpieczne – duch ochrony zdawał się wieść tych, którzy chcieli budować trwałe osady.
-- **Wczesne Sojusze**: W **Epoce Nadziei** (ok. 0–500) zawiązano pierwsze poważne przymierza obronne. Z czasem zrodziła się idea „Rady Miejskiej”, gwarantującej bezpieczeństwo i współpracę nad rozwojem.
-- **Awans na Stolicę**: W późniejszym czasie (przełom Epoki Pierwszych Kłótni i Złotego Rozkwitu) Krania została oficjalnie ogłoszona stolicą. Widząc rosnący potencjał gospodarczy i wspólną chęć uniknięcia wojen, przywódcy okolicznych miast zgodzili się wyznaczyć tu ośrodek polityczny.
+Krania ma swoje korzenie w **[[1 - Epoka Pionierów|Epoce Pionierów]]** (przed Rokiem 0), kiedy to okolice rzek i żyznych wzgórz przyciągały małe społeczności rolników, rzemieślników i kupców. Jak głoszą stare kroniki, już wtedy okolice przyszłej stolicy uchodziły za bezpieczne – duch ochrony zdawał się wieść tych, którzy chcieli budować trwałe osady.
+- **Wczesne Sojusze**: W **[[2 - Epoka Nadziei|Epoce Nadziei]]** (ok. 0–500) zawiązano pierwsze poważne przymierza obronne. Z czasem zrodziła się idea „Rady Miejskiej”, gwarantującej bezpieczeństwo i współpracę nad rozwojem.
+- **Awans na Stolicę**: W późniejszym czasie (przełom [[3 - Epoka Pierwszych Kłótni|Epoki Pierwszych Kłótni]] i [[4 - Złoty Rozkwit|Złotego Rozkwitu]]) Krania została oficjalnie ogłoszona stolicą. Widząc rosnący potencjał gospodarczy i wspólną chęć uniknięcia wojen, przywódcy okolicznych miast zgodzili się wyznaczyć tu ośrodek polityczny.
 ## Okres Wojen i Kryzysu
-Krania była głównym sojusznikiem Darolewa w trakcie [[Wielka Wojna z Północą]]. Ich kunszt taktyczny i możliwość zaopatrzenia ogromnej ilości żołnierzy przechylił szalę wojny.
-W kolejnych stuleciach, gdy świat targany był **Wojnami Zerwanych Umów** i lokalnymi konfliktami, Krania pełniła funkcję negocjatora i „punktu zbornego”. Otoczona względnie mocnymi murami i rozwiniętą infrastrukturą, stanowiła neutralny grunt dla spotkań władców i kapłanów. Mimo to, w mieście nie brakowało niepokojów czy walk o wpływy między różnymi gildiami i związkami kupieckimi.
+Krania była głównym sojusznikiem Darolewa w trakcie [[Wielka Wojna z Północą|Wielkiej Wojny z Północą]]. Ich kunszt taktyczny i możliwość zaopatrzenia ogromnej ilości żołnierzy przechylił szalę wojny.
+W kolejnych stuleciach, gdy świat targany był **[[7 - Wojny Zerwanych Umów|Wojnami Zerwanych Umów]]** i lokalnymi konfliktami, Krania pełniła funkcję negocjatora i „punktu zbornego”. Otoczona względnie mocnymi murami i rozwiniętą infrastrukturą, stanowiła neutralny grunt dla spotkań władców i kapłanów. Mimo to, w mieście nie brakowało niepokojów czy walk o wpływy między różnymi gildiami i związkami kupieckimi.
 ## Renesans i Współczesność
-Po serii stabilizacji politycznej w **Czasach Odrodzenia** (4501–4900) Krania przeistoczyła się w kosmopolityczną metropolię. Władze miejskie – we współpracy z Gildią Boros – rozbudowały system obronny, instytucje edukacyjne i sieć komunikacyjną, w tym słynne magiczne tramwaje łączące dzielnice w spójną całość. Obecnie, w roku 5063, Krania nadal rozkwita jako najbardziej zróżnicowane etnicznie i wyznaniowo miasto świata.
+Po serii stabilizacji politycznej w **[[8 - Czasy Odrodzenia|Czasach Odrodzenia]]** (4501–4900) Krania przeistoczyła się w kosmopolityczną metropolię. Władze miejskie – we współpracy z **Gildią Boros** – rozbudowały system obronny, instytucje edukacyjne i sieć komunikacyjną, w tym słynne magiczne tramwaje łączące dzielnice w spójną całość. Obecnie, w roku 5063, Krania nadal rozkwita jako najbardziej zróżnicowane etnicznie i wyznaniowo miasto świata.
 # Znaczenie Gildii Boros i Parhelionu
 **Gildia Boros** w Kranii pełni rolę strażników porządku i moralności – to zbiór paladynów, aniołów, rycerzy, a nawet zwykłych obywateli zapatrzonych w ideały honoru i pomocy słabszym. Do niedawna dawało to mieszkańcom poczucie największego bezpieczeństwa w całym świecie.
 - **[[Parhelion]]**: Wielki, latający statek dowodzony przez anielskich dowódców, często bazujący w Kranii. Unosi się nad **Wyżynami Gryfońskimi**, prezentując siłę i determinację Gildii Boros w obliczu wszelkich zagrożeń. Jego wizyty w mieście wzmacniają poczucie bezpieczeństwa mieszkańców, a jednocześnie budzą podziw turystów.
@@ -33,7 +39,7 @@ Po serii stabilizacji politycznej w **Czasach Odrodzenia** (4501–4900) Krania 
 ## Magiczne Tramwaje
 Charakterystycznym symbolem nowoczesności Kranii są **magiczne tramwaje**. Zasilane energią leylines i wspierane przez subtelne zaklęcia, pną się przez ulice i mosty łączące poszczególne dzielnice. Każdy wagon zdobiony jest herbami miasta oraz runami chroniącymi pasażerów przed nagłymi turbulencjami energii magicznej.
 ## Największa Biblioteka Świata
-W sercu Kranii –  stoi **Wielka Biblioteka - Biblioplex**, uznawana za największą na świecie. Zawiera ona:
+W sercu Kranii –  stoi **Wielka Biblioteka - [[Biblioplex]]**, uznawana za największą na świecie. Zawiera ona:
 - **Zwoje Zakazanej Magii**: Zabezpieczone w piwnicznych skarbcach.
 - **Dział Kronik Bogów**: Dzieła poświęcone panteonowi, opisujące historię kultów i rytuałów w najdrobniejszych szczegółach.
 - **Mapy Planarne**: Zapisy badań na temat Portalu w Ostronii i innych wymiarów, dostępne jedynie dla upoważnionych przez Gildię Boros lub Radę Naukową.
@@ -55,7 +61,7 @@ W sercu Kranii –  stoi **Wielka Biblioteka - Biblioplex**, uznawana za najwię
 8. **[[Dom Słońca]]**
 9. **[[Plaza Południowa]]**
 # Wielość Ras i Wiar
-Krania nie ma dominującej wiary – znajdziesz tu kaplice wszystkich bóstw, od łagodnej Karametry po mrocznego Mogisa. Kapłani często inicjują wspólne modlitwy, a mieszkańcy uczą się tolerancji i zręcznego współżycia różnych wyznań.
+Krania nie ma dominującej wiary – znajdziesz tu kaplice wszystkich bóstw, od łagodnej [[Bogini Karametra|Karametry]] po mrocznego [[Bóg Mogis|Mogisa]]. Kapłani często inicjują wspólne modlitwy, a mieszkańcy uczą się tolerancji i zręcznego współżycia różnych wyznań.
 - **Białe Wzgórze** (Mała dzielnica przy Parku Zjednoczenia): Miejsce, gdzie kapłani z Białałaski otwierają filie świątyń, promując ekumenizm i braterstwo międzykulturowe.
 - **Salony Dziwnych Rytuałów**: W Miedzianych Alejach można natrafić na egzotyczne kulty, zbierające się w starych piwnicach. Czasem Boros bada niektóre z nich, zwłaszcza jeśli pojawiają się skargi na nielegalne praktyki.
 # Obecna Rola i Znaczenie
@@ -64,7 +70,4 @@ Krania nie ma dominującej wiary – znajdziesz tu kaplice wszystkich bóstw, od
 **Parhelion** – latający statek aniołów – jest wizytówką potęgi i ładu. Jego pojawienie się nad miastem z reguły oznacza ważne uroczystości albo zagrożenie, które wymaga boskiej interwencji. Wzmacnia tym samym wizerunek Krania jako nie tylko administracyjnego, ale też militarno-obronnego centrum świata.
 # Plan miasta
 ![[dystrykt 10 mapa.jpg|600]]
-# Podsumowanie
-**Krania** – stolica i duma świata – spaja w sobie z dawna ugruntowaną historię (sięgającą jeszcze Epoki Pionierów), nowoczesną infrastrukturę (magiczne tramwaje), bogactwo wiedzy (największa biblioteka) i militarno-duchową opiekę Gildii Boros (Parhelion). Ulice mienią się od świateł niezliczonych ras i barw sztandarów rozmaitych bóstw, a dzielnice – od Stacji Augustyna po Wyżyny Gryfońskie – ukazują niekończący się kalejdoskop kultur i możliwości.  
-W tym wielkim tyglu każdy może znaleźć swe miejsce – czy to w Miedzianych Alejach, gdzie geniusze tworzą nowe cuda, czy w Parku Medorich, gdzie można odnaleźć spokój wśród drzew, czy też na Promenadzie Transgildyjnej, kłębiącej się tłumem wiernych i kupców. Krania to serce świata – zawsze bijące, zawsze otwarte, a jednak gotowe wezwać anielskich strażników z Parhelionu, jeśli nadejdzie kolejny kryzys.
 

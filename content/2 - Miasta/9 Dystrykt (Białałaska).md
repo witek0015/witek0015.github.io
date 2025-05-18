@@ -1,17 +1,23 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[bialalaska.png]]"
 banner_y: 0.086
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Białałaska
+  - Białałasce
+  - Białałaskę
+  - Białałaski
 ---
 > [!quote] „Białałaska to miejsce, gdzie każdy oddech przesycony jest wonią ziół, a każdy krok prowadzi w stronę duchowego objawienia – lub długu u Orzhov. Jedni powiedzą, że to miasto święte, inni, że skorumpowane, ale ja? Ja twierdzę, że to jedyne miejsce, gdzie modlitwa i biznes mogą współistnieć w tak idealnej harmonii.”
 >  — _Pierre Jeoun Tzy, gnomi kronikarz i sceptyk wobec dziesięcin_
 
 ^7058d4
 
-Białałaska, położona w żyznych Południa, jest miastem, które harmonijnie łączy duchowość z praktyczną gospodarką. Dzięki licznym polom uprawnym, pastwiskom i rozległym ogrodom ziół leczniczych, miasto zyskało przydomek **„Spichlerza Dimei”**, zaopatrując w żywność [[Złote Kręgi]]. Jednocześnie, Białałaska jest domem dla **Gildii Orzhov**, która sprawuje faktyczną władzę nad miastem, dzięki swym wpływom zarówno politycznym, jak i religijnym.
+Białałaska, położona w żyznych Południa, jest miastem, które harmonijnie łączy duchowość z praktyczną gospodarką. Dzięki licznym polom uprawnym, pastwiskom i rozległym ogrodom ziół leczniczych, miasto zyskało przydomek **„Spichlerza Dimei”**, zaopatrując w żywność [[Złote Kręgi]]. Jednocześnie, Białałaska jest domem dla **[[Rodzina Orzhov (Orzhov)|Rodziny Orzhov]]**, która sprawuje faktyczną władzę nad miastem, dzięki swym wpływom zarówno politycznym, jak i religijnym.
 # **Dzielnice**
 - **[[Dziesięcina]]**:  
     Dzielnica ta pełni funkcję centrum religijnego miasta. To tutaj znajdują się liczne świątynie poświęcone bogom Dimei. Znajdują się tu także biura poborców podatkowych Orzhov, które gromadzą "dziesięcinę" w postaci plonów i datków.
@@ -63,7 +69,7 @@ Pomimo tego, że miasto jest otwarte na przybyszów, większość populacji to l
     Grupa odpowiedzialna za pracę na polach i w warsztatach, często zmuszona do życia w trudnych warunkach i całkowitej zależności od Orzhov.
 # **System Rządu**
 
-Władzę w Białejłasce sprawuje gildia Orzhov, na czele której stoją Adrai i Teysa Karlov. Decyzje podejmowane są przez Radę Złotego Pasa, złożoną z najbogatszych członków gildii. Formalnie decyzje muszą być zatwierdzane przez duchownych, co czyni miasto teokracją z silnym wpływem oligarchii.
+Władzę w Białejłasce sprawuje gildia Orzhov, na czele której stoją [[Adrai Karlov|Adrai]] i [[Teysa Karlov]]. Decyzje podejmowane są przez **Radę Złotego Pasa**, złożoną z najbogatszych członków gildii. Formalnie decyzje muszą być zatwierdzane przez duchownych, co czyni miasto teokracją z silnym wpływem oligarchii.
 # **Mity i Legendy**
 - **Złote Plony:**  
     Historia cudownego roku, gdy wszystkie plony w mieście były pokryte złotym blaskiem, przypisane błogosławieństwu Athreosa i Karametry.

@@ -4,7 +4,12 @@ tags:
   - gildie
 publish: "true"
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-18
+aliases:
+  - Gruul
+  - Gruule
+  - Gruulom
+  - Gruulami
 ---
 > [!quote] "Ośmiu wodzów, osiem klanów, i jeden cyklop, który próbuje ich utrzymać w ryzach? Przypomina mi to nieudaną próbę ułożenia dzikich węży w pudełku – w końcu któreś ugryzie cię w rękę! Ale hej, jeśli Gruule mają jakieś zasady, to są to zasady pisane krwią i dymem spalonych miast."
 >— _Pierre Jeoun Tzy, gnomi kronikarz i pełen podziwu obserwator chaosu Gruulu_

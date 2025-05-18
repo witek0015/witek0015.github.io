@@ -1,11 +1,16 @@
 ---
 publish: "true"
 created: 2025-05-14
-updated: 2025-05-14
+updated: 2025-05-18
 tags:
   - postaci
 cssclasses:
   - inline-image
+aliases:
+  - Deliff
+  - Deliffa
+  - Deliffem
+  - Deliffie
 ---
 >[!quote] Nie każde wygnanie jest klęską. Czasem to po prostu zbyt wielki umysł, którego dany krąg nie pomieści.
 >— _Pierre Jeoun Tzy, gnomi komentator ludzkiej (i nieludzkiej) desperacji_

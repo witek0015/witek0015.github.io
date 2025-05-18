@@ -7,6 +7,13 @@ tags:
 publish: "true"
 title: Czerwone Pustkowia
 draft: "true"
+aliases:
+  - Czerwonymi Pustkowiami
+  - Czerwonych Pustkowiach
+  - Czerwonych Pustkowi
+  - Czerwonym Pustkowiom
+created: 2025-05-16
+updated: 2025-05-18
 ---
 >[!quote] „Hehe, jakbym miał opisać Czerwone Pustkowia w jednym zdaniu, to rzekłbym: ‘W miejscu, gdzie piasek zdaje się skwierczeć od żaru, człek znajdzie i chłód gór, i zieleń lasu, i wszystko, co między nimi — no i potwory, oczywiście!’ A powiadam wam, co potrafi taki piasek... niech was bogowie strzegą. Całe szczęście, przez tysiąclecia natura odzyskała to, co należało do niej”
 >— _Pierre Jeoun Tzy, gnomi eksplorator i barwny gawędziarz_
@@ -20,8 +27,8 @@ Surowy, północny obszar świata, którego historia i klimat budzą wędrowców
 Niegdysiejszy czerwony odcień pustkowi wiązał się z wysoką zawartością rudy żelaza i innych minerałów, które barwią piasek i pył. Jednakże, w dzisiejszych czasach złoża są już od  dawna wyeksploatowane i wygrała z nimi natura. Wędrowcy często porównują tę krainę do polany skąpanej we krwi – czy to przez legendarny kolor, czy przez legendy o dawnych bitwach, które niegdyś się tu toczyły. Nazwa jest wobec tego dwuznaczna - jednakże zobaczenie czerwonej ziemi, albo terenów podobnych do pustyni jest dość mało prawdopodobne.
 ## Przekazy o Żelaznych Wiatrach
 Mówi się, że czasem nad pustkowiami przetaczają się „żelazne wiatry”, unoszące pozostałościami rud i siekące odsłoniętą skórę jak tysiące miniaturowych ostrzy. Wielu śmiałków kończy wyprawę z podrapaną twarzą i wspomnieniem, że Czerwone Pustkowia potrafią okazać się bardziej bezlitosne od każdej innej pustyni.
-# Wioska Taryathe: Ostoja Życia
-**Taryathe**, leżąca na północno-wschodnich rubieżach, przylega do skrawka zaskakująco żyznej doliny w północnej częsci czerwonych ziem.
+# Wioska [[Wioska Ametystowych Smoków|Teryathe]]: Ostoja Życia
+**Teryathe**, leżąca na północno-wschodnich rubieżach, przylega do skrawka zaskakująco żyznej doliny w północnej częsci czerwonych ziem.
 - **Ametystowe Smoki i Klan**: Mieszkańcy  dumnie kultywują tradycje związane z Niv-Mizzetem. Ich wioska jest niewielką, acz znaczącą ostoją w sercu nieprzyjaznej krainy.
 - **Szlaki Handlowe**: Choć tereny wokół Taryathe bywają trudne do przebycia, to właśnie stąd (rzadko) ruszają wyprawy do Gór Iskiernych w poszukiwaniu rzadkich ametystów i kruszców.
 # [[Góry Iskierne]]: Majestatyczne Szczyty na Horyzoncie

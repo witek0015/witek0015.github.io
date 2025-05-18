@@ -1,17 +1,23 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[darolew baner.jpg]]"
 banner_y: 0.009
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Darolew
+  - Darolewu
+  - Darolewem
+  - Darolewie
 ---
 >[!quote] „Kto nie widział dzikich sztandarów Darolewa powiewających nad bramą główną, ten nie zrozumie, jak gorące jest serce tego miasta. Z jednej strony orkiestra wojskowa grzmi, z drugiej migoczą płomienie kuźni w Żelaznym Placu, a w tle pobrzękują ciężkie wozy z węglem. Darolew to twierdza zbudowana na krwi i metalu, lecz, co śmieszniejsze, wystarczy przekroczyć granicę Złotej Ćwiartki, by zobaczyć przepych rodem z najbogatszych rezydencji Krania. Oto właśnie darolewska natura – twarda i wyrafinowana jednocześnie.”
 >— _Pierre Jeoun Tzy, gnomi kronikarz i miłośnik kontrastów_
 
 ^17a236
 
-**Darolew** to bastion rzemiosła i militarnej siły położony u skraju Czerwonych Pustkowi, założony pierwotnie jako warowna twierdza chroniąca [[Złote Kręgi]] przed najeźdzcami. Z czasem miasto wyrosło na istotny ośrodek przemysłowy, produkujący niezbędne elementy konstrukcyjne i zbrojeniowe dla sąsiednich krain. Chociaż do dziś kojarzy się głównie z maszerującymi regimentami i zadymionymi kuźniami, Darolew to także miejsce niezwykłych kontrastów – dostojna Rada Miejska rezyduje pośród luksusów, zaś ulice tętnią życiem i gwarem różnorodnych kultur.
+**Darolew** to bastion rzemiosła i militarnej siły położony u skraju [[Czerwone Pustkowia|Czerwonych Pustkowi]], założony pierwotnie jako warowna twierdza chroniąca [[Złote Kręgi]] przed najeźdzcami. Z czasem miasto wyrosło na istotny ośrodek przemysłowy, produkujący niezbędne elementy konstrukcyjne i zbrojeniowe dla sąsiednich krain. Chociaż do dziś kojarzy się głównie z maszerującymi regimentami i zadymionymi kuźniami, Darolew to także miejsce niezwykłych kontrastów – dostojna Rada Miejska rezyduje pośród luksusów, zaś ulice tętnią życiem i gwarem różnorodnych kultur.
 # Kultura i Obyczaje
 Mieszkańcy Darolewa cenią sobie dyscyplinę i wytrwałość – nie jest to jednak chłodna surowość pozbawiona radości. Młodzi rekruci w Małej Istarii wraz z nadejściem wieczoru potrafią zorganizować huczne ognisko, podczas którego opowiadają sobie historie o dawnych kampaniach. Na darolewskim Bazarze Blaperlond kupcy wabią klientów żywymi okrzykami, a w Świetlistej Drodze można w nocy zasmakować barwnego widowiska muzyczno-tanecznego, czasem nawet z udziałem egzotycznych przybyszy.
 Ważnym elementem kultury są **święta militarne** – na przykład **[[Dzień Triumfu]]** odbywający się co roku w rocznicę zwycięskiej bitwy nad hordami z pustkowi, gdzie całe miasto przybiera barwy regimentów i urządza pokazy parady. Mieszkańcy pielęgnują także tradycję dorocznych targów kowalstwa i inżynierii, w trakcie których mistrzowie rzemiosła prezentują najnowsze, kunsztowne zbroje i narzędzia.
@@ -26,7 +32,7 @@ Koszary w Małej Istarii zapełniają się rekrutami z całego regionu, często 
 Darolew narodził się jako twierdza mająca chronić trakty komunikacyjne przed napaściami z Czerwonych Pustkowi. Z czasem z prostej warowni przekształcił się w liczącą się siłę militarną i rzemieślniczą. W okresie Epoki Pierwszych Kłótni wyróżnił się szeregiem zwycięstw obronnych, co ugruntowało go jako kluczowy bastion w regionie.
 W kolejnych latach, zwłaszcza podczas tzw. Zimowej Kampanii, Darolew dowiódł przydatności swego strategicznego położenia i zyskał opinię niezdobytej warowni. Rozwój kopalń i hut w okolicach miasta sprawił, że stał się także prężnym ośrodkiem gospodarczym – miano „stolicy węgla” i „kuźni maszyn” rozeszło się do Krania i innych wielkich ośrodków.
 ## Ważne Wydarzenia
-1. **Założenie Warowni Darolewa (Epoka Pierwszych Kłótni)**  
+1. **Założenie Warowni Darolewa ([[3 - Epoka Pierwszych Kłótni|Epoka Pierwszych Kłótni]])**  
     Powstała jako potężna twierdza na skraju Czerwonych Pustkowi, by chronić szlaki handlowe wiodące w głąb kontynentu. Pierwotnie pełniła rolę garnizonu kontrolowanego przez kilka współpracujących klanów krasnoludów i ludzi.
 2. **Pamiętna Bitwa pod Bramą Ognia (ok. 1024 EN)**  
     Gdy hordy dzikich bestii zagrażały miastu, połączone siły Darolewa i wsparcie Boros odniosły zwycięstwo w heroicznej batalii, której relikty w postaci płaskorzeźb zdobią ściany w Małej Istarii.
@@ -54,6 +60,6 @@ Kolebka rozrywek i nocnego życia w Darolewie. Główny deptak rozciągający si
 # Plan miasta
 ![[darolew.jpg|400]]
 # Gospodarcze i Militarne Znaczenie
-Darolew stanowi strategiczny punkt wypadowy wojskowych kampanii przeciwko dzikim rasom i groźnym stworzeniom, które zaludniają Czerwone Pustkowia. W mieście funkcjonują liczne kuźnie i warsztaty produkujące broń oraz maszyny oblężnicze, a dostęp do bogatych złóż węgla w okolicy wspomaga rozwój przemysłu. Bezpośredni eksport elementów konstrukcyjnych (np. szyn, wsporników czy rdzeni do pojazdów magicznych) czyni Darolew kluczowym dostawcą dla wielu miast – w tym dla Kranii i Ostronii.
+Darolew stanowi strategiczny punkt wypadowy wojskowych kampanii przeciwko dzikim rasom i groźnym stworzeniom, które zaludniają Czerwone Pustkowia. W mieście funkcjonują liczne kuźnie i warsztaty produkujące broń oraz maszyny oblężnicze, a dostęp do bogatych złóż węgla w okolicy wspomaga rozwój przemysłu. Bezpośredni eksport elementów konstrukcyjnych (np. szyn, wsporników czy rdzeni do pojazdów magicznych) czyni Darolew kluczowym dostawcą dla wielu miast – w tym dla [[10 Dystrykt (Krania)|Kranii]] i [[1 Dystrykt (Ostronia)|Ostronii]].
 # Władza w Radzie Miasta
 Obecnie radą rządzą dwie istotne osobistości z różnych gildii. **Firri** z Gildii Izzet słynie z nieustannego głodu innowacji, wspierając projekty usprawnienia obronności Darolewa przez nowe technologie i magię. **Beluna** z Gildii Azorius reprezentuje zaś prawo i stabilność, dbając, by zapędy wynalazców i wojskowych nie wykroczyły poza ramy Praw Dystryktowych. Ten duet, choć pozornie sprzeczny, utrzymuje miasto w dynamicznej równowadze między potrzebą bezpieczeństwa a postępem.

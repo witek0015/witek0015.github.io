@@ -5,9 +5,14 @@ tags:
   - miasto
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-14
+updated: 2025-05-18
 cssclasses:
   - inline-image
+aliases:
+  - Ostronia
+  - Ostronii
+  - Ostronią
+  - Ostronię
 ---
 >[!quote] „W Ostronii widziałem statki, które nigdy nie wypłynęły z portu, bo się upiły w karczmie; widziałem rybaków, co zarzucali sieci na gwiazdy, a wciągali w nich alkohol. Najdziwniejsze jednak, że ruiny zamku wciąż trzymają się skały jak uparty muł – ot, magia w najczystszej postaci.”
 >— _Pierre Jeoun Tzy, gnomi wagabunda i kronikarz beztrosko-ponurych realiów_
@@ -18,7 +23,7 @@ cssclasses:
 |-|
 |*Smród ryby i krzyki żeglarzy o poranku* |
 
-Dziś największe i najbardziej ruchliwe miasto portowe [[Tysiąc Mostów]], niegdyś nosiła nazwę **Canteloft** i słynęła z malowniczych klifów oraz zrównoważonej, spokojnej egzystencji. Jednak seria dziejowych zawirowań przeobraziła ją w tłumną metropolię, pełną kontrastów i sekretów. Zamek, kiedyś dumnie wznoszący się nad miastem, dawno obrócił się w ruinę, a jego nazwa uchowała się głównie w formie legend i licznych podań.
+Dziś największe i najbardziej ruchliwe miasto portowe [[Tysiąc Mostów|Tysiąca Mostów]], niegdyś nosiła nazwę **Canteloft** i słynęła z malowniczych klifów oraz zrównoważonej, spokojnej egzystencji. Jednak seria dziejowych zawirowań przeobraziła ją w tłumną metropolię, pełną kontrastów i sekretów. Zamek, kiedyś dumnie wznoszący się nad miastem, dawno obrócił się w ruinę, a jego nazwa uchowała się głównie w formie legend i licznych podań.
 # **Dawne Dzieje: Od Canteloftu do Ostronii**
 ## Złota Era Handlu
 Kilka stuleci temu **Canteloft** była spokojnym portem, wymienianym wśród marynarzy jako idealne miejsce na postój po długiej podróży. Dzięki zasobnym łowiskom i dogodnym szlakom handlowym, miasto rozwijało się w rytmie sunących okrętów, a duch przedsiębiorczości unosił się wśród mieszkańców.

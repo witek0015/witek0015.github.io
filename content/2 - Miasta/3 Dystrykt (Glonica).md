@@ -1,23 +1,28 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[glonica.png]]"
 banner_y: 0.052
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Glonica
+  - Glonicy
+  - Glonicą
 ---
 > [!quote] "Glonica to miejsce, gdzie umarli śnią, a żywi chodzą po ich wspomnieniach. Każda ulica, każdy kamień opowiada historię – czasem szepcze ją do ucha, a czasem krzyczy w twarz." 
 >  — _Pierre Jeoun Tzy, samozwańczy encyklopedysta i, jak twierdzi, „jedyny żywy, który umie słuchać martwych”_
 
 ^151d43
 
-Glonica to wyjątkowe miejsce, gdzie przeszłość spotyka się z teraźniejszością w cieniu wszechobecnej śmierci. Miasto, zbudowane na ruinach dawnej metropolii, łączy monumentalne budowle sprzed wieków z mrocznymi, organicznymi strukturami tworzonymi przez **Rój Golgari**, który rezyduje w jego katakumbach. Najbardziej wysunięte na południe miasto Złotych Kręgów jest zarazem nekropolią i ośrodkiem życia, które rozwija się dzięki sile odradzającej się natury. Stanowi trzon kultu śmierci w [[Złote Kręgi]].
+Glonica to wyjątkowe miejsce, gdzie przeszłość spotyka się z teraźniejszością w cieniu wszechobecnej śmierci. Miasto, zbudowane na ruinach dawnej metropolii, łączy monumentalne budowle sprzed wieków z mrocznymi, organicznymi strukturami tworzonymi przez **[[Rój Golgari]]**, który rezyduje w jego katakumbach. Najbardziej wysunięte na południe miasto Złotych Kręgów jest zarazem nekropolią i ośrodkiem życia, które rozwija się dzięki sile odradzającej się natury. Stanowi trzon kultu śmierci w [[Złote Kręgi|Złotych Kręgach]].
 # **Kultura i Obyczaje**
-Glonica jest miejscem, w którym kult zmarłych odgrywa kluczową rolę w codziennym życiu mieszkańców. Wiara w cykl życia i śmierci, promowana przez **Rój Golgari**, przenika każdy aspekt kultury.
+Glonica jest miejscem, w którym kult zmarłych odgrywa kluczową rolę w codziennym życiu mieszkańców. Wiara w cykl życia i śmierci, promowana przez **[[Rój Golgari]]**, przenika każdy aspekt kultury.
 - **Codzienne Obyczaje:**  
     Mieszkańcy oddają cześć zmarłym przodkom, nosząc amulety z ich imionami i regularnie odwiedzając grobowce rodzinne. Śmierć nie jest tu traktowana jako koniec, lecz jako przemiana w kolejnym cyklu istnienia.
 - **Architektura:**  
-    Budynki miasta są unikalnym połączeniem starożytnych ruin i nowoczesnych, organicznych struktur Golgari, często pokrytych winoroślami i grzybami.
+    Budynki miasta są unikalnym połączeniem starożytnych ruin i nowoczesnych, organicznych struktur [[Rój Golgari (Golgari)|Roju Golgari]], często pokrytych winoroślami i grzybami.
 - **Pochówek:**  
     Zmarłych chowa się w rozległych katakumbach, które rozciągają się pod miastem. Najzamożniejsi mają grobowce zbudowane w starych wieżach, podczas gdy biedniejsi spoczywają w wspólnych kryptach.
 # **Święta**
@@ -29,7 +34,7 @@ Glonica jest miejscem, w którym kult zmarłych odgrywa kluczową rolę w codzie
 	Mieszkańcy sprzątają cmentarze, odprawiają rytuały czci zmarłych, stawiają warty przy grobowcach.
 # **Mieszkańcy**
 Glonica zamieszkiwana jest przez wyjątkową mieszankę ras i grup społecznych.
-- **Rój Golgari:**  
+- **[[Rój Golgari]]:**  
     Kluczowa siła w mieście. Składa się z elfów, trolli i ludzi, którzy wierzą w harmonię między śmiercią a odnową.
 - **Kupcy i Rzemieślnicy:**  
     Znani z handlu ziołami, truciznami i produktami rolnymi uprawianymi w katakumbach.
@@ -72,7 +77,7 @@ Glonica zamieszkiwana jest przez wyjątkową mieszankę ras i grup społecznych.
 # **Znaczenie w Świecie**
 Glonica jest kluczowym eksporterem ziół leczniczych, trucizn i magicznych komponentów. Jest także duchowym centrum dla tych, którzy czczą cykl życia i śmierci, przyciągając pielgrzymów z całego kontynentu.
 # **Struktura Władzy**
-- **Rój Golgari:**  
+- **[[Rój Golgari]]:**  
     Stanowi faktyczną władzę w mieście, kierując gospodarką i kultem zmarłych.
 - **Rada Krypt:**  
     Składa się z przedstawicieli najstarszych rodów i przywódców Roju, podejmuje decyzje dotyczące polityki miasta.

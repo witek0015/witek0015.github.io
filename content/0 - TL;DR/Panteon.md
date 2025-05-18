@@ -7,12 +7,13 @@ publish: "true"
 cssclasses:
   - showoff-image
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-18
 ---
 | ![[Star_Chart_Header.jpg]]                        |
 | ------------------------------------------------- |
 | *Konstelacje odpowiadające poszczególnym bóstwom* |
-# Ephara
+
+# [[Bogini Ephara]]
 **Sfera**: Architektura, ład społeczny, rozwój kulturalny  
 **Charakterystyka**:
 - Patronka rzemieślników, budowniczych, prawodawców i władców miast.
@@ -22,7 +23,7 @@ updated: 2025-05-12
 - **Msza Poranna w Alei Kolumn**: W miastach, gdzie stoi świątynia Ephary, o świcie wędruje procesja adeptów, recytujących „prawa i obowiązki obywatela”. Symbolizuje wspólnotę i codzienne budowanie lepszego miasta.
 ## Ważne Święta
 **Dzień Fundamentu** (05-04) Raz w roku obchodzony jest uroczysty festyn, podczas którego ogłaszane są duże inwestycje miejskie i przyjmowane nowe prawo. Kapłani błogosławią plany architektoniczne i narzędzia robotników.
-# Bogini Karametra
+# [[Bogini Karametra]]
 **Sfera**: Żyzność ziemi, natura, rodzina  
 **Charakterystyka**:
 - Macierzyńska opiekunka pól uprawnych, pasterskich łąk i szczęścia domowego.
@@ -32,7 +33,7 @@ updated: 2025-05-12
 - **Wieńczenie Nowej Matki**: Kiedy na świat przychodzi dziecko, w obecności kapłanów Karametry na głowie matki kładzie się wianek z kwiatów i kłosów, dziękując bogini za pomyślność w rodzinie.
 ## Ważne Święta
 **Święto Wiosennych Pąków** (01.05) Wraz z pierwszymi kwiatami obchodzony jest festiwal, w którym kobiety i dzieci przewodzą tańcom wśród pól, a kapłani wzywają Karametrę, by obdarzyła świat obfitością i szczęściem domowym.
-# Bogini Pharika
+# [[Bogini Pharika]]
 **Sfera**: Medycyna, alchemia, toksyczne substancje  
 **Charakterystyka**:
 - Uosabia dwie strony medalu: leczenie lub śmierć. Ucieleśnia alchemiczną potęgę – krew, jad i szansę na ocalenie.
@@ -40,9 +41,9 @@ updated: 2025-05-12
 ## Kult i Rytuały
 - **Misa Przemiany**: Podczas rytuału oczyszczającego, kapłan lub zielarz miesza różne napary w jednym naczyniu, prosząc Pharikę o to, by substancja okazała się lekarstwem, nie trucizną.
 - **Dotyk Węży**: Podczas inicjacji na wyższego kapłana, kandydat musi pogłaskać jadowitego węża, symbolizując gotowość mierzenia się ze śmiercionośnymi sekretami.
-## Kult i Rytuały
+## Ważne Święta
 **Noc Poskromienia Jadu** (22.09)  W najciemniejszą noc roku adepci Phariki publicznie prezentują nowe odkrycia w zakresie leków i trucizn, dzieląc się w kontrolowany sposób efektami prób na zwierzętach lub ochotnikach.
-# Bóg Athreos
+# [[Bóg Athreos]]
 **Sfera**: Granica życia i śmierci, przewodnik dusz  
 **Charakterystyka**:
 - Milczący strażnik przejścia na Tamten Świat, pilnujący, by dusze nie błąkały się pomiędzy wymiarami.
@@ -52,7 +53,7 @@ updated: 2025-05-12
 - **Rytuał Ciszy**: Raz w tygodniu kapłani Athreosa odprawiają w świątyniach kojące czuwanie, podczas którego nie wolno mówić ani używać światła. Symbolizuje to wędrówkę zmarłych w pełnym milczeniu.
 ## Ważne Święta
 **Wieczór Rozgrzeszenia** - (15.11) Raz do roku rodziny zmarłych przychodzą do kaplic, palą świece i proszą Athreosa o przebaczenie błędów, które dusza mogła nie zdołać odkupić za życia.
-# Bóg Iroas
+# [[Bóg Iroas]]
 **Sfera**: Walka, odwaga, dyscyplina wojskowa  
 **Charakterystyka**:
 - Patron dzielnych wojowników, którzy pragną walczyć z honorem, stronią od plugawych metod.
@@ -61,8 +62,9 @@ updated: 2025-05-12
 - **Przysięga Hełmu**: Żołnierze przed wyruszeniem na kampanię zakładają poświęcony hełm i wypowiadają słowa przysięgi służenia sprawiedliwej sprawie.
 - **Ognisko Bohaterów**: Zwycięscy wojownicy palą trofea pokonanych, a kapłani Iroasa przemawiają o konieczności okazania łaski jeńcom, jeśli ci nie splamili się nikczemnością.
 Ważne Święta
+## Ważne Święta
 **Dzień Kopii** - (10.02) Podczas tego corocznego turnieju drużyny walczą w honorowych starciach, bez zabójczych ciosów. Zwycięska drużyna otrzymuje błogosławieństwo Iroasa, co ma zapewnić im powodzenie na prawdziwym polu bitwy.
-# Bóg Keranos
+# [[Bóg Keranos]]
 **Sfera**: Burze, gromy, nagłe olśnienia  
 **Charakterystyka**:
 - Symbolizuje nieprzewidywalność natury oraz moc natchnienia – zarówno w sztuce, jak i nauce.
@@ -72,7 +74,7 @@ Ważne Święta
 - **Wieczerza Błyskawicy**: Raz na kwartał mieszkańcy zbierają się na noc pełną spektaklu wyładowań – kapłani przywołują drobne grzmoty, a artyści tworzą spontaniczne dzieła w odpowiedzi na gromy.
 ## Ważne Święta
 **Dzień Głosu Burzy** (25.03) Wszyscy, którzy chcą docenić Keranosa, muszą wygłosić publicznie myśl lub wiersz – wierzą, że ta chwila może przynieść nagłą inspirację bądź… burzliwe konsekwencje.
-# Bogini Klothys
+# [[Bogini Klothys]]
 **Sfera**: Los, nić życia, kosmiczny ład  
 **Charakterystyka**:
 - Strażniczka wypełniania się kosmicznych planów, cicho kieruje biegami wydarzeń.
@@ -82,7 +84,7 @@ Ważne Święta
 - **Cicha Przędza**: Podczas długich ceremonii adepci siedzą w kręgu i przewijają kłębek wełny, skupiając się na medytacji nad nieuchronnością losu.
 ## Ważne Święta
 **Tkanie Przesileń** W okolicach przesilenia letniego i zimowego (zwykle np. 30.04 oraz 30.07) Podczas przesilenia letniego i zimowego kapłani publicznie tkają symboliczną tkaninę. Po zakończeniu uroczystości tkaninę pali się, by wskazać, że nawet największe dzieło może się dopełnić i przeminąć.
-# Bóg Kruphix
+# [[Bóg Kruphix]]
 **Sfera**: Nieskończoność, poza granicami poznania, płynący czas  
 **Charakterystyka**:
 - Reprezentuje to, co jest poza zasięgiem zmysłów, łącznie z głęboką wiedzą o odległych rzeczywistościach.
@@ -92,7 +94,7 @@ Ważne Święta
 - **Misa Wiecznego Odbicia**: W świątyniach Kruphiksa stoi lustro wody w misie, gdzie pielgrzymi próbują dostrzec fragment przyszłości lub dawno minionych zdarzeń. Niewielu zyskuje zrozumiałe wizje.
 ## Ważne Święta
 **Dzień Dwojga Horyzontów** - (06.06) Gdy słońce i księżyc pojawiają się razem na nieboskłonie, wyznawcy zbierają się, by celebrować moment, w którym „przeszłość i przyszłość” nakładają się w jednym punkcie.
-# Bóg Mogis
+# [[Bóg Mogis]]
 **Sfera**: Wojna destrukcyjna, chaos, nienawiść  
 **Charakterystyka**:
 - Patron najokrutniejszych form walki, zdziczenia i szału berserkerskiego.

@@ -4,7 +4,9 @@ tags:
   - historia
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-11
+updated: 2025-05-18
+aliases:
+  - Epoce Wielkich Innowacji
 ---
 Był to **złoty okres technologiczny** w historii kontynentu. Zaczęty **męczeństwem Elhazara**, zakończony **rosnącymi napięciami**, okres ten ukształtował **świat magii i technologii** na kolejne tysiąclecia. Innowacje, które wtedy powstały, są fundamentem **współczesnej cywilizacji** – od prototypów magicznych tramwajów po portale między miastami. Jednak **konflikty między konserwatywnymi i postępowymi siłami** zapowiadały już nadchodzące **wieki chaosu**. ^28920c
 # **Wydarzenia**

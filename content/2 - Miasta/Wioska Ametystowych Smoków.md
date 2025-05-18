@@ -8,15 +8,25 @@ tags:
   - miejsce
 banner_lock: true
 publish: "true"
+aliases:
+  - Teryathe
+created: 2025-05-16
+updated: 2025-05-18
+cssclasses:
+  - inline-image
 ---
 > [!quote] „Niewyczerpane złoża mizzium w Taryathe to pozorny dar natury, ale zauważyłem, że im twardszy metal, tym łatwiej łamie się przyjaźnie. Czasem łatwiej ujarzmić góry niż ludzkie uprzedzenia.”
 > — _Pierre Jeoun Tzy, gnomi badacz i niepozorny obserwator wielkich sporów_  
 
+| ![[Wioska Szzafirowych Smoków.png]]|
+|-|
+| *Spokój i tradycja to domena Teryathe*|
+
 Niewielka osada położona w górzystym regionie Czerwonych Pustkowi, znana ze swych bogatych złóż metalu zwanego [[Mizzium]]. Od pokoleń zamieszkiwana przez rdzenny lud o złożonej strukturze plemiennej, Taryathe stanowi obecnie obiekt zainteresowania podróżników, poszukiwaczy przygód oraz uczonych badających lokalne tradycje i zasoby naturalne. Miasteczko rodzinne [[Deshay Kha’liana Niv-Mizzet]].
 # Etymologia nazwy
-Nazwa „Taryathe” wywodzi się prawdopodobnie z archaicznego dialektu plemiennego, w którym słowo „tarya” oznacza „zbocze górskie” lub „południowy stok”, natomiast „the” tłumaczy się jako „bezpieczny”. Według miejscowych legend, pierwsi osadnicy nadali tę nazwę, wierząc, że chronieni są przez duchy gór przed niebezpieczeństwami czyhającymi na nizinach.
+Nazwa „Teryathe” wywodzi się prawdopodobnie z archaicznego dialektu plemiennego, w którym słowo „tarya” oznacza „zbocze górskie” lub „południowy stok”, natomiast „the” tłumaczy się jako „bezpieczny”. Według miejscowych legend, pierwsi osadnicy nadali tę nazwę, wierząc, że chronieni są przez duchy gór przed niebezpieczeństwami czyhającymi na nizinach.
 # Położenie geograficzne
-Taryathe usytuowana jest w wąskiej, skalistej dolinie między pasmami [[Góry Iskierne]], słynącymi z zasobów mizzium. Wioskę otacza surowy teren:
+Teryathe usytuowana jest w wąskiej, skalistej dolinie między pasmami [[Góry Iskierne|Gór Iskiernych]], słynącymi z zasobów mizzium. Wioskę otacza surowy teren:
 
 - **Od północy** – wysokie szczyty o stromych zboczach, trudno dostępne nawet dla doświadczonych wspinaczy.
 - **Od południa** – niewielkie [[Jezioro Uttarya]], zasilane wodami topniejących śniegów.
@@ -26,13 +36,13 @@ Z uwagi na ukształtowanie terenu, Taryathe przez większość roku pozostaje od
 
 # Historia
 ## Początki osadnictwa
-Pierwsze ślady obecności smoczorodnych w dolinie Taryathe datowane są na okres wczesnych migracji plemion północy. Według ustnych przekazów, grupa śmiałków osiedliła się tam, uciekając przed konfliktami z innymi klanami. Znalezienie bezpiecznej doliny oraz dostęp do wody i zwierzyny łownej pozwoliło im założyć trwałą osadę. Legenda głosi, że przodkowie obecnych mieszkańców Taryathe przynieśli ze sobą smocze jajo - [[Niv-Mizzet]], dbając o nie i pozwalając wykluć się najbardziej znanemu smokowi naszych czasów.
+Pierwsze ślady obecności smoczorodnych w dolinie Teryathe datowane są na okres wczesnych migracji plemion północy. Według ustnych przekazów, grupa śmiałków osiedliła się tam, uciekając przed konfliktami z innymi klanami. Znalezienie bezpiecznej doliny oraz dostęp do wody i zwierzyny łownej pozwoliło im założyć trwałą osadę. Legenda głosi, że przodkowie obecnych mieszkańców Teryathe przynieśli ze sobą smocze jajo, dbając o nie i pozwalając wykluć się najbardziej znanemu smokowi naszych czasów.
 ## Wiek Ekspansji
-Wraz z odkryciem złóż mizzium w pobliżu wioski, Taryathe zaczęła się rozrastać. Rosnąca liczba młodych wojowników i rzemieślników stworzyła podwaliny lokalnej gospodarki. W tym okresie powstały też pierwsze umocnienia i świątynne totemy, symbolizujące rosnące poczucie tożsamości plemiennej.
+Wraz z odkryciem złóż mizzium w pobliżu wioski, Teryathe zaczęła się rozrastać. Rosnąca liczba młodych wojowników i rzemieślników stworzyła podwaliny lokalnej gospodarki. W tym okresie powstały też pierwsze umocnienia i świątynne totemy, symbolizujące rosnące poczucie tożsamości plemiennej.
 ## Konflikty i Wygnania
 W ciągu kolejnych stuleci dochodziło do licznych starć z sąsiednimi klanami, pragnącymi przejąć kontrolę nad złożami mizzium. Wewnętrzne konflikty o władzę i zasoby nieraz skutkowały wygnaniami. Część wojowników opuszczała wioskę, co prowadziło do rozproszenia plemienia i utraty cennych tradycji. Pomimo tego, Taryathe zachowała niezależność dzięki surowym obrzędom jednoczącym społeczność.
 ## Czasy Współczesne
-Obecnie Taryathe stoi na rozdrożu – z jednej strony wciąż kieruje się tradycjami i mową przodków, z drugiej strony do wioski coraz częściej docierają „obcy”, kuszeni bogactwem złóż naturalnych, nie wiedzących jednak o mizzium. Napięcia między konserwatywną Starszyzną a młodszymi, otwartymi na handel mieszkańcami tworzą burzliwe tło dla rozwoju osady.
+Obecnie Taryathe stoi na rozdrożu – z jednej strony wciąż kieruje się tradycjami i mową przodków, z drugiej strony do wioski coraz częściej docierają „obcy”, kuszeni bogactwem złóż naturalnych, nie wiedzących jednak o Mizzium. Napięcia między konserwatywną Starszyzną a młodszymi, otwartymi na handel mieszkańcami tworzą burzliwe tło dla rozwoju osady.
 # Ustrój i struktura społeczna
 ## Starszyzna
 Władzę w Taryathe sprawuje rada Starszyzny, złożona z najstarszych i najbardziej doświadczonych członków plemienia. Decydują w kwestiach politycznych, prawnych i kulturowych, dbając o zachowanie tradycyjnych obrzędów oraz pielęgnowanie relacji z duchami gór.

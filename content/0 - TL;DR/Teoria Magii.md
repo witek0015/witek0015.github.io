@@ -3,7 +3,7 @@ tags:
   - podsumowanie
 publish: "true"
 created: 2025-05-14
-updated: 2025-05-16
+updated: 2025-05-18
 cssclasses:
   - inline-image
 ---
@@ -32,10 +32,11 @@ Magia jest **niestabilnym systemem**, a jej użytkownicy są bardziej **hakerami
 Niektóre teorie sugerują, że nadmierne korzystanie z magii może doprowadzić do **magicznego zanieczyszczenia**, gdzie zaklęcia zaczynają reagować w nieprzewidywalny sposób. Stąd istnieją regiony, w których magia działa inaczej – **anomalia manalitu**, **strefy martwe**, czy nawet obszary, gdzie raz rzucone zaklęcie trwa w nieskończoność.
 # **Magia a Społeczeństwo**
 Magia jest **jednocześnie błogosławieństwem i zagrożeniem**. Istnieją kraje i miasta, które uważają ją za **narzędzie postępu**, i takie, które traktują ją jako **zagrożenie, które należy kontrolować**.
-- **[[4 Dystrykt (Lubrzeg)]]** – centrum nauki magicznej, gdzie powstały pierwsze spisane prawa magii.
-- **[[9 Dystrykt (Białałaska)]]** – religijne centrum, gdzie magia kapłańska jest uważana za jedyny akceptowalny rodzaj magii.
-- **[[7 Dystrykt (Darolew)]]** – traktuje magię jako narzędzie wojny i strategii.
-- **[[3 Dystrykt (Glonica)]]** – bada nekromancję i rytuały śmierci, balansując na granicy tabu.
+- **[[4 Dystrykt (Lubrzeg)|Lubrzeg]]** – centrum nauki magicznej, gdzie powstały pierwsze spisane prawa magii.
+- **[[9 Dystrykt (Białałaska)|Białałaska]]** – religijne centrum, gdzie magia kapłańska jest uważana za jedyny akceptowalny rodzaj magii.
+- **[[7 Dystrykt (Darolew)|Darolew]]** – traktuje magię jako narzędzie wojny i strategii.
+- **[[3 Dystrykt (Glonica)|Glonica]]** – bada nekromancję i rytuały śmierci, balansując na granicy tabu.
+
 > [!quote] „Nie ma magii bez ryzyka. Nie dlatego, że tak ktoś zaplanował, ale dlatego, że nikt nie rozumie, jak działa.”  
 > *— Wielki Architekt Xonir, Lubrzeg*
 # **Podsumowanie**

@@ -1,15 +1,23 @@
 ---
-tags: miasto
+tags:
+  - miasto
 banner: "[[STAROGRÓD.jpg]]"
 banner_y: 0.257
 publish: "true"
+aliases:
+  - Starogród
+  - Starogrodem
+  - Starogrodzie
+  - Starogrodu
+created: 2025-05-16
+updated: 2025-05-18
 ---
 > [!quote] „Starogród to miejsce, gdzie historia i chaos splatają się w niekończącym tańcu. Dla jednych to ruina, dla innych – dom. Ale jedno jest pewne: żaden kronikarz, nawet tak wnikliwy jak ja, nie odważy się tu wejść bez solidnego uzbrojenia – i nie mówię tu tylko o notatniku.”  
 > — _Pierre Jeoun Tzy, autor, który zawsze trzyma jedno oko na kamieniach, a drugie na Gruulach._
 
-**Starogród**, niegdyś wspaniałe miasto, stanowi dziś obraz zniszczenia i brutalnej siły. Położony na spalonej ziemi [[Czerwone Pustkowia]], w sercu północnych terenów, stał się domem dla **Klanów Gruulu**, które zamieszkały tam po **[[Wielka Wojna z Północą]]**. Choć przeszłość miasta opowiada o jego dawnej chwale, obecnie jest to miejsce surowe, dzikie i pełne chaosu, odzwierciedlające naturę jego nowych mieszkańców.
+**Starogród**, niegdyś wspaniałe miasto, stanowi dziś obraz zniszczenia i brutalnej siły. Położony na spalonej ziemi [[Czerwone Pustkowia|Czerwonych Pustkowi]], w sercu północnych terenów, stał się domem dla **[[Klany Gruulu (Gruul)|Klanów Gruulu]]**, które zamieszkały tam po **[[Wielka Wojna z Północą|Wielkiej Wojnie z Północą]]**. Choć przeszłość miasta opowiada o jego dawnej chwale, obecnie jest to miejsce surowe, dzikie i pełne chaosu, odzwierciedlające naturę jego nowych mieszkańców.
 # **Opis Miasta**
-Starogród to labirynt spalonych budynków, popękanych murów i zgliszcz dawnej świetności. Nad miastem wznoszą się ruiny zamku, znanego jako **Twierdza Cieni**, który niegdyś był symbolem władzy i ochrony. Obecnie to miejsce zamieszkują wodzowie Gruulu, a jego korytarze pełne są graffiti, symboli klanowych i improwizowanych ołtarzy ku czci **Klothysa**, boga przeznaczenia.
+Starogród to labirynt spalonych budynków, popękanych murów i zgliszcz dawnej świetności. Nad miastem wznoszą się ruiny zamku, znanego jako **Twierdza Cieni**, który niegdyś był symbolem władzy i ochrony. Obecnie to miejsce zamieszkują wodzowie Gruulu, a jego korytarze pełne są graffiti, symboli klanowych i improwizowanych ołtarzy ku czci **[[Bogini Klothys]]**, bogini przeznaczenia.
 - **Ruiny Dawnej Świątyni Iroasa:**  
     Zdewastowana przez Gruuli świątynia wojny i honoru, obecnie używana jako arena do brutalnych rytuałów i pojedynków.
 - **Plac Gruulu:**  
@@ -33,7 +41,7 @@ Starogród to labirynt spalonych budynków, popękanych murów i zgliszcz dawnej
 - **Skażone Źródło:**  
     Pozostałość dawnego akweduktu, teraz pełna magicznie skażonej wody. Gruule wierzą, że picie z tego źródła daje siłę, choć cena jest wysoka.
 - **Twierdza Cieni:**  
-    Dawny zamek królewski, teraz pełen graffiti i klanowych symboli. To miejsce tajemnic i spisków, a także siedziba **Cisarzima**, wodza Gruulu.
+    Dawny zamek królewski, teraz pełen graffiti i klanowych symboli. To miejsce tajemnic i spisków, a także siedziba **[[Cisarzim|Cisarzima]]**, wodza Gruulu.
 # **Ciekawostki**
 - **Przepowiednia Klothysa:**  
     Gruule wierzą, że Starogród nigdy nie zostanie odbudowany, gdyż jego los jest nierozerwalnie związany z przeznaczeniem klanów.
